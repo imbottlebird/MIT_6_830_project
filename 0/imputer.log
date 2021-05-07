@@ -1,0 +1,2255 @@
+2021-05-08 03:21:46,312 [INFO]  
+========== start: fit model
+2021-05-08 03:21:46,313 [WARNING]  Already bound, ignoring bind()
+2021-05-08 03:21:46,717 [INFO]  Epoch[0] Batch [0-4]	Speed: 238.68 samples/sec	cross-entropy=16.624695	petal length-accuracy=0.000000
+2021-05-08 03:21:46,856 [INFO]  Epoch[0] Train-cross-entropy=16.001578
+2021-05-08 03:21:46,856 [INFO]  Epoch[0] Train-petal length-accuracy=0.000000
+2021-05-08 03:21:46,856 [INFO]  Epoch[0] Time cost=0.533
+2021-05-08 03:21:46,891 [INFO]  Saved checkpoint to "0/model-0000.params"
+2021-05-08 03:21:47,030 [INFO]  Epoch[0] Validation-cross-entropy=13.361921
+2021-05-08 03:21:47,030 [INFO]  Epoch[0] Validation-petal length-accuracy=0.000000
+2021-05-08 03:21:47,375 [INFO]  Epoch[1] Batch [0-4]	Speed: 236.88 samples/sec	cross-entropy=16.444665	petal length-accuracy=0.000000
+2021-05-08 03:21:47,515 [INFO]  Epoch[1] Train-cross-entropy=15.824350
+2021-05-08 03:21:47,515 [INFO]  Epoch[1] Train-petal length-accuracy=0.000000
+2021-05-08 03:21:47,515 [INFO]  Epoch[1] Time cost=0.484
+2021-05-08 03:21:47,551 [INFO]  Saved checkpoint to "0/model-0001.params"
+2021-05-08 03:21:47,691 [INFO]  Epoch[1] Validation-cross-entropy=13.219309
+2021-05-08 03:21:47,691 [INFO]  Epoch[1] Validation-petal length-accuracy=0.000000
+2021-05-08 03:21:48,056 [INFO]  Epoch[2] Batch [0-4]	Speed: 221.83 samples/sec	cross-entropy=16.271228	petal length-accuracy=0.000000
+2021-05-08 03:21:48,203 [INFO]  Epoch[2] Train-cross-entropy=15.652344
+2021-05-08 03:21:48,204 [INFO]  Epoch[2] Train-petal length-accuracy=0.000000
+2021-05-08 03:21:48,204 [INFO]  Epoch[2] Time cost=0.513
+2021-05-08 03:21:48,242 [INFO]  Saved checkpoint to "0/model-0002.params"
+2021-05-08 03:21:48,377 [INFO]  Epoch[2] Validation-cross-entropy=13.078560
+2021-05-08 03:21:48,377 [INFO]  Epoch[2] Validation-petal length-accuracy=0.000000
+2021-05-08 03:21:48,729 [INFO]  Epoch[3] Batch [0-4]	Speed: 229.04 samples/sec	cross-entropy=16.099545	petal length-accuracy=0.000000
+2021-05-08 03:21:48,869 [INFO]  Epoch[3] Train-cross-entropy=15.482011
+2021-05-08 03:21:48,870 [INFO]  Epoch[3] Train-petal length-accuracy=0.000000
+2021-05-08 03:21:48,870 [INFO]  Epoch[3] Time cost=0.493
+2021-05-08 03:21:48,895 [INFO]  Saved checkpoint to "0/model-0003.params"
+2021-05-08 03:21:49,022 [INFO]  Epoch[3] Validation-cross-entropy=12.938834
+2021-05-08 03:21:49,023 [INFO]  Epoch[3] Validation-petal length-accuracy=0.000000
+2021-05-08 03:21:49,377 [INFO]  Epoch[4] Batch [0-4]	Speed: 231.88 samples/sec	cross-entropy=15.929066	petal length-accuracy=0.000000
+2021-05-08 03:21:49,526 [INFO]  Epoch[4] Train-cross-entropy=15.312915
+2021-05-08 03:21:49,527 [INFO]  Epoch[4] Train-petal length-accuracy=0.000000
+2021-05-08 03:21:49,527 [INFO]  Epoch[4] Time cost=0.504
+2021-05-08 03:21:49,554 [INFO]  Saved checkpoint to "0/model-0004.params"
+2021-05-08 03:21:49,691 [INFO]  Epoch[4] Validation-cross-entropy=12.799793
+2021-05-08 03:21:49,691 [INFO]  Epoch[4] Validation-petal length-accuracy=0.000000
+2021-05-08 03:21:50,064 [INFO]  Epoch[5] Batch [0-4]	Speed: 223.53 samples/sec	cross-entropy=15.759538	petal length-accuracy=0.000000
+2021-05-08 03:21:50,211 [INFO]  Epoch[5] Train-cross-entropy=15.144831
+2021-05-08 03:21:50,211 [INFO]  Epoch[5] Train-petal length-accuracy=0.000000
+2021-05-08 03:21:50,211 [INFO]  Epoch[5] Time cost=0.520
+2021-05-08 03:21:50,233 [INFO]  Saved checkpoint to "0/model-0005.params"
+2021-05-08 03:21:50,363 [INFO]  Epoch[5] Validation-cross-entropy=12.661267
+2021-05-08 03:21:50,363 [INFO]  Epoch[5] Validation-petal length-accuracy=0.000000
+2021-05-08 03:21:50,717 [INFO]  Epoch[6] Batch [0-4]	Speed: 230.85 samples/sec	cross-entropy=15.590789	petal length-accuracy=0.000000
+2021-05-08 03:21:50,865 [INFO]  Epoch[6] Train-cross-entropy=14.977598
+2021-05-08 03:21:50,865 [INFO]  Epoch[6] Train-petal length-accuracy=0.000000
+2021-05-08 03:21:50,865 [INFO]  Epoch[6] Time cost=0.502
+2021-05-08 03:21:50,883 [INFO]  Saved checkpoint to "0/model-0006.params"
+2021-05-08 03:21:51,056 [INFO]  Epoch[6] Validation-cross-entropy=12.523150
+2021-05-08 03:21:51,057 [INFO]  Epoch[6] Validation-petal length-accuracy=0.000000
+2021-05-08 03:21:51,415 [INFO]  Epoch[7] Batch [0-4]	Speed: 229.84 samples/sec	cross-entropy=15.422697	petal length-accuracy=0.000000
+2021-05-08 03:21:51,565 [INFO]  Epoch[7] Train-cross-entropy=14.811097
+2021-05-08 03:21:51,565 [INFO]  Epoch[7] Train-petal length-accuracy=0.000000
+2021-05-08 03:21:51,565 [INFO]  Epoch[7] Time cost=0.508
+2021-05-08 03:21:51,592 [INFO]  Saved checkpoint to "0/model-0007.params"
+2021-05-08 03:21:51,724 [INFO]  Epoch[7] Validation-cross-entropy=12.385380
+2021-05-08 03:21:51,724 [INFO]  Epoch[7] Validation-petal length-accuracy=0.000000
+2021-05-08 03:21:52,077 [INFO]  Epoch[8] Batch [0-4]	Speed: 231.09 samples/sec	cross-entropy=15.255181	petal length-accuracy=0.000000
+2021-05-08 03:21:52,223 [INFO]  Epoch[8] Train-cross-entropy=14.645248
+2021-05-08 03:21:52,223 [INFO]  Epoch[8] Train-petal length-accuracy=0.000000
+2021-05-08 03:21:52,223 [INFO]  Epoch[8] Time cost=0.499
+2021-05-08 03:21:52,250 [INFO]  Saved checkpoint to "0/model-0008.params"
+2021-05-08 03:21:52,381 [INFO]  Epoch[8] Validation-cross-entropy=12.247929
+2021-05-08 03:21:52,381 [INFO]  Epoch[8] Validation-petal length-accuracy=0.000000
+2021-05-08 03:21:52,735 [INFO]  Epoch[9] Batch [0-4]	Speed: 228.53 samples/sec	cross-entropy=15.088192	petal length-accuracy=0.000000
+2021-05-08 03:21:52,888 [INFO]  Epoch[9] Train-cross-entropy=14.480003
+2021-05-08 03:21:52,888 [INFO]  Epoch[9] Train-petal length-accuracy=0.000000
+2021-05-08 03:21:52,888 [INFO]  Epoch[9] Time cost=0.507
+2021-05-08 03:21:52,917 [INFO]  Saved checkpoint to "0/model-0009.params"
+2021-05-08 03:21:53,046 [INFO]  Epoch[9] Validation-cross-entropy=12.110785
+2021-05-08 03:21:53,046 [INFO]  Epoch[9] Validation-petal length-accuracy=0.000000
+2021-05-08 03:21:53,401 [INFO]  Epoch[10] Batch [0-4]	Speed: 229.59 samples/sec	cross-entropy=14.921712	petal length-accuracy=0.000000
+2021-05-08 03:21:53,541 [INFO]  Epoch[10] Train-cross-entropy=14.315343
+2021-05-08 03:21:53,541 [INFO]  Epoch[10] Train-petal length-accuracy=0.000000
+2021-05-08 03:21:53,541 [INFO]  Epoch[10] Time cost=0.495
+2021-05-08 03:21:53,574 [INFO]  Saved checkpoint to "0/model-0010.params"
+2021-05-08 03:21:53,706 [INFO]  Epoch[10] Validation-cross-entropy=11.973957
+2021-05-08 03:21:53,706 [INFO]  Epoch[10] Validation-petal length-accuracy=0.000000
+2021-05-08 03:21:54,055 [INFO]  Epoch[11] Batch [0-4]	Speed: 234.14 samples/sec	cross-entropy=14.755739	petal length-accuracy=0.000000
+2021-05-08 03:21:54,195 [INFO]  Epoch[11] Train-cross-entropy=14.151264
+2021-05-08 03:21:54,195 [INFO]  Epoch[11] Train-petal length-accuracy=0.000000
+2021-05-08 03:21:54,196 [INFO]  Epoch[11] Time cost=0.489
+2021-05-08 03:21:54,228 [INFO]  Saved checkpoint to "0/model-0011.params"
+2021-05-08 03:21:54,357 [INFO]  Epoch[11] Validation-cross-entropy=11.837456
+2021-05-08 03:21:54,358 [INFO]  Epoch[11] Validation-petal length-accuracy=0.000000
+2021-05-08 03:21:54,705 [INFO]  Epoch[12] Batch [0-4]	Speed: 235.27 samples/sec	cross-entropy=14.590278	petal length-accuracy=0.000000
+2021-05-08 03:21:54,846 [INFO]  Epoch[12] Train-cross-entropy=13.987771
+2021-05-08 03:21:54,846 [INFO]  Epoch[12] Train-petal length-accuracy=0.000000
+2021-05-08 03:21:54,847 [INFO]  Epoch[12] Time cost=0.489
+2021-05-08 03:21:54,871 [INFO]  Saved checkpoint to "0/model-0012.params"
+2021-05-08 03:21:55,005 [INFO]  Epoch[12] Validation-cross-entropy=11.701293
+2021-05-08 03:21:55,005 [INFO]  Epoch[12] Validation-petal length-accuracy=0.000000
+2021-05-08 03:21:55,351 [INFO]  Epoch[13] Batch [0-4]	Speed: 234.99 samples/sec	cross-entropy=14.425341	petal length-accuracy=0.000000
+2021-05-08 03:21:55,492 [INFO]  Epoch[13] Train-cross-entropy=13.824871
+2021-05-08 03:21:55,492 [INFO]  Epoch[13] Train-petal length-accuracy=0.000000
+2021-05-08 03:21:55,492 [INFO]  Epoch[13] Time cost=0.487
+2021-05-08 03:21:55,521 [INFO]  Saved checkpoint to "0/model-0013.params"
+2021-05-08 03:21:55,649 [INFO]  Epoch[13] Validation-cross-entropy=11.565489
+2021-05-08 03:21:55,649 [INFO]  Epoch[13] Validation-petal length-accuracy=0.000000
+2021-05-08 03:21:55,996 [INFO]  Epoch[14] Batch [0-4]	Speed: 234.91 samples/sec	cross-entropy=14.260944	petal length-accuracy=0.000000
+2021-05-08 03:21:56,137 [INFO]  Epoch[14] Train-cross-entropy=13.662581
+2021-05-08 03:21:56,137 [INFO]  Epoch[14] Train-petal length-accuracy=0.000000
+2021-05-08 03:21:56,137 [INFO]  Epoch[14] Time cost=0.487
+2021-05-08 03:21:56,166 [INFO]  Saved checkpoint to "0/model-0014.params"
+2021-05-08 03:21:56,296 [INFO]  Epoch[14] Validation-cross-entropy=11.430061
+2021-05-08 03:21:56,297 [INFO]  Epoch[14] Validation-petal length-accuracy=0.000000
+2021-05-08 03:21:56,643 [INFO]  Epoch[15] Batch [0-4]	Speed: 235.38 samples/sec	cross-entropy=14.097106	petal length-accuracy=0.000000
+2021-05-08 03:21:56,786 [INFO]  Epoch[15] Train-cross-entropy=13.500916
+2021-05-08 03:21:56,786 [INFO]  Epoch[15] Train-petal length-accuracy=0.000000
+2021-05-08 03:21:56,786 [INFO]  Epoch[15] Time cost=0.489
+2021-05-08 03:21:56,815 [INFO]  Saved checkpoint to "0/model-0015.params"
+2021-05-08 03:21:56,943 [INFO]  Epoch[15] Validation-cross-entropy=11.295026
+2021-05-08 03:21:56,943 [INFO]  Epoch[15] Validation-petal length-accuracy=0.000000
+2021-05-08 03:21:57,290 [INFO]  Epoch[16] Batch [0-4]	Speed: 233.31 samples/sec	cross-entropy=13.933841	petal length-accuracy=0.000000
+2021-05-08 03:21:57,432 [INFO]  Epoch[16] Train-cross-entropy=13.339893
+2021-05-08 03:21:57,432 [INFO]  Epoch[16] Train-petal length-accuracy=0.000000
+2021-05-08 03:21:57,432 [INFO]  Epoch[16] Time cost=0.489
+2021-05-08 03:21:57,461 [INFO]  Saved checkpoint to "0/model-0016.params"
+2021-05-08 03:21:57,594 [INFO]  Epoch[16] Validation-cross-entropy=11.160403
+2021-05-08 03:21:57,594 [INFO]  Epoch[16] Validation-petal length-accuracy=0.000000
+2021-05-08 03:21:57,941 [INFO]  Epoch[17] Batch [0-4]	Speed: 234.61 samples/sec	cross-entropy=13.771171	petal length-accuracy=0.000000
+2021-05-08 03:21:58,083 [INFO]  Epoch[17] Train-cross-entropy=13.179527
+2021-05-08 03:21:58,083 [INFO]  Epoch[17] Train-petal length-accuracy=0.000000
+2021-05-08 03:21:58,083 [INFO]  Epoch[17] Time cost=0.489
+2021-05-08 03:21:58,106 [INFO]  Saved checkpoint to "0/model-0017.params"
+2021-05-08 03:21:58,240 [INFO]  Epoch[17] Validation-cross-entropy=11.026207
+2021-05-08 03:21:58,240 [INFO]  Epoch[17] Validation-petal length-accuracy=0.000000
+2021-05-08 03:21:58,586 [INFO]  Epoch[18] Batch [0-4]	Speed: 235.19 samples/sec	cross-entropy=13.609107	petal length-accuracy=0.000000
+2021-05-08 03:21:58,726 [INFO]  Epoch[18] Train-cross-entropy=13.019829
+2021-05-08 03:21:58,726 [INFO]  Epoch[18] Train-petal length-accuracy=0.000000
+2021-05-08 03:21:58,726 [INFO]  Epoch[18] Time cost=0.486
+2021-05-08 03:21:58,753 [INFO]  Saved checkpoint to "0/model-0018.params"
+2021-05-08 03:21:58,883 [INFO]  Epoch[18] Validation-cross-entropy=10.892452
+2021-05-08 03:21:58,883 [INFO]  Epoch[18] Validation-petal length-accuracy=0.000000
+2021-05-08 03:21:59,232 [INFO]  Epoch[19] Batch [0-4]	Speed: 233.06 samples/sec	cross-entropy=13.447665	petal length-accuracy=0.000000
+2021-05-08 03:21:59,373 [INFO]  Epoch[19] Train-cross-entropy=12.860814
+2021-05-08 03:21:59,373 [INFO]  Epoch[19] Train-petal length-accuracy=0.000000
+2021-05-08 03:21:59,373 [INFO]  Epoch[19] Time cost=0.490
+2021-05-08 03:21:59,403 [INFO]  Saved checkpoint to "0/model-0019.params"
+2021-05-08 03:21:59,542 [INFO]  Epoch[19] Validation-cross-entropy=10.759153
+2021-05-08 03:21:59,542 [INFO]  Epoch[19] Validation-petal length-accuracy=0.000000
+2021-05-08 03:21:59,899 [INFO]  Epoch[20] Batch [0-4]	Speed: 231.25 samples/sec	cross-entropy=13.286862	petal length-accuracy=0.000000
+2021-05-08 03:22:00,052 [INFO]  Epoch[20] Train-cross-entropy=12.702498
+2021-05-08 03:22:00,052 [INFO]  Epoch[20] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:00,052 [INFO]  Epoch[20] Time cost=0.510
+2021-05-08 03:22:00,072 [INFO]  Saved checkpoint to "0/model-0020.params"
+2021-05-08 03:22:00,207 [INFO]  Epoch[20] Validation-cross-entropy=10.626331
+2021-05-08 03:22:00,208 [INFO]  Epoch[20] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:00,562 [INFO]  Epoch[21] Batch [0-4]	Speed: 229.16 samples/sec	cross-entropy=13.126712	petal length-accuracy=0.000000
+2021-05-08 03:22:00,707 [INFO]  Epoch[21] Train-cross-entropy=12.544894
+2021-05-08 03:22:00,707 [INFO]  Epoch[21] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:00,708 [INFO]  Epoch[21] Time cost=0.500
+2021-05-08 03:22:00,729 [INFO]  Saved checkpoint to "0/model-0021.params"
+2021-05-08 03:22:00,865 [INFO]  Epoch[21] Validation-cross-entropy=10.494006
+2021-05-08 03:22:00,865 [INFO]  Epoch[21] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:01,810 [INFO]  Epoch[22] Batch [0-4]	Speed: 73.59 samples/sec	cross-entropy=12.967227	petal length-accuracy=0.000000
+2021-05-08 03:22:02,151 [INFO]  Epoch[22] Train-cross-entropy=12.388013
+2021-05-08 03:22:02,152 [INFO]  Epoch[22] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:02,152 [INFO]  Epoch[22] Time cost=1.287
+2021-05-08 03:22:02,186 [INFO]  Saved checkpoint to "0/model-0022.params"
+2021-05-08 03:22:02,373 [INFO]  Epoch[22] Validation-cross-entropy=10.362185
+2021-05-08 03:22:02,374 [INFO]  Epoch[22] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:02,789 [INFO]  Epoch[23] Batch [0-4]	Speed: 197.50 samples/sec	cross-entropy=12.808428	petal length-accuracy=0.000000
+2021-05-08 03:22:02,955 [INFO]  Epoch[23] Train-cross-entropy=12.231872
+2021-05-08 03:22:02,956 [INFO]  Epoch[23] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:02,956 [INFO]  Epoch[23] Time cost=0.582
+2021-05-08 03:22:02,974 [INFO]  Saved checkpoint to "0/model-0023.params"
+2021-05-08 03:22:03,136 [INFO]  Epoch[23] Validation-cross-entropy=10.230887
+2021-05-08 03:22:03,137 [INFO]  Epoch[23] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:03,517 [INFO]  Epoch[24] Batch [0-4]	Speed: 217.16 samples/sec	cross-entropy=12.650341	petal length-accuracy=0.000000
+2021-05-08 03:22:03,678 [INFO]  Epoch[24] Train-cross-entropy=12.076498
+2021-05-08 03:22:03,678 [INFO]  Epoch[24] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:03,678 [INFO]  Epoch[24] Time cost=0.541
+2021-05-08 03:22:03,693 [INFO]  Saved checkpoint to "0/model-0024.params"
+2021-05-08 03:22:03,827 [INFO]  Epoch[24] Validation-cross-entropy=10.100133
+2021-05-08 03:22:03,827 [INFO]  Epoch[24] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:04,317 [INFO]  Epoch[25] Batch [0-4]	Speed: 156.85 samples/sec	cross-entropy=12.492979	petal length-accuracy=0.000000
+2021-05-08 03:22:04,594 [INFO]  Epoch[25] Train-cross-entropy=11.921901
+2021-05-08 03:22:04,594 [INFO]  Epoch[25] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:04,594 [INFO]  Epoch[25] Time cost=0.767
+2021-05-08 03:22:04,622 [INFO]  Saved checkpoint to "0/model-0025.params"
+2021-05-08 03:22:04,831 [INFO]  Epoch[25] Validation-cross-entropy=9.969932
+2021-05-08 03:22:04,831 [INFO]  Epoch[25] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:05,242 [INFO]  Epoch[26] Batch [0-4]	Speed: 216.69 samples/sec	cross-entropy=12.336361	petal length-accuracy=0.000000
+2021-05-08 03:22:05,420 [INFO]  Epoch[26] Train-cross-entropy=11.768100
+2021-05-08 03:22:05,421 [INFO]  Epoch[26] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:05,421 [INFO]  Epoch[26] Time cost=0.590
+2021-05-08 03:22:05,448 [INFO]  Saved checkpoint to "0/model-0026.params"
+2021-05-08 03:22:05,632 [INFO]  Epoch[26] Validation-cross-entropy=9.840298
+2021-05-08 03:22:05,632 [INFO]  Epoch[26] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:06,027 [INFO]  Epoch[27] Batch [0-4]	Speed: 204.15 samples/sec	cross-entropy=12.180498	petal length-accuracy=0.000000
+2021-05-08 03:22:06,183 [INFO]  Epoch[27] Train-cross-entropy=11.615103
+2021-05-08 03:22:06,183 [INFO]  Epoch[27] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:06,183 [INFO]  Epoch[27] Time cost=0.550
+2021-05-08 03:22:06,207 [INFO]  Saved checkpoint to "0/model-0027.params"
+2021-05-08 03:22:06,340 [INFO]  Epoch[27] Validation-cross-entropy=9.711245
+2021-05-08 03:22:06,340 [INFO]  Epoch[27] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:06,689 [INFO]  Epoch[28] Batch [0-4]	Speed: 233.64 samples/sec	cross-entropy=12.025409	petal length-accuracy=0.000000
+2021-05-08 03:22:06,835 [INFO]  Epoch[28] Train-cross-entropy=11.462928
+2021-05-08 03:22:06,835 [INFO]  Epoch[28] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:06,835 [INFO]  Epoch[28] Time cost=0.495
+2021-05-08 03:22:06,861 [INFO]  Saved checkpoint to "0/model-0028.params"
+2021-05-08 03:22:06,999 [INFO]  Epoch[28] Validation-cross-entropy=9.582788
+2021-05-08 03:22:06,999 [INFO]  Epoch[28] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:07,346 [INFO]  Epoch[29] Batch [0-4]	Speed: 235.53 samples/sec	cross-entropy=11.871108	petal length-accuracy=0.000000
+2021-05-08 03:22:07,488 [INFO]  Epoch[29] Train-cross-entropy=11.311588
+2021-05-08 03:22:07,488 [INFO]  Epoch[29] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:07,488 [INFO]  Epoch[29] Time cost=0.489
+2021-05-08 03:22:07,523 [INFO]  Saved checkpoint to "0/model-0029.params"
+2021-05-08 03:22:07,665 [INFO]  Epoch[29] Validation-cross-entropy=9.454941
+2021-05-08 03:22:07,665 [INFO]  Epoch[29] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:08,012 [INFO]  Epoch[30] Batch [0-4]	Speed: 234.66 samples/sec	cross-entropy=11.717607	petal length-accuracy=0.000000
+2021-05-08 03:22:08,153 [INFO]  Epoch[30] Train-cross-entropy=11.161100
+2021-05-08 03:22:08,154 [INFO]  Epoch[30] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:08,154 [INFO]  Epoch[30] Time cost=0.488
+2021-05-08 03:22:08,186 [INFO]  Saved checkpoint to "0/model-0030.params"
+2021-05-08 03:22:08,316 [INFO]  Epoch[30] Validation-cross-entropy=9.327719
+2021-05-08 03:22:08,316 [INFO]  Epoch[30] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:08,664 [INFO]  Epoch[31] Batch [0-4]	Speed: 235.23 samples/sec	cross-entropy=11.564933	petal length-accuracy=0.000000
+2021-05-08 03:22:08,806 [INFO]  Epoch[31] Train-cross-entropy=11.011485
+2021-05-08 03:22:08,806 [INFO]  Epoch[31] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:08,806 [INFO]  Epoch[31] Time cost=0.490
+2021-05-08 03:22:08,837 [INFO]  Saved checkpoint to "0/model-0031.params"
+2021-05-08 03:22:08,982 [INFO]  Epoch[31] Validation-cross-entropy=9.201144
+2021-05-08 03:22:08,982 [INFO]  Epoch[31] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:09,338 [INFO]  Epoch[32] Batch [0-4]	Speed: 235.02 samples/sec	cross-entropy=11.413106	petal length-accuracy=0.000000
+2021-05-08 03:22:09,485 [INFO]  Epoch[32] Train-cross-entropy=10.862758
+2021-05-08 03:22:09,485 [INFO]  Epoch[32] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:09,485 [INFO]  Epoch[32] Time cost=0.503
+2021-05-08 03:22:09,505 [INFO]  Saved checkpoint to "0/model-0032.params"
+2021-05-08 03:22:09,637 [INFO]  Epoch[32] Validation-cross-entropy=9.075228
+2021-05-08 03:22:09,637 [INFO]  Epoch[32] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:09,992 [INFO]  Epoch[33] Batch [0-4]	Speed: 230.45 samples/sec	cross-entropy=11.262131	petal length-accuracy=0.000000
+2021-05-08 03:22:10,139 [INFO]  Epoch[33] Train-cross-entropy=10.714925
+2021-05-08 03:22:10,140 [INFO]  Epoch[33] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:10,140 [INFO]  Epoch[33] Time cost=0.503
+2021-05-08 03:22:10,163 [INFO]  Saved checkpoint to "0/model-0033.params"
+2021-05-08 03:22:10,316 [INFO]  Epoch[33] Validation-cross-entropy=8.949978
+2021-05-08 03:22:10,317 [INFO]  Epoch[33] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:10,668 [INFO]  Epoch[34] Batch [0-4]	Speed: 234.33 samples/sec	cross-entropy=11.112024	petal length-accuracy=0.000000
+2021-05-08 03:22:10,816 [INFO]  Epoch[34] Train-cross-entropy=10.568002
+2021-05-08 03:22:10,817 [INFO]  Epoch[34] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:10,817 [INFO]  Epoch[34] Time cost=0.500
+2021-05-08 03:22:10,831 [INFO]  Saved checkpoint to "0/model-0034.params"
+2021-05-08 03:22:10,968 [INFO]  Epoch[34] Validation-cross-entropy=8.825410
+2021-05-08 03:22:10,968 [INFO]  Epoch[34] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:11,330 [INFO]  Epoch[35] Batch [0-4]	Speed: 227.06 samples/sec	cross-entropy=10.962796	petal length-accuracy=0.000000
+2021-05-08 03:22:11,475 [INFO]  Epoch[35] Train-cross-entropy=10.421998
+2021-05-08 03:22:11,476 [INFO]  Epoch[35] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:11,476 [INFO]  Epoch[35] Time cost=0.508
+2021-05-08 03:22:11,507 [INFO]  Saved checkpoint to "0/model-0035.params"
+2021-05-08 03:22:11,647 [INFO]  Epoch[35] Validation-cross-entropy=8.701535
+2021-05-08 03:22:11,647 [INFO]  Epoch[35] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:11,996 [INFO]  Epoch[36] Batch [0-4]	Speed: 235.07 samples/sec	cross-entropy=10.814460	petal length-accuracy=0.000000
+2021-05-08 03:22:12,143 [INFO]  Epoch[36] Train-cross-entropy=10.276925
+2021-05-08 03:22:12,143 [INFO]  Epoch[36] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:12,143 [INFO]  Epoch[36] Time cost=0.496
+2021-05-08 03:22:12,182 [INFO]  Saved checkpoint to "0/model-0036.params"
+2021-05-08 03:22:12,324 [INFO]  Epoch[36] Validation-cross-entropy=8.578364
+2021-05-08 03:22:12,324 [INFO]  Epoch[36] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:12,673 [INFO]  Epoch[37] Batch [0-4]	Speed: 237.09 samples/sec	cross-entropy=10.667027	petal length-accuracy=0.000000
+2021-05-08 03:22:12,825 [INFO]  Epoch[37] Train-cross-entropy=10.132793
+2021-05-08 03:22:12,827 [INFO]  Epoch[37] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:12,827 [INFO]  Epoch[37] Time cost=0.502
+2021-05-08 03:22:12,858 [INFO]  Saved checkpoint to "0/model-0037.params"
+2021-05-08 03:22:13,002 [INFO]  Epoch[37] Validation-cross-entropy=8.455909
+2021-05-08 03:22:13,003 [INFO]  Epoch[37] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:13,364 [INFO]  Epoch[38] Batch [0-4]	Speed: 225.11 samples/sec	cross-entropy=10.520510	petal length-accuracy=0.000000
+2021-05-08 03:22:13,505 [INFO]  Epoch[38] Train-cross-entropy=9.989615
+2021-05-08 03:22:13,506 [INFO]  Epoch[38] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:13,506 [INFO]  Epoch[38] Time cost=0.503
+2021-05-08 03:22:13,534 [INFO]  Saved checkpoint to "0/model-0038.params"
+2021-05-08 03:22:13,673 [INFO]  Epoch[38] Validation-cross-entropy=8.334202
+2021-05-08 03:22:13,673 [INFO]  Epoch[38] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:14,027 [INFO]  Epoch[39] Batch [0-4]	Speed: 228.70 samples/sec	cross-entropy=10.374917	petal length-accuracy=0.000000
+2021-05-08 03:22:14,173 [INFO]  Epoch[39] Train-cross-entropy=9.847400
+2021-05-08 03:22:14,173 [INFO]  Epoch[39] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:14,174 [INFO]  Epoch[39] Time cost=0.501
+2021-05-08 03:22:14,209 [INFO]  Saved checkpoint to "0/model-0039.params"
+2021-05-08 03:22:14,342 [INFO]  Epoch[39] Validation-cross-entropy=8.213242
+2021-05-08 03:22:14,342 [INFO]  Epoch[39] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:14,688 [INFO]  Epoch[40] Batch [0-4]	Speed: 234.81 samples/sec	cross-entropy=10.230274	petal length-accuracy=0.000000
+2021-05-08 03:22:14,830 [INFO]  Epoch[40] Train-cross-entropy=9.706170
+2021-05-08 03:22:14,830 [INFO]  Epoch[40] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:14,830 [INFO]  Epoch[40] Time cost=0.487
+2021-05-08 03:22:14,859 [INFO]  Saved checkpoint to "0/model-0040.params"
+2021-05-08 03:22:14,999 [INFO]  Epoch[40] Validation-cross-entropy=8.093039
+2021-05-08 03:22:14,999 [INFO]  Epoch[40] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:15,354 [INFO]  Epoch[41] Batch [0-4]	Speed: 228.36 samples/sec	cross-entropy=10.086589	petal length-accuracy=0.000000
+2021-05-08 03:22:15,523 [INFO]  Epoch[41] Train-cross-entropy=9.565931
+2021-05-08 03:22:15,523 [INFO]  Epoch[41] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:15,523 [INFO]  Epoch[41] Time cost=0.524
+2021-05-08 03:22:15,553 [INFO]  Saved checkpoint to "0/model-0041.params"
+2021-05-08 03:22:15,696 [INFO]  Epoch[41] Validation-cross-entropy=7.973606
+2021-05-08 03:22:15,696 [INFO]  Epoch[41] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:16,088 [INFO]  Epoch[42] Batch [0-4]	Speed: 212.52 samples/sec	cross-entropy=9.943874	petal length-accuracy=0.000000
+2021-05-08 03:22:16,260 [INFO]  Epoch[42] Train-cross-entropy=9.426695
+2021-05-08 03:22:16,260 [INFO]  Epoch[42] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:16,260 [INFO]  Epoch[42] Time cost=0.564
+2021-05-08 03:22:16,290 [INFO]  Saved checkpoint to "0/model-0042.params"
+2021-05-08 03:22:16,427 [INFO]  Epoch[42] Validation-cross-entropy=7.854952
+2021-05-08 03:22:16,427 [INFO]  Epoch[42] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:16,778 [INFO]  Epoch[43] Batch [0-4]	Speed: 233.38 samples/sec	cross-entropy=9.802141	petal length-accuracy=0.000000
+2021-05-08 03:22:16,934 [INFO]  Epoch[43] Train-cross-entropy=9.288471
+2021-05-08 03:22:16,934 [INFO]  Epoch[43] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:16,935 [INFO]  Epoch[43] Time cost=0.507
+2021-05-08 03:22:16,959 [INFO]  Saved checkpoint to "0/model-0043.params"
+2021-05-08 03:22:17,204 [INFO]  Epoch[43] Validation-cross-entropy=7.737090
+2021-05-08 03:22:17,205 [INFO]  Epoch[43] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:17,916 [INFO]  Epoch[44] Batch [0-4]	Speed: 124.56 samples/sec	cross-entropy=9.661401	petal length-accuracy=0.000000
+2021-05-08 03:22:18,067 [INFO]  Epoch[44] Train-cross-entropy=9.151271
+2021-05-08 03:22:18,067 [INFO]  Epoch[44] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:18,067 [INFO]  Epoch[44] Time cost=0.862
+2021-05-08 03:22:18,090 [INFO]  Saved checkpoint to "0/model-0044.params"
+2021-05-08 03:22:18,262 [INFO]  Epoch[44] Validation-cross-entropy=7.620030
+2021-05-08 03:22:18,263 [INFO]  Epoch[44] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:18,735 [INFO]  Epoch[45] Batch [0-4]	Speed: 184.14 samples/sec	cross-entropy=9.521669	petal length-accuracy=0.000000
+2021-05-08 03:22:18,891 [INFO]  Epoch[45] Train-cross-entropy=9.015107
+2021-05-08 03:22:18,892 [INFO]  Epoch[45] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:18,892 [INFO]  Epoch[45] Time cost=0.629
+2021-05-08 03:22:18,913 [INFO]  Saved checkpoint to "0/model-0045.params"
+2021-05-08 03:22:19,092 [INFO]  Epoch[45] Validation-cross-entropy=7.503785
+2021-05-08 03:22:19,093 [INFO]  Epoch[45] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:19,560 [INFO]  Epoch[46] Batch [0-4]	Speed: 204.10 samples/sec	cross-entropy=9.382955	petal length-accuracy=0.000000
+2021-05-08 03:22:19,733 [INFO]  Epoch[46] Train-cross-entropy=8.879988
+2021-05-08 03:22:19,733 [INFO]  Epoch[46] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:19,733 [INFO]  Epoch[46] Time cost=0.640
+2021-05-08 03:22:19,759 [INFO]  Saved checkpoint to "0/model-0046.params"
+2021-05-08 03:22:19,948 [INFO]  Epoch[46] Validation-cross-entropy=7.388365
+2021-05-08 03:22:19,948 [INFO]  Epoch[46] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:20,408 [INFO]  Epoch[47] Batch [0-4]	Speed: 191.32 samples/sec	cross-entropy=9.245270	petal length-accuracy=0.000000
+2021-05-08 03:22:20,577 [INFO]  Epoch[47] Train-cross-entropy=8.745925
+2021-05-08 03:22:20,578 [INFO]  Epoch[47] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:20,578 [INFO]  Epoch[47] Time cost=0.630
+2021-05-08 03:22:20,616 [INFO]  Saved checkpoint to "0/model-0047.params"
+2021-05-08 03:22:20,784 [INFO]  Epoch[47] Validation-cross-entropy=7.273781
+2021-05-08 03:22:20,785 [INFO]  Epoch[47] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:21,213 [INFO]  Epoch[48] Batch [0-4]	Speed: 188.52 samples/sec	cross-entropy=9.108627	petal length-accuracy=0.000000
+2021-05-08 03:22:21,407 [INFO]  Epoch[48] Train-cross-entropy=8.612928
+2021-05-08 03:22:21,408 [INFO]  Epoch[48] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:21,408 [INFO]  Epoch[48] Time cost=0.623
+2021-05-08 03:22:21,443 [INFO]  Saved checkpoint to "0/model-0048.params"
+2021-05-08 03:22:21,626 [INFO]  Epoch[48] Validation-cross-entropy=7.160046
+2021-05-08 03:22:21,626 [INFO]  Epoch[48] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:22,150 [INFO]  Epoch[49] Batch [0-4]	Speed: 148.64 samples/sec	cross-entropy=8.973037	petal length-accuracy=0.000000
+2021-05-08 03:22:22,330 [INFO]  Epoch[49] Train-cross-entropy=8.481008
+2021-05-08 03:22:22,330 [INFO]  Epoch[49] Train-petal length-accuracy=0.000000
+2021-05-08 03:22:22,330 [INFO]  Epoch[49] Time cost=0.704
+2021-05-08 03:22:22,358 [INFO]  Saved checkpoint to "0/model-0049.params"
+2021-05-08 03:22:22,535 [INFO]  Epoch[49] Validation-cross-entropy=7.047169
+2021-05-08 03:22:22,535 [INFO]  Epoch[49] Validation-petal length-accuracy=0.000000
+2021-05-08 03:22:22,535 [INFO]  
+========== done (36.22289681434631 s) fit model
+2021-05-08 03:23:49,132 [INFO]  
+========== start: fit model
+2021-05-08 03:23:49,135 [WARNING]  Already bound, ignoring bind()
+2021-05-08 03:23:49,553 [INFO]  Epoch[0] Batch [0-4]	Speed: 237.80 samples/sec	cross-entropy=16.624695	petal length-accuracy=0.000000
+2021-05-08 03:23:49,694 [INFO]  Epoch[0] Train-cross-entropy=16.001578
+2021-05-08 03:23:49,694 [INFO]  Epoch[0] Train-petal length-accuracy=0.000000
+2021-05-08 03:23:49,694 [INFO]  Epoch[0] Time cost=0.550
+2021-05-08 03:23:49,724 [INFO]  Saved checkpoint to "0/model-0000.params"
+2021-05-08 03:23:49,856 [INFO]  Epoch[0] Validation-cross-entropy=13.361921
+2021-05-08 03:23:49,856 [INFO]  Epoch[0] Validation-petal length-accuracy=0.000000
+2021-05-08 03:23:50,210 [INFO]  Epoch[1] Batch [0-4]	Speed: 233.27 samples/sec	cross-entropy=16.444665	petal length-accuracy=0.000000
+2021-05-08 03:23:50,355 [INFO]  Epoch[1] Train-cross-entropy=15.824350
+2021-05-08 03:23:50,356 [INFO]  Epoch[1] Train-petal length-accuracy=0.000000
+2021-05-08 03:23:50,356 [INFO]  Epoch[1] Time cost=0.499
+2021-05-08 03:23:50,373 [INFO]  Saved checkpoint to "0/model-0001.params"
+2021-05-08 03:23:50,520 [INFO]  Epoch[1] Validation-cross-entropy=13.219309
+2021-05-08 03:23:50,520 [INFO]  Epoch[1] Validation-petal length-accuracy=0.000000
+2021-05-08 03:23:50,870 [INFO]  Epoch[2] Batch [0-4]	Speed: 233.72 samples/sec	cross-entropy=16.271228	petal length-accuracy=0.000000
+2021-05-08 03:23:51,015 [INFO]  Epoch[2] Train-cross-entropy=15.652344
+2021-05-08 03:23:51,015 [INFO]  Epoch[2] Train-petal length-accuracy=0.000000
+2021-05-08 03:23:51,015 [INFO]  Epoch[2] Time cost=0.495
+2021-05-08 03:23:51,038 [INFO]  Saved checkpoint to "0/model-0002.params"
+2021-05-08 03:23:51,177 [INFO]  Epoch[2] Validation-cross-entropy=13.078560
+2021-05-08 03:23:51,177 [INFO]  Epoch[2] Validation-petal length-accuracy=0.000000
+2021-05-08 03:23:51,537 [INFO]  Epoch[3] Batch [0-4]	Speed: 232.37 samples/sec	cross-entropy=16.099545	petal length-accuracy=0.000000
+2021-05-08 03:23:51,683 [INFO]  Epoch[3] Train-cross-entropy=15.482011
+2021-05-08 03:23:51,683 [INFO]  Epoch[3] Train-petal length-accuracy=0.000000
+2021-05-08 03:23:51,683 [INFO]  Epoch[3] Time cost=0.506
+2021-05-08 03:23:51,707 [INFO]  Saved checkpoint to "0/model-0003.params"
+2021-05-08 03:23:51,853 [INFO]  Epoch[3] Validation-cross-entropy=12.938834
+2021-05-08 03:23:51,853 [INFO]  Epoch[3] Validation-petal length-accuracy=0.000000
+2021-05-08 03:23:52,443 [INFO]  Epoch[4] Batch [0-4]	Speed: 128.07 samples/sec	cross-entropy=15.929066	petal length-accuracy=0.000000
+2021-05-08 03:23:52,631 [INFO]  Epoch[4] Train-cross-entropy=15.312915
+2021-05-08 03:23:52,631 [INFO]  Epoch[4] Train-petal length-accuracy=0.000000
+2021-05-08 03:23:52,631 [INFO]  Epoch[4] Time cost=0.778
+2021-05-08 03:23:52,653 [INFO]  Saved checkpoint to "0/model-0004.params"
+2021-05-08 03:23:52,787 [INFO]  Epoch[4] Validation-cross-entropy=12.799793
+2021-05-08 03:23:52,787 [INFO]  Epoch[4] Validation-petal length-accuracy=0.000000
+2021-05-08 03:23:53,140 [INFO]  Epoch[5] Batch [0-4]	Speed: 229.31 samples/sec	cross-entropy=15.759538	petal length-accuracy=0.000000
+2021-05-08 03:23:53,284 [INFO]  Epoch[5] Train-cross-entropy=15.144831
+2021-05-08 03:23:53,284 [INFO]  Epoch[5] Train-petal length-accuracy=0.000000
+2021-05-08 03:23:53,284 [INFO]  Epoch[5] Time cost=0.497
+2021-05-08 03:23:53,310 [INFO]  Saved checkpoint to "0/model-0005.params"
+2021-05-08 03:23:53,442 [INFO]  Epoch[5] Validation-cross-entropy=12.661267
+2021-05-08 03:23:53,442 [INFO]  Epoch[5] Validation-petal length-accuracy=0.000000
+2021-05-08 03:23:53,796 [INFO]  Epoch[6] Batch [0-4]	Speed: 228.88 samples/sec	cross-entropy=15.590789	petal length-accuracy=0.000000
+2021-05-08 03:23:53,944 [INFO]  Epoch[6] Train-cross-entropy=14.977598
+2021-05-08 03:23:53,944 [INFO]  Epoch[6] Train-petal length-accuracy=0.000000
+2021-05-08 03:23:53,944 [INFO]  Epoch[6] Time cost=0.502
+2021-05-08 03:23:53,965 [INFO]  Saved checkpoint to "0/model-0006.params"
+2021-05-08 03:23:54,095 [INFO]  Epoch[6] Validation-cross-entropy=12.523150
+2021-05-08 03:23:54,095 [INFO]  Epoch[6] Validation-petal length-accuracy=0.000000
+2021-05-08 03:23:54,453 [INFO]  Epoch[7] Batch [0-4]	Speed: 224.38 samples/sec	cross-entropy=15.422697	petal length-accuracy=0.000000
+2021-05-08 03:23:54,624 [INFO]  Epoch[7] Train-cross-entropy=14.811097
+2021-05-08 03:23:54,625 [INFO]  Epoch[7] Train-petal length-accuracy=0.000000
+2021-05-08 03:23:54,625 [INFO]  Epoch[7] Time cost=0.529
+2021-05-08 03:23:54,644 [INFO]  Saved checkpoint to "0/model-0007.params"
+2021-05-08 03:23:54,780 [INFO]  Epoch[7] Validation-cross-entropy=12.385380
+2021-05-08 03:23:54,780 [INFO]  Epoch[7] Validation-petal length-accuracy=0.000000
+2021-05-08 03:23:55,331 [INFO]  Epoch[8] Batch [0-4]	Speed: 136.12 samples/sec	cross-entropy=15.255181	petal length-accuracy=0.000000
+2021-05-08 03:23:55,731 [INFO]  Epoch[8] Train-cross-entropy=14.645248
+2021-05-08 03:23:55,732 [INFO]  Epoch[8] Train-petal length-accuracy=0.000000
+2021-05-08 03:23:55,733 [INFO]  Epoch[8] Time cost=0.953
+2021-05-08 03:23:55,781 [INFO]  Saved checkpoint to "0/model-0008.params"
+2021-05-08 03:23:55,986 [INFO]  Epoch[8] Validation-cross-entropy=12.247929
+2021-05-08 03:23:55,986 [INFO]  Epoch[8] Validation-petal length-accuracy=0.000000
+2021-05-08 03:23:56,344 [INFO]  Epoch[9] Batch [0-4]	Speed: 230.24 samples/sec	cross-entropy=15.088192	petal length-accuracy=0.000000
+2021-05-08 03:23:56,484 [INFO]  Epoch[9] Train-cross-entropy=14.480003
+2021-05-08 03:23:56,484 [INFO]  Epoch[9] Train-petal length-accuracy=0.000000
+2021-05-08 03:23:56,484 [INFO]  Epoch[9] Time cost=0.498
+2021-05-08 03:23:56,512 [INFO]  Saved checkpoint to "0/model-0009.params"
+2021-05-08 03:23:56,643 [INFO]  Epoch[9] Validation-cross-entropy=12.110785
+2021-05-08 03:23:56,643 [INFO]  Epoch[9] Validation-petal length-accuracy=0.000000
+2021-05-08 03:23:56,987 [INFO]  Epoch[10] Batch [0-4]	Speed: 236.21 samples/sec	cross-entropy=14.921712	petal length-accuracy=0.000000
+2021-05-08 03:23:57,128 [INFO]  Epoch[10] Train-cross-entropy=14.315343
+2021-05-08 03:23:57,128 [INFO]  Epoch[10] Train-petal length-accuracy=0.000000
+2021-05-08 03:23:57,128 [INFO]  Epoch[10] Time cost=0.484
+2021-05-08 03:23:57,151 [INFO]  Saved checkpoint to "0/model-0010.params"
+2021-05-08 03:23:57,278 [INFO]  Epoch[10] Validation-cross-entropy=11.973957
+2021-05-08 03:23:57,278 [INFO]  Epoch[10] Validation-petal length-accuracy=0.000000
+2021-05-08 03:23:57,626 [INFO]  Epoch[11] Batch [0-4]	Speed: 231.45 samples/sec	cross-entropy=14.755739	petal length-accuracy=0.000000
+2021-05-08 03:23:57,766 [INFO]  Epoch[11] Train-cross-entropy=14.151264
+2021-05-08 03:23:57,766 [INFO]  Epoch[11] Train-petal length-accuracy=0.000000
+2021-05-08 03:23:57,767 [INFO]  Epoch[11] Time cost=0.488
+2021-05-08 03:23:57,801 [INFO]  Saved checkpoint to "0/model-0011.params"
+2021-05-08 03:23:57,973 [INFO]  Epoch[11] Validation-cross-entropy=11.837456
+2021-05-08 03:23:57,973 [INFO]  Epoch[11] Validation-petal length-accuracy=0.000000
+2021-05-08 03:23:58,320 [INFO]  Epoch[12] Batch [0-4]	Speed: 236.35 samples/sec	cross-entropy=14.590278	petal length-accuracy=0.000000
+2021-05-08 03:23:58,469 [INFO]  Epoch[12] Train-cross-entropy=13.987771
+2021-05-08 03:23:58,470 [INFO]  Epoch[12] Train-petal length-accuracy=0.000000
+2021-05-08 03:23:58,470 [INFO]  Epoch[12] Time cost=0.497
+2021-05-08 03:23:58,500 [INFO]  Saved checkpoint to "0/model-0012.params"
+2021-05-08 03:23:58,673 [INFO]  Epoch[12] Validation-cross-entropy=11.701293
+2021-05-08 03:23:58,674 [INFO]  Epoch[12] Validation-petal length-accuracy=0.000000
+2021-05-08 03:23:59,050 [INFO]  Epoch[13] Batch [0-4]	Speed: 214.56 samples/sec	cross-entropy=14.425341	petal length-accuracy=0.000000
+2021-05-08 03:23:59,221 [INFO]  Epoch[13] Train-cross-entropy=13.824871
+2021-05-08 03:23:59,221 [INFO]  Epoch[13] Train-petal length-accuracy=0.000000
+2021-05-08 03:23:59,222 [INFO]  Epoch[13] Time cost=0.548
+2021-05-08 03:23:59,262 [INFO]  Saved checkpoint to "0/model-0013.params"
+2021-05-08 03:23:59,418 [INFO]  Epoch[13] Validation-cross-entropy=11.565489
+2021-05-08 03:23:59,418 [INFO]  Epoch[13] Validation-petal length-accuracy=0.000000
+2021-05-08 03:23:59,787 [INFO]  Epoch[14] Batch [0-4]	Speed: 222.38 samples/sec	cross-entropy=14.260944	petal length-accuracy=0.000000
+2021-05-08 03:23:59,932 [INFO]  Epoch[14] Train-cross-entropy=13.662581
+2021-05-08 03:23:59,933 [INFO]  Epoch[14] Train-petal length-accuracy=0.000000
+2021-05-08 03:23:59,933 [INFO]  Epoch[14] Time cost=0.514
+2021-05-08 03:23:59,961 [INFO]  Saved checkpoint to "0/model-0014.params"
+2021-05-08 03:24:00,310 [INFO]  Epoch[14] Validation-cross-entropy=11.430061
+2021-05-08 03:24:00,311 [INFO]  Epoch[14] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:01,461 [INFO]  Epoch[15] Batch [0-4]	Speed: 82.42 samples/sec	cross-entropy=14.097106	petal length-accuracy=0.000000
+2021-05-08 03:24:02,120 [INFO]  Epoch[15] Train-cross-entropy=13.500916
+2021-05-08 03:24:02,120 [INFO]  Epoch[15] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:02,121 [INFO]  Epoch[15] Time cost=1.806
+2021-05-08 03:24:02,147 [INFO]  Saved checkpoint to "0/model-0015.params"
+2021-05-08 03:24:02,297 [INFO]  Epoch[15] Validation-cross-entropy=11.295026
+2021-05-08 03:24:02,298 [INFO]  Epoch[15] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:02,665 [INFO]  Epoch[16] Batch [0-4]	Speed: 222.51 samples/sec	cross-entropy=13.933841	petal length-accuracy=0.000000
+2021-05-08 03:24:02,834 [INFO]  Epoch[16] Train-cross-entropy=13.339893
+2021-05-08 03:24:02,835 [INFO]  Epoch[16] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:02,835 [INFO]  Epoch[16] Time cost=0.537
+2021-05-08 03:24:02,864 [INFO]  Saved checkpoint to "0/model-0016.params"
+2021-05-08 03:24:02,998 [INFO]  Epoch[16] Validation-cross-entropy=11.160403
+2021-05-08 03:24:02,998 [INFO]  Epoch[16] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:03,377 [INFO]  Epoch[17] Batch [0-4]	Speed: 210.76 samples/sec	cross-entropy=13.771171	petal length-accuracy=0.000000
+2021-05-08 03:24:03,542 [INFO]  Epoch[17] Train-cross-entropy=13.179527
+2021-05-08 03:24:03,543 [INFO]  Epoch[17] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:03,543 [INFO]  Epoch[17] Time cost=0.544
+2021-05-08 03:24:03,564 [INFO]  Saved checkpoint to "0/model-0017.params"
+2021-05-08 03:24:03,702 [INFO]  Epoch[17] Validation-cross-entropy=11.026207
+2021-05-08 03:24:03,702 [INFO]  Epoch[17] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:04,086 [INFO]  Epoch[18] Batch [0-4]	Speed: 204.87 samples/sec	cross-entropy=13.609107	petal length-accuracy=0.000000
+2021-05-08 03:24:04,231 [INFO]  Epoch[18] Train-cross-entropy=13.019829
+2021-05-08 03:24:04,231 [INFO]  Epoch[18] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:04,231 [INFO]  Epoch[18] Time cost=0.529
+2021-05-08 03:24:04,251 [INFO]  Saved checkpoint to "0/model-0018.params"
+2021-05-08 03:24:04,378 [INFO]  Epoch[18] Validation-cross-entropy=10.892452
+2021-05-08 03:24:04,378 [INFO]  Epoch[18] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:04,749 [INFO]  Epoch[19] Batch [0-4]	Speed: 213.59 samples/sec	cross-entropy=13.447665	petal length-accuracy=0.000000
+2021-05-08 03:24:04,903 [INFO]  Epoch[19] Train-cross-entropy=12.860814
+2021-05-08 03:24:04,903 [INFO]  Epoch[19] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:04,903 [INFO]  Epoch[19] Time cost=0.524
+2021-05-08 03:24:04,931 [INFO]  Saved checkpoint to "0/model-0019.params"
+2021-05-08 03:24:05,075 [INFO]  Epoch[19] Validation-cross-entropy=10.759153
+2021-05-08 03:24:05,075 [INFO]  Epoch[19] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:05,428 [INFO]  Epoch[20] Batch [0-4]	Speed: 227.42 samples/sec	cross-entropy=13.286862	petal length-accuracy=0.000000
+2021-05-08 03:24:05,605 [INFO]  Epoch[20] Train-cross-entropy=12.702498
+2021-05-08 03:24:05,605 [INFO]  Epoch[20] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:05,605 [INFO]  Epoch[20] Time cost=0.530
+2021-05-08 03:24:05,631 [INFO]  Saved checkpoint to "0/model-0020.params"
+2021-05-08 03:24:05,793 [INFO]  Epoch[20] Validation-cross-entropy=10.626331
+2021-05-08 03:24:05,793 [INFO]  Epoch[20] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:06,420 [INFO]  Epoch[21] Batch [0-4]	Speed: 129.18 samples/sec	cross-entropy=13.126712	petal length-accuracy=0.000000
+2021-05-08 03:24:06,579 [INFO]  Epoch[21] Train-cross-entropy=12.544894
+2021-05-08 03:24:06,580 [INFO]  Epoch[21] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:06,580 [INFO]  Epoch[21] Time cost=0.787
+2021-05-08 03:24:06,607 [INFO]  Saved checkpoint to "0/model-0021.params"
+2021-05-08 03:24:06,756 [INFO]  Epoch[21] Validation-cross-entropy=10.494006
+2021-05-08 03:24:06,756 [INFO]  Epoch[21] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:07,136 [INFO]  Epoch[22] Batch [0-4]	Speed: 216.37 samples/sec	cross-entropy=12.967227	petal length-accuracy=0.000000
+2021-05-08 03:24:07,280 [INFO]  Epoch[22] Train-cross-entropy=12.388013
+2021-05-08 03:24:07,281 [INFO]  Epoch[22] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:07,281 [INFO]  Epoch[22] Time cost=0.525
+2021-05-08 03:24:07,301 [INFO]  Saved checkpoint to "0/model-0022.params"
+2021-05-08 03:24:07,430 [INFO]  Epoch[22] Validation-cross-entropy=10.362185
+2021-05-08 03:24:07,431 [INFO]  Epoch[22] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:07,799 [INFO]  Epoch[23] Batch [0-4]	Speed: 222.65 samples/sec	cross-entropy=12.808428	petal length-accuracy=0.000000
+2021-05-08 03:24:07,943 [INFO]  Epoch[23] Train-cross-entropy=12.231872
+2021-05-08 03:24:07,943 [INFO]  Epoch[23] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:07,943 [INFO]  Epoch[23] Time cost=0.513
+2021-05-08 03:24:07,966 [INFO]  Saved checkpoint to "0/model-0023.params"
+2021-05-08 03:24:08,101 [INFO]  Epoch[23] Validation-cross-entropy=10.230887
+2021-05-08 03:24:08,102 [INFO]  Epoch[23] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:08,462 [INFO]  Epoch[24] Batch [0-4]	Speed: 227.36 samples/sec	cross-entropy=12.650341	petal length-accuracy=0.000000
+2021-05-08 03:24:08,605 [INFO]  Epoch[24] Train-cross-entropy=12.076498
+2021-05-08 03:24:08,605 [INFO]  Epoch[24] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:08,606 [INFO]  Epoch[24] Time cost=0.504
+2021-05-08 03:24:08,633 [INFO]  Saved checkpoint to "0/model-0024.params"
+2021-05-08 03:24:08,804 [INFO]  Epoch[24] Validation-cross-entropy=10.100133
+2021-05-08 03:24:08,804 [INFO]  Epoch[24] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:09,189 [INFO]  Epoch[25] Batch [0-4]	Speed: 216.43 samples/sec	cross-entropy=12.492979	petal length-accuracy=0.000000
+2021-05-08 03:24:09,356 [INFO]  Epoch[25] Train-cross-entropy=11.921901
+2021-05-08 03:24:09,356 [INFO]  Epoch[25] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:09,356 [INFO]  Epoch[25] Time cost=0.551
+2021-05-08 03:24:09,384 [INFO]  Saved checkpoint to "0/model-0025.params"
+2021-05-08 03:24:09,597 [INFO]  Epoch[25] Validation-cross-entropy=9.969932
+2021-05-08 03:24:09,598 [INFO]  Epoch[25] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:10,355 [INFO]  Epoch[26] Batch [0-4]	Speed: 96.44 samples/sec	cross-entropy=12.336361	petal length-accuracy=0.000000
+2021-05-08 03:24:10,579 [INFO]  Epoch[26] Train-cross-entropy=11.768100
+2021-05-08 03:24:10,579 [INFO]  Epoch[26] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:10,579 [INFO]  Epoch[26] Time cost=0.981
+2021-05-08 03:24:10,620 [INFO]  Saved checkpoint to "0/model-0026.params"
+2021-05-08 03:24:10,955 [INFO]  Epoch[26] Validation-cross-entropy=9.840298
+2021-05-08 03:24:10,956 [INFO]  Epoch[26] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:11,488 [INFO]  Epoch[27] Batch [0-4]	Speed: 158.52 samples/sec	cross-entropy=12.180498	petal length-accuracy=0.000000
+2021-05-08 03:24:11,664 [INFO]  Epoch[27] Train-cross-entropy=11.615103
+2021-05-08 03:24:11,664 [INFO]  Epoch[27] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:11,664 [INFO]  Epoch[27] Time cost=0.708
+2021-05-08 03:24:11,691 [INFO]  Saved checkpoint to "0/model-0027.params"
+2021-05-08 03:24:11,833 [INFO]  Epoch[27] Validation-cross-entropy=9.711245
+2021-05-08 03:24:11,834 [INFO]  Epoch[27] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:12,230 [INFO]  Epoch[28] Batch [0-4]	Speed: 208.75 samples/sec	cross-entropy=12.025409	petal length-accuracy=0.000000
+2021-05-08 03:24:12,398 [INFO]  Epoch[28] Train-cross-entropy=11.462928
+2021-05-08 03:24:12,398 [INFO]  Epoch[28] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:12,398 [INFO]  Epoch[28] Time cost=0.564
+2021-05-08 03:24:12,421 [INFO]  Saved checkpoint to "0/model-0028.params"
+2021-05-08 03:24:12,551 [INFO]  Epoch[28] Validation-cross-entropy=9.582788
+2021-05-08 03:24:12,551 [INFO]  Epoch[28] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:12,931 [INFO]  Epoch[29] Batch [0-4]	Speed: 212.92 samples/sec	cross-entropy=11.871108	petal length-accuracy=0.000000
+2021-05-08 03:24:13,099 [INFO]  Epoch[29] Train-cross-entropy=11.311588
+2021-05-08 03:24:13,100 [INFO]  Epoch[29] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:13,101 [INFO]  Epoch[29] Time cost=0.549
+2021-05-08 03:24:13,130 [INFO]  Saved checkpoint to "0/model-0029.params"
+2021-05-08 03:24:13,305 [INFO]  Epoch[29] Validation-cross-entropy=9.454941
+2021-05-08 03:24:13,305 [INFO]  Epoch[29] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:13,715 [INFO]  Epoch[30] Batch [0-4]	Speed: 198.12 samples/sec	cross-entropy=11.717607	petal length-accuracy=0.000000
+2021-05-08 03:24:13,873 [INFO]  Epoch[30] Train-cross-entropy=11.161100
+2021-05-08 03:24:13,874 [INFO]  Epoch[30] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:13,874 [INFO]  Epoch[30] Time cost=0.569
+2021-05-08 03:24:13,903 [INFO]  Saved checkpoint to "0/model-0030.params"
+2021-05-08 03:24:14,046 [INFO]  Epoch[30] Validation-cross-entropy=9.327719
+2021-05-08 03:24:14,046 [INFO]  Epoch[30] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:14,456 [INFO]  Epoch[31] Batch [0-4]	Speed: 194.59 samples/sec	cross-entropy=11.564933	petal length-accuracy=0.000000
+2021-05-08 03:24:14,665 [INFO]  Epoch[31] Train-cross-entropy=11.011485
+2021-05-08 03:24:14,665 [INFO]  Epoch[31] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:14,666 [INFO]  Epoch[31] Time cost=0.619
+2021-05-08 03:24:14,689 [INFO]  Saved checkpoint to "0/model-0031.params"
+2021-05-08 03:24:14,818 [INFO]  Epoch[31] Validation-cross-entropy=9.201144
+2021-05-08 03:24:14,819 [INFO]  Epoch[31] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:15,250 [INFO]  Epoch[32] Batch [0-4]	Speed: 184.70 samples/sec	cross-entropy=11.413106	petal length-accuracy=0.000000
+2021-05-08 03:24:15,453 [INFO]  Epoch[32] Train-cross-entropy=10.862758
+2021-05-08 03:24:15,453 [INFO]  Epoch[32] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:15,453 [INFO]  Epoch[32] Time cost=0.634
+2021-05-08 03:24:15,482 [INFO]  Saved checkpoint to "0/model-0032.params"
+2021-05-08 03:24:15,619 [INFO]  Epoch[32] Validation-cross-entropy=9.075228
+2021-05-08 03:24:15,619 [INFO]  Epoch[32] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:15,996 [INFO]  Epoch[33] Batch [0-4]	Speed: 221.78 samples/sec	cross-entropy=11.262131	petal length-accuracy=0.000000
+2021-05-08 03:24:16,159 [INFO]  Epoch[33] Train-cross-entropy=10.714925
+2021-05-08 03:24:16,159 [INFO]  Epoch[33] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:16,159 [INFO]  Epoch[33] Time cost=0.539
+2021-05-08 03:24:16,183 [INFO]  Saved checkpoint to "0/model-0033.params"
+2021-05-08 03:24:16,313 [INFO]  Epoch[33] Validation-cross-entropy=8.949978
+2021-05-08 03:24:16,313 [INFO]  Epoch[33] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:16,715 [INFO]  Epoch[34] Batch [0-4]	Speed: 198.59 samples/sec	cross-entropy=11.112024	petal length-accuracy=0.000000
+2021-05-08 03:24:16,867 [INFO]  Epoch[34] Train-cross-entropy=10.568002
+2021-05-08 03:24:16,867 [INFO]  Epoch[34] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:16,867 [INFO]  Epoch[34] Time cost=0.554
+2021-05-08 03:24:16,891 [INFO]  Saved checkpoint to "0/model-0034.params"
+2021-05-08 03:24:17,023 [INFO]  Epoch[34] Validation-cross-entropy=8.825410
+2021-05-08 03:24:17,023 [INFO]  Epoch[34] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:17,477 [INFO]  Epoch[35] Batch [0-4]	Speed: 175.17 samples/sec	cross-entropy=10.962796	petal length-accuracy=0.000000
+2021-05-08 03:24:17,667 [INFO]  Epoch[35] Train-cross-entropy=10.421998
+2021-05-08 03:24:17,670 [INFO]  Epoch[35] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:17,671 [INFO]  Epoch[35] Time cost=0.647
+2021-05-08 03:24:17,715 [INFO]  Saved checkpoint to "0/model-0035.params"
+2021-05-08 03:24:17,873 [INFO]  Epoch[35] Validation-cross-entropy=8.701535
+2021-05-08 03:24:17,874 [INFO]  Epoch[35] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:18,317 [INFO]  Epoch[36] Batch [0-4]	Speed: 186.75 samples/sec	cross-entropy=10.814460	petal length-accuracy=0.000000
+2021-05-08 03:24:18,498 [INFO]  Epoch[36] Train-cross-entropy=10.276925
+2021-05-08 03:24:18,498 [INFO]  Epoch[36] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:18,498 [INFO]  Epoch[36] Time cost=0.624
+2021-05-08 03:24:18,529 [INFO]  Saved checkpoint to "0/model-0036.params"
+2021-05-08 03:24:18,669 [INFO]  Epoch[36] Validation-cross-entropy=8.578364
+2021-05-08 03:24:18,669 [INFO]  Epoch[36] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:19,127 [INFO]  Epoch[37] Batch [0-4]	Speed: 178.18 samples/sec	cross-entropy=10.667027	petal length-accuracy=0.000000
+2021-05-08 03:24:19,302 [INFO]  Epoch[37] Train-cross-entropy=10.132793
+2021-05-08 03:24:19,302 [INFO]  Epoch[37] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:19,302 [INFO]  Epoch[37] Time cost=0.633
+2021-05-08 03:24:19,330 [INFO]  Saved checkpoint to "0/model-0037.params"
+2021-05-08 03:24:19,461 [INFO]  Epoch[37] Validation-cross-entropy=8.455909
+2021-05-08 03:24:19,461 [INFO]  Epoch[37] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:19,909 [INFO]  Epoch[38] Batch [0-4]	Speed: 172.18 samples/sec	cross-entropy=10.520510	petal length-accuracy=0.000000
+2021-05-08 03:24:20,096 [INFO]  Epoch[38] Train-cross-entropy=9.989615
+2021-05-08 03:24:20,096 [INFO]  Epoch[38] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:20,096 [INFO]  Epoch[38] Time cost=0.635
+2021-05-08 03:24:20,129 [INFO]  Saved checkpoint to "0/model-0038.params"
+2021-05-08 03:24:20,266 [INFO]  Epoch[38] Validation-cross-entropy=8.334202
+2021-05-08 03:24:20,267 [INFO]  Epoch[38] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:20,770 [INFO]  Epoch[39] Batch [0-4]	Speed: 156.41 samples/sec	cross-entropy=10.374917	petal length-accuracy=0.000000
+2021-05-08 03:24:21,015 [INFO]  Epoch[39] Train-cross-entropy=9.847400
+2021-05-08 03:24:21,015 [INFO]  Epoch[39] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:21,015 [INFO]  Epoch[39] Time cost=0.749
+2021-05-08 03:24:21,054 [INFO]  Saved checkpoint to "0/model-0039.params"
+2021-05-08 03:24:21,343 [INFO]  Epoch[39] Validation-cross-entropy=8.213242
+2021-05-08 03:24:21,343 [INFO]  Epoch[39] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:21,994 [INFO]  Epoch[40] Batch [0-4]	Speed: 124.45 samples/sec	cross-entropy=10.230274	petal length-accuracy=0.000000
+2021-05-08 03:24:22,241 [INFO]  Epoch[40] Train-cross-entropy=9.706170
+2021-05-08 03:24:22,241 [INFO]  Epoch[40] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:22,241 [INFO]  Epoch[40] Time cost=0.897
+2021-05-08 03:24:22,293 [INFO]  Saved checkpoint to "0/model-0040.params"
+2021-05-08 03:24:22,782 [INFO]  Epoch[40] Validation-cross-entropy=8.093039
+2021-05-08 03:24:22,783 [INFO]  Epoch[40] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:23,299 [INFO]  Epoch[41] Batch [0-4]	Speed: 195.68 samples/sec	cross-entropy=10.086589	petal length-accuracy=0.000000
+2021-05-08 03:24:23,488 [INFO]  Epoch[41] Train-cross-entropy=9.565931
+2021-05-08 03:24:23,488 [INFO]  Epoch[41] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:23,488 [INFO]  Epoch[41] Time cost=0.705
+2021-05-08 03:24:23,510 [INFO]  Saved checkpoint to "0/model-0041.params"
+2021-05-08 03:24:23,713 [INFO]  Epoch[41] Validation-cross-entropy=7.973606
+2021-05-08 03:24:23,714 [INFO]  Epoch[41] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:24,228 [INFO]  Epoch[42] Batch [0-4]	Speed: 148.39 samples/sec	cross-entropy=9.943874	petal length-accuracy=0.000000
+2021-05-08 03:24:24,393 [INFO]  Epoch[42] Train-cross-entropy=9.426695
+2021-05-08 03:24:24,393 [INFO]  Epoch[42] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:24,393 [INFO]  Epoch[42] Time cost=0.678
+2021-05-08 03:24:24,427 [INFO]  Saved checkpoint to "0/model-0042.params"
+2021-05-08 03:24:24,626 [INFO]  Epoch[42] Validation-cross-entropy=7.854952
+2021-05-08 03:24:24,626 [INFO]  Epoch[42] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:25,008 [INFO]  Epoch[43] Batch [0-4]	Speed: 219.28 samples/sec	cross-entropy=9.802141	petal length-accuracy=0.000000
+2021-05-08 03:24:25,168 [INFO]  Epoch[43] Train-cross-entropy=9.288471
+2021-05-08 03:24:25,168 [INFO]  Epoch[43] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:25,168 [INFO]  Epoch[43] Time cost=0.542
+2021-05-08 03:24:25,192 [INFO]  Saved checkpoint to "0/model-0043.params"
+2021-05-08 03:24:25,337 [INFO]  Epoch[43] Validation-cross-entropy=7.737090
+2021-05-08 03:24:25,337 [INFO]  Epoch[43] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:25,688 [INFO]  Epoch[44] Batch [0-4]	Speed: 232.21 samples/sec	cross-entropy=9.661401	petal length-accuracy=0.000000
+2021-05-08 03:24:25,836 [INFO]  Epoch[44] Train-cross-entropy=9.151271
+2021-05-08 03:24:25,836 [INFO]  Epoch[44] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:25,836 [INFO]  Epoch[44] Time cost=0.499
+2021-05-08 03:24:25,858 [INFO]  Saved checkpoint to "0/model-0044.params"
+2021-05-08 03:24:25,984 [INFO]  Epoch[44] Validation-cross-entropy=7.620030
+2021-05-08 03:24:25,984 [INFO]  Epoch[44] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:26,342 [INFO]  Epoch[45] Batch [0-4]	Speed: 224.10 samples/sec	cross-entropy=9.521669	petal length-accuracy=0.000000
+2021-05-08 03:24:26,491 [INFO]  Epoch[45] Train-cross-entropy=9.015107
+2021-05-08 03:24:26,491 [INFO]  Epoch[45] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:26,491 [INFO]  Epoch[45] Time cost=0.507
+2021-05-08 03:24:26,514 [INFO]  Saved checkpoint to "0/model-0045.params"
+2021-05-08 03:24:26,659 [INFO]  Epoch[45] Validation-cross-entropy=7.503785
+2021-05-08 03:24:26,659 [INFO]  Epoch[45] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:27,042 [INFO]  Epoch[46] Batch [0-4]	Speed: 217.46 samples/sec	cross-entropy=9.382955	petal length-accuracy=0.000000
+2021-05-08 03:24:27,199 [INFO]  Epoch[46] Train-cross-entropy=8.879988
+2021-05-08 03:24:27,200 [INFO]  Epoch[46] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:27,200 [INFO]  Epoch[46] Time cost=0.540
+2021-05-08 03:24:27,220 [INFO]  Saved checkpoint to "0/model-0046.params"
+2021-05-08 03:24:27,349 [INFO]  Epoch[46] Validation-cross-entropy=7.388365
+2021-05-08 03:24:27,350 [INFO]  Epoch[46] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:27,707 [INFO]  Epoch[47] Batch [0-4]	Speed: 228.11 samples/sec	cross-entropy=9.245270	petal length-accuracy=0.000000
+2021-05-08 03:24:27,852 [INFO]  Epoch[47] Train-cross-entropy=8.745925
+2021-05-08 03:24:27,853 [INFO]  Epoch[47] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:27,853 [INFO]  Epoch[47] Time cost=0.503
+2021-05-08 03:24:27,886 [INFO]  Saved checkpoint to "0/model-0047.params"
+2021-05-08 03:24:28,059 [INFO]  Epoch[47] Validation-cross-entropy=7.273781
+2021-05-08 03:24:28,059 [INFO]  Epoch[47] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:28,422 [INFO]  Epoch[48] Batch [0-4]	Speed: 221.01 samples/sec	cross-entropy=9.108627	petal length-accuracy=0.000000
+2021-05-08 03:24:28,577 [INFO]  Epoch[48] Train-cross-entropy=8.612928
+2021-05-08 03:24:28,577 [INFO]  Epoch[48] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:28,577 [INFO]  Epoch[48] Time cost=0.518
+2021-05-08 03:24:28,598 [INFO]  Saved checkpoint to "0/model-0048.params"
+2021-05-08 03:24:28,732 [INFO]  Epoch[48] Validation-cross-entropy=7.160046
+2021-05-08 03:24:28,732 [INFO]  Epoch[48] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:29,121 [INFO]  Epoch[49] Batch [0-4]	Speed: 205.30 samples/sec	cross-entropy=8.973037	petal length-accuracy=0.000000
+2021-05-08 03:24:29,277 [INFO]  Epoch[49] Train-cross-entropy=8.481008
+2021-05-08 03:24:29,278 [INFO]  Epoch[49] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:29,278 [INFO]  Epoch[49] Time cost=0.546
+2021-05-08 03:24:29,299 [INFO]  Saved checkpoint to "0/model-0049.params"
+2021-05-08 03:24:29,435 [INFO]  Epoch[49] Validation-cross-entropy=7.047169
+2021-05-08 03:24:29,435 [INFO]  Epoch[49] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:29,435 [INFO]  
+========== done (40.30320596694946 s) fit model
+2021-05-08 03:24:49,201 [INFO]  
+========== start: fit model
+2021-05-08 03:24:49,202 [WARNING]  Already bound, ignoring bind()
+2021-05-08 03:24:49,598 [INFO]  Epoch[0] Batch [0-4]	Speed: 230.73 samples/sec	cross-entropy=16.624695	petal length-accuracy=0.000000
+2021-05-08 03:24:49,740 [INFO]  Epoch[0] Train-cross-entropy=16.001578
+2021-05-08 03:24:49,740 [INFO]  Epoch[0] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:49,740 [INFO]  Epoch[0] Time cost=0.537
+2021-05-08 03:24:49,768 [INFO]  Saved checkpoint to "0/model-0000.params"
+2021-05-08 03:24:49,896 [INFO]  Epoch[0] Validation-cross-entropy=13.361921
+2021-05-08 03:24:49,896 [INFO]  Epoch[0] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:50,248 [INFO]  Epoch[1] Batch [0-4]	Speed: 234.05 samples/sec	cross-entropy=16.444665	petal length-accuracy=0.000000
+2021-05-08 03:24:50,394 [INFO]  Epoch[1] Train-cross-entropy=15.824350
+2021-05-08 03:24:50,394 [INFO]  Epoch[1] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:50,395 [INFO]  Epoch[1] Time cost=0.498
+2021-05-08 03:24:50,419 [INFO]  Saved checkpoint to "0/model-0001.params"
+2021-05-08 03:24:50,555 [INFO]  Epoch[1] Validation-cross-entropy=13.219309
+2021-05-08 03:24:50,556 [INFO]  Epoch[1] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:50,906 [INFO]  Epoch[2] Batch [0-4]	Speed: 234.37 samples/sec	cross-entropy=16.271228	petal length-accuracy=0.000000
+2021-05-08 03:24:51,051 [INFO]  Epoch[2] Train-cross-entropy=15.652344
+2021-05-08 03:24:51,051 [INFO]  Epoch[2] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:51,051 [INFO]  Epoch[2] Time cost=0.495
+2021-05-08 03:24:51,079 [INFO]  Saved checkpoint to "0/model-0002.params"
+2021-05-08 03:24:51,230 [INFO]  Epoch[2] Validation-cross-entropy=13.078560
+2021-05-08 03:24:51,230 [INFO]  Epoch[2] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:51,582 [INFO]  Epoch[3] Batch [0-4]	Speed: 234.60 samples/sec	cross-entropy=16.099545	petal length-accuracy=0.000000
+2021-05-08 03:24:51,732 [INFO]  Epoch[3] Train-cross-entropy=15.482011
+2021-05-08 03:24:51,732 [INFO]  Epoch[3] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:51,732 [INFO]  Epoch[3] Time cost=0.502
+2021-05-08 03:24:51,756 [INFO]  Saved checkpoint to "0/model-0003.params"
+2021-05-08 03:24:51,888 [INFO]  Epoch[3] Validation-cross-entropy=12.938834
+2021-05-08 03:24:51,888 [INFO]  Epoch[3] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:52,236 [INFO]  Epoch[4] Batch [0-4]	Speed: 234.22 samples/sec	cross-entropy=15.929066	petal length-accuracy=0.000000
+2021-05-08 03:24:52,379 [INFO]  Epoch[4] Train-cross-entropy=15.312915
+2021-05-08 03:24:52,379 [INFO]  Epoch[4] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:52,379 [INFO]  Epoch[4] Time cost=0.491
+2021-05-08 03:24:52,403 [INFO]  Saved checkpoint to "0/model-0004.params"
+2021-05-08 03:24:52,542 [INFO]  Epoch[4] Validation-cross-entropy=12.799793
+2021-05-08 03:24:52,542 [INFO]  Epoch[4] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:52,893 [INFO]  Epoch[5] Batch [0-4]	Speed: 233.10 samples/sec	cross-entropy=15.759538	petal length-accuracy=0.000000
+2021-05-08 03:24:53,039 [INFO]  Epoch[5] Train-cross-entropy=15.144831
+2021-05-08 03:24:53,040 [INFO]  Epoch[5] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:53,040 [INFO]  Epoch[5] Time cost=0.498
+2021-05-08 03:24:53,066 [INFO]  Saved checkpoint to "0/model-0005.params"
+2021-05-08 03:24:53,207 [INFO]  Epoch[5] Validation-cross-entropy=12.661267
+2021-05-08 03:24:53,207 [INFO]  Epoch[5] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:53,566 [INFO]  Epoch[6] Batch [0-4]	Speed: 230.14 samples/sec	cross-entropy=15.590789	petal length-accuracy=0.000000
+2021-05-08 03:24:53,714 [INFO]  Epoch[6] Train-cross-entropy=14.977598
+2021-05-08 03:24:53,714 [INFO]  Epoch[6] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:53,714 [INFO]  Epoch[6] Time cost=0.507
+2021-05-08 03:24:53,730 [INFO]  Saved checkpoint to "0/model-0006.params"
+2021-05-08 03:24:53,864 [INFO]  Epoch[6] Validation-cross-entropy=12.523150
+2021-05-08 03:24:53,864 [INFO]  Epoch[6] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:54,221 [INFO]  Epoch[7] Batch [0-4]	Speed: 235.04 samples/sec	cross-entropy=15.422697	petal length-accuracy=0.000000
+2021-05-08 03:24:54,369 [INFO]  Epoch[7] Train-cross-entropy=14.811097
+2021-05-08 03:24:54,369 [INFO]  Epoch[7] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:54,369 [INFO]  Epoch[7] Time cost=0.505
+2021-05-08 03:24:54,391 [INFO]  Saved checkpoint to "0/model-0007.params"
+2021-05-08 03:24:54,526 [INFO]  Epoch[7] Validation-cross-entropy=12.385380
+2021-05-08 03:24:54,526 [INFO]  Epoch[7] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:54,875 [INFO]  Epoch[8] Batch [0-4]	Speed: 234.99 samples/sec	cross-entropy=15.255181	petal length-accuracy=0.000000
+2021-05-08 03:24:55,018 [INFO]  Epoch[8] Train-cross-entropy=14.645248
+2021-05-08 03:24:55,018 [INFO]  Epoch[8] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:55,019 [INFO]  Epoch[8] Time cost=0.492
+2021-05-08 03:24:55,039 [INFO]  Saved checkpoint to "0/model-0008.params"
+2021-05-08 03:24:55,182 [INFO]  Epoch[8] Validation-cross-entropy=12.247929
+2021-05-08 03:24:55,182 [INFO]  Epoch[8] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:55,533 [INFO]  Epoch[9] Batch [0-4]	Speed: 233.74 samples/sec	cross-entropy=15.088192	petal length-accuracy=0.000000
+2021-05-08 03:24:55,677 [INFO]  Epoch[9] Train-cross-entropy=14.480003
+2021-05-08 03:24:55,678 [INFO]  Epoch[9] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:55,678 [INFO]  Epoch[9] Time cost=0.495
+2021-05-08 03:24:55,698 [INFO]  Saved checkpoint to "0/model-0009.params"
+2021-05-08 03:24:55,831 [INFO]  Epoch[9] Validation-cross-entropy=12.110785
+2021-05-08 03:24:55,832 [INFO]  Epoch[9] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:56,183 [INFO]  Epoch[10] Batch [0-4]	Speed: 234.40 samples/sec	cross-entropy=14.921712	petal length-accuracy=0.000000
+2021-05-08 03:24:56,328 [INFO]  Epoch[10] Train-cross-entropy=14.315343
+2021-05-08 03:24:56,329 [INFO]  Epoch[10] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:56,329 [INFO]  Epoch[10] Time cost=0.497
+2021-05-08 03:24:56,352 [INFO]  Saved checkpoint to "0/model-0010.params"
+2021-05-08 03:24:56,485 [INFO]  Epoch[10] Validation-cross-entropy=11.973957
+2021-05-08 03:24:56,485 [INFO]  Epoch[10] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:56,831 [INFO]  Epoch[11] Batch [0-4]	Speed: 235.32 samples/sec	cross-entropy=14.755739	petal length-accuracy=0.000000
+2021-05-08 03:24:56,974 [INFO]  Epoch[11] Train-cross-entropy=14.151264
+2021-05-08 03:24:56,975 [INFO]  Epoch[11] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:56,975 [INFO]  Epoch[11] Time cost=0.489
+2021-05-08 03:24:56,996 [INFO]  Saved checkpoint to "0/model-0011.params"
+2021-05-08 03:24:57,132 [INFO]  Epoch[11] Validation-cross-entropy=11.837456
+2021-05-08 03:24:57,133 [INFO]  Epoch[11] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:57,482 [INFO]  Epoch[12] Batch [0-4]	Speed: 235.21 samples/sec	cross-entropy=14.590278	petal length-accuracy=0.000000
+2021-05-08 03:24:57,625 [INFO]  Epoch[12] Train-cross-entropy=13.987771
+2021-05-08 03:24:57,625 [INFO]  Epoch[12] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:57,626 [INFO]  Epoch[12] Time cost=0.493
+2021-05-08 03:24:57,647 [INFO]  Saved checkpoint to "0/model-0012.params"
+2021-05-08 03:24:57,818 [INFO]  Epoch[12] Validation-cross-entropy=11.701293
+2021-05-08 03:24:57,818 [INFO]  Epoch[12] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:58,213 [INFO]  Epoch[13] Batch [0-4]	Speed: 222.80 samples/sec	cross-entropy=14.425341	petal length-accuracy=0.000000
+2021-05-08 03:24:58,365 [INFO]  Epoch[13] Train-cross-entropy=13.824871
+2021-05-08 03:24:58,365 [INFO]  Epoch[13] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:58,365 [INFO]  Epoch[13] Time cost=0.547
+2021-05-08 03:24:58,387 [INFO]  Saved checkpoint to "0/model-0013.params"
+2021-05-08 03:24:58,517 [INFO]  Epoch[13] Validation-cross-entropy=11.565489
+2021-05-08 03:24:58,517 [INFO]  Epoch[13] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:58,875 [INFO]  Epoch[14] Batch [0-4]	Speed: 225.13 samples/sec	cross-entropy=14.260944	petal length-accuracy=0.000000
+2021-05-08 03:24:59,040 [INFO]  Epoch[14] Train-cross-entropy=13.662581
+2021-05-08 03:24:59,040 [INFO]  Epoch[14] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:59,040 [INFO]  Epoch[14] Time cost=0.523
+2021-05-08 03:24:59,074 [INFO]  Saved checkpoint to "0/model-0014.params"
+2021-05-08 03:24:59,263 [INFO]  Epoch[14] Validation-cross-entropy=11.430061
+2021-05-08 03:24:59,264 [INFO]  Epoch[14] Validation-petal length-accuracy=0.000000
+2021-05-08 03:24:59,722 [INFO]  Epoch[15] Batch [0-4]	Speed: 173.70 samples/sec	cross-entropy=14.097106	petal length-accuracy=0.000000
+2021-05-08 03:24:59,883 [INFO]  Epoch[15] Train-cross-entropy=13.500916
+2021-05-08 03:24:59,884 [INFO]  Epoch[15] Train-petal length-accuracy=0.000000
+2021-05-08 03:24:59,884 [INFO]  Epoch[15] Time cost=0.619
+2021-05-08 03:24:59,915 [INFO]  Saved checkpoint to "0/model-0015.params"
+2021-05-08 03:25:00,067 [INFO]  Epoch[15] Validation-cross-entropy=11.295026
+2021-05-08 03:25:00,067 [INFO]  Epoch[15] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:00,416 [INFO]  Epoch[16] Batch [0-4]	Speed: 234.89 samples/sec	cross-entropy=13.933841	petal length-accuracy=0.000000
+2021-05-08 03:25:00,565 [INFO]  Epoch[16] Train-cross-entropy=13.339893
+2021-05-08 03:25:00,566 [INFO]  Epoch[16] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:00,566 [INFO]  Epoch[16] Time cost=0.499
+2021-05-08 03:25:00,590 [INFO]  Saved checkpoint to "0/model-0016.params"
+2021-05-08 03:25:00,727 [INFO]  Epoch[16] Validation-cross-entropy=11.160403
+2021-05-08 03:25:00,727 [INFO]  Epoch[16] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:01,076 [INFO]  Epoch[17] Batch [0-4]	Speed: 235.13 samples/sec	cross-entropy=13.771171	petal length-accuracy=0.000000
+2021-05-08 03:25:01,218 [INFO]  Epoch[17] Train-cross-entropy=13.179527
+2021-05-08 03:25:01,219 [INFO]  Epoch[17] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:01,219 [INFO]  Epoch[17] Time cost=0.491
+2021-05-08 03:25:01,248 [INFO]  Saved checkpoint to "0/model-0017.params"
+2021-05-08 03:25:01,391 [INFO]  Epoch[17] Validation-cross-entropy=11.026207
+2021-05-08 03:25:01,391 [INFO]  Epoch[17] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:01,739 [INFO]  Epoch[18] Batch [0-4]	Speed: 234.65 samples/sec	cross-entropy=13.609107	petal length-accuracy=0.000000
+2021-05-08 03:25:01,943 [INFO]  Epoch[18] Train-cross-entropy=13.019829
+2021-05-08 03:25:01,944 [INFO]  Epoch[18] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:01,946 [INFO]  Epoch[18] Time cost=0.554
+2021-05-08 03:25:02,008 [INFO]  Saved checkpoint to "0/model-0018.params"
+2021-05-08 03:25:02,258 [INFO]  Epoch[18] Validation-cross-entropy=10.892452
+2021-05-08 03:25:02,258 [INFO]  Epoch[18] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:02,638 [INFO]  Epoch[19] Batch [0-4]	Speed: 228.04 samples/sec	cross-entropy=13.447665	petal length-accuracy=0.000000
+2021-05-08 03:25:02,795 [INFO]  Epoch[19] Train-cross-entropy=12.860814
+2021-05-08 03:25:02,795 [INFO]  Epoch[19] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:02,795 [INFO]  Epoch[19] Time cost=0.537
+2021-05-08 03:25:02,835 [INFO]  Saved checkpoint to "0/model-0019.params"
+2021-05-08 03:25:03,037 [INFO]  Epoch[19] Validation-cross-entropy=10.759153
+2021-05-08 03:25:03,038 [INFO]  Epoch[19] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:03,684 [INFO]  Epoch[20] Batch [0-4]	Speed: 115.54 samples/sec	cross-entropy=13.286862	petal length-accuracy=0.000000
+2021-05-08 03:25:04,410 [INFO]  Epoch[20] Train-cross-entropy=12.702498
+2021-05-08 03:25:04,410 [INFO]  Epoch[20] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:04,410 [INFO]  Epoch[20] Time cost=1.372
+2021-05-08 03:25:04,436 [INFO]  Saved checkpoint to "0/model-0020.params"
+2021-05-08 03:25:04,775 [INFO]  Epoch[20] Validation-cross-entropy=10.626331
+2021-05-08 03:25:04,775 [INFO]  Epoch[20] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:05,364 [INFO]  Epoch[21] Batch [0-4]	Speed: 134.44 samples/sec	cross-entropy=13.126712	petal length-accuracy=0.000000
+2021-05-08 03:25:05,610 [INFO]  Epoch[21] Train-cross-entropy=12.544894
+2021-05-08 03:25:05,610 [INFO]  Epoch[21] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:05,611 [INFO]  Epoch[21] Time cost=0.835
+2021-05-08 03:25:05,632 [INFO]  Saved checkpoint to "0/model-0021.params"
+2021-05-08 03:25:05,771 [INFO]  Epoch[21] Validation-cross-entropy=10.494006
+2021-05-08 03:25:05,772 [INFO]  Epoch[21] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:06,168 [INFO]  Epoch[22] Batch [0-4]	Speed: 218.24 samples/sec	cross-entropy=12.967227	petal length-accuracy=0.000000
+2021-05-08 03:25:06,329 [INFO]  Epoch[22] Train-cross-entropy=12.388013
+2021-05-08 03:25:06,329 [INFO]  Epoch[22] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:06,329 [INFO]  Epoch[22] Time cost=0.558
+2021-05-08 03:25:06,363 [INFO]  Saved checkpoint to "0/model-0022.params"
+2021-05-08 03:25:06,592 [INFO]  Epoch[22] Validation-cross-entropy=10.362185
+2021-05-08 03:25:06,592 [INFO]  Epoch[22] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:06,961 [INFO]  Epoch[23] Batch [0-4]	Speed: 230.11 samples/sec	cross-entropy=12.808428	petal length-accuracy=0.000000
+2021-05-08 03:25:07,132 [INFO]  Epoch[23] Train-cross-entropy=12.231872
+2021-05-08 03:25:07,132 [INFO]  Epoch[23] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:07,132 [INFO]  Epoch[23] Time cost=0.540
+2021-05-08 03:25:07,161 [INFO]  Saved checkpoint to "0/model-0023.params"
+2021-05-08 03:25:07,304 [INFO]  Epoch[23] Validation-cross-entropy=10.230887
+2021-05-08 03:25:07,304 [INFO]  Epoch[23] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:07,686 [INFO]  Epoch[24] Batch [0-4]	Speed: 215.76 samples/sec	cross-entropy=12.650341	petal length-accuracy=0.000000
+2021-05-08 03:25:07,837 [INFO]  Epoch[24] Train-cross-entropy=12.076498
+2021-05-08 03:25:07,838 [INFO]  Epoch[24] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:07,838 [INFO]  Epoch[24] Time cost=0.533
+2021-05-08 03:25:07,861 [INFO]  Saved checkpoint to "0/model-0024.params"
+2021-05-08 03:25:07,996 [INFO]  Epoch[24] Validation-cross-entropy=10.100133
+2021-05-08 03:25:07,997 [INFO]  Epoch[24] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:08,391 [INFO]  Epoch[25] Batch [0-4]	Speed: 203.49 samples/sec	cross-entropy=12.492979	petal length-accuracy=0.000000
+2021-05-08 03:25:08,545 [INFO]  Epoch[25] Train-cross-entropy=11.921901
+2021-05-08 03:25:08,545 [INFO]  Epoch[25] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:08,546 [INFO]  Epoch[25] Time cost=0.549
+2021-05-08 03:25:08,576 [INFO]  Saved checkpoint to "0/model-0025.params"
+2021-05-08 03:25:08,711 [INFO]  Epoch[25] Validation-cross-entropy=9.969932
+2021-05-08 03:25:08,711 [INFO]  Epoch[25] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:09,076 [INFO]  Epoch[26] Batch [0-4]	Speed: 222.52 samples/sec	cross-entropy=12.336361	petal length-accuracy=0.000000
+2021-05-08 03:25:09,230 [INFO]  Epoch[26] Train-cross-entropy=11.768100
+2021-05-08 03:25:09,230 [INFO]  Epoch[26] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:09,231 [INFO]  Epoch[26] Time cost=0.519
+2021-05-08 03:25:09,261 [INFO]  Saved checkpoint to "0/model-0026.params"
+2021-05-08 03:25:09,529 [INFO]  Epoch[26] Validation-cross-entropy=9.840298
+2021-05-08 03:25:09,529 [INFO]  Epoch[26] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:09,898 [INFO]  Epoch[27] Batch [0-4]	Speed: 223.90 samples/sec	cross-entropy=12.180498	petal length-accuracy=0.000000
+2021-05-08 03:25:10,054 [INFO]  Epoch[27] Train-cross-entropy=11.615103
+2021-05-08 03:25:10,054 [INFO]  Epoch[27] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:10,054 [INFO]  Epoch[27] Time cost=0.525
+2021-05-08 03:25:10,080 [INFO]  Saved checkpoint to "0/model-0027.params"
+2021-05-08 03:25:10,240 [INFO]  Epoch[27] Validation-cross-entropy=9.711245
+2021-05-08 03:25:10,240 [INFO]  Epoch[27] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:10,781 [INFO]  Epoch[28] Batch [0-4]	Speed: 141.58 samples/sec	cross-entropy=12.025409	petal length-accuracy=0.000000
+2021-05-08 03:25:10,987 [INFO]  Epoch[28] Train-cross-entropy=11.462928
+2021-05-08 03:25:10,988 [INFO]  Epoch[28] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:10,988 [INFO]  Epoch[28] Time cost=0.747
+2021-05-08 03:25:11,026 [INFO]  Saved checkpoint to "0/model-0028.params"
+2021-05-08 03:25:11,196 [INFO]  Epoch[28] Validation-cross-entropy=9.582788
+2021-05-08 03:25:11,197 [INFO]  Epoch[28] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:11,588 [INFO]  Epoch[29] Batch [0-4]	Speed: 214.36 samples/sec	cross-entropy=11.871108	petal length-accuracy=0.000000
+2021-05-08 03:25:11,812 [INFO]  Epoch[29] Train-cross-entropy=11.311588
+2021-05-08 03:25:11,812 [INFO]  Epoch[29] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:11,812 [INFO]  Epoch[29] Time cost=0.615
+2021-05-08 03:25:11,852 [INFO]  Saved checkpoint to "0/model-0029.params"
+2021-05-08 03:25:12,045 [INFO]  Epoch[29] Validation-cross-entropy=9.454941
+2021-05-08 03:25:12,046 [INFO]  Epoch[29] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:12,450 [INFO]  Epoch[30] Batch [0-4]	Speed: 201.13 samples/sec	cross-entropy=11.717607	petal length-accuracy=0.000000
+2021-05-08 03:25:12,647 [INFO]  Epoch[30] Train-cross-entropy=11.161100
+2021-05-08 03:25:12,647 [INFO]  Epoch[30] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:12,647 [INFO]  Epoch[30] Time cost=0.601
+2021-05-08 03:25:12,677 [INFO]  Saved checkpoint to "0/model-0030.params"
+2021-05-08 03:25:12,857 [INFO]  Epoch[30] Validation-cross-entropy=9.327719
+2021-05-08 03:25:12,857 [INFO]  Epoch[30] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:13,449 [INFO]  Epoch[31] Batch [0-4]	Speed: 126.41 samples/sec	cross-entropy=11.564933	petal length-accuracy=0.000000
+2021-05-08 03:25:13,701 [INFO]  Epoch[31] Train-cross-entropy=11.011485
+2021-05-08 03:25:13,702 [INFO]  Epoch[31] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:13,703 [INFO]  Epoch[31] Time cost=0.845
+2021-05-08 03:25:13,733 [INFO]  Saved checkpoint to "0/model-0031.params"
+2021-05-08 03:25:13,889 [INFO]  Epoch[31] Validation-cross-entropy=9.201144
+2021-05-08 03:25:13,889 [INFO]  Epoch[31] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:14,263 [INFO]  Epoch[32] Batch [0-4]	Speed: 221.65 samples/sec	cross-entropy=11.413106	petal length-accuracy=0.000000
+2021-05-08 03:25:14,426 [INFO]  Epoch[32] Train-cross-entropy=10.862758
+2021-05-08 03:25:14,427 [INFO]  Epoch[32] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:14,427 [INFO]  Epoch[32] Time cost=0.537
+2021-05-08 03:25:14,451 [INFO]  Saved checkpoint to "0/model-0032.params"
+2021-05-08 03:25:14,592 [INFO]  Epoch[32] Validation-cross-entropy=9.075228
+2021-05-08 03:25:14,592 [INFO]  Epoch[32] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:14,966 [INFO]  Epoch[33] Batch [0-4]	Speed: 215.24 samples/sec	cross-entropy=11.262131	petal length-accuracy=0.000000
+2021-05-08 03:25:15,176 [INFO]  Epoch[33] Train-cross-entropy=10.714925
+2021-05-08 03:25:15,177 [INFO]  Epoch[33] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:15,177 [INFO]  Epoch[33] Time cost=0.585
+2021-05-08 03:25:15,221 [INFO]  Saved checkpoint to "0/model-0033.params"
+2021-05-08 03:25:15,390 [INFO]  Epoch[33] Validation-cross-entropy=8.949978
+2021-05-08 03:25:15,391 [INFO]  Epoch[33] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:15,824 [INFO]  Epoch[34] Batch [0-4]	Speed: 195.20 samples/sec	cross-entropy=11.112024	petal length-accuracy=0.000000
+2021-05-08 03:25:15,976 [INFO]  Epoch[34] Train-cross-entropy=10.568002
+2021-05-08 03:25:15,976 [INFO]  Epoch[34] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:15,976 [INFO]  Epoch[34] Time cost=0.586
+2021-05-08 03:25:15,998 [INFO]  Saved checkpoint to "0/model-0034.params"
+2021-05-08 03:25:16,132 [INFO]  Epoch[34] Validation-cross-entropy=8.825410
+2021-05-08 03:25:16,132 [INFO]  Epoch[34] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:16,517 [INFO]  Epoch[35] Batch [0-4]	Speed: 211.60 samples/sec	cross-entropy=10.962796	petal length-accuracy=0.000000
+2021-05-08 03:25:16,660 [INFO]  Epoch[35] Train-cross-entropy=10.421998
+2021-05-08 03:25:16,660 [INFO]  Epoch[35] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:16,660 [INFO]  Epoch[35] Time cost=0.527
+2021-05-08 03:25:16,679 [INFO]  Saved checkpoint to "0/model-0035.params"
+2021-05-08 03:25:16,813 [INFO]  Epoch[35] Validation-cross-entropy=8.701535
+2021-05-08 03:25:16,813 [INFO]  Epoch[35] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:17,174 [INFO]  Epoch[36] Batch [0-4]	Speed: 223.77 samples/sec	cross-entropy=10.814460	petal length-accuracy=0.000000
+2021-05-08 03:25:17,320 [INFO]  Epoch[36] Train-cross-entropy=10.276925
+2021-05-08 03:25:17,320 [INFO]  Epoch[36] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:17,320 [INFO]  Epoch[36] Time cost=0.507
+2021-05-08 03:25:17,341 [INFO]  Saved checkpoint to "0/model-0036.params"
+2021-05-08 03:25:17,475 [INFO]  Epoch[36] Validation-cross-entropy=8.578364
+2021-05-08 03:25:17,475 [INFO]  Epoch[36] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:17,847 [INFO]  Epoch[37] Batch [0-4]	Speed: 219.68 samples/sec	cross-entropy=10.667027	petal length-accuracy=0.000000
+2021-05-08 03:25:17,999 [INFO]  Epoch[37] Train-cross-entropy=10.132793
+2021-05-08 03:25:18,000 [INFO]  Epoch[37] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:18,000 [INFO]  Epoch[37] Time cost=0.525
+2021-05-08 03:25:18,019 [INFO]  Saved checkpoint to "0/model-0037.params"
+2021-05-08 03:25:18,154 [INFO]  Epoch[37] Validation-cross-entropy=8.455909
+2021-05-08 03:25:18,154 [INFO]  Epoch[37] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:18,531 [INFO]  Epoch[38] Batch [0-4]	Speed: 210.24 samples/sec	cross-entropy=10.520510	petal length-accuracy=0.000000
+2021-05-08 03:25:18,680 [INFO]  Epoch[38] Train-cross-entropy=9.989615
+2021-05-08 03:25:18,680 [INFO]  Epoch[38] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:18,680 [INFO]  Epoch[38] Time cost=0.526
+2021-05-08 03:25:18,705 [INFO]  Saved checkpoint to "0/model-0038.params"
+2021-05-08 03:25:18,841 [INFO]  Epoch[38] Validation-cross-entropy=8.334202
+2021-05-08 03:25:18,841 [INFO]  Epoch[38] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:19,209 [INFO]  Epoch[39] Batch [0-4]	Speed: 219.20 samples/sec	cross-entropy=10.374917	petal length-accuracy=0.000000
+2021-05-08 03:25:19,352 [INFO]  Epoch[39] Train-cross-entropy=9.847400
+2021-05-08 03:25:19,353 [INFO]  Epoch[39] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:19,353 [INFO]  Epoch[39] Time cost=0.511
+2021-05-08 03:25:19,371 [INFO]  Saved checkpoint to "0/model-0039.params"
+2021-05-08 03:25:19,507 [INFO]  Epoch[39] Validation-cross-entropy=8.213242
+2021-05-08 03:25:19,507 [INFO]  Epoch[39] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:19,925 [INFO]  Epoch[40] Batch [0-4]	Speed: 187.54 samples/sec	cross-entropy=10.230274	petal length-accuracy=0.000000
+2021-05-08 03:25:20,091 [INFO]  Epoch[40] Train-cross-entropy=9.706170
+2021-05-08 03:25:20,091 [INFO]  Epoch[40] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:20,091 [INFO]  Epoch[40] Time cost=0.584
+2021-05-08 03:25:20,110 [INFO]  Saved checkpoint to "0/model-0040.params"
+2021-05-08 03:25:20,240 [INFO]  Epoch[40] Validation-cross-entropy=8.093039
+2021-05-08 03:25:20,240 [INFO]  Epoch[40] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:20,612 [INFO]  Epoch[41] Batch [0-4]	Speed: 215.17 samples/sec	cross-entropy=10.086589	petal length-accuracy=0.000000
+2021-05-08 03:25:20,764 [INFO]  Epoch[41] Train-cross-entropy=9.565931
+2021-05-08 03:25:20,765 [INFO]  Epoch[41] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:20,765 [INFO]  Epoch[41] Time cost=0.524
+2021-05-08 03:25:20,782 [INFO]  Saved checkpoint to "0/model-0041.params"
+2021-05-08 03:25:20,909 [INFO]  Epoch[41] Validation-cross-entropy=7.973606
+2021-05-08 03:25:20,909 [INFO]  Epoch[41] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:21,268 [INFO]  Epoch[42] Batch [0-4]	Speed: 225.52 samples/sec	cross-entropy=9.943874	petal length-accuracy=0.000000
+2021-05-08 03:25:21,419 [INFO]  Epoch[42] Train-cross-entropy=9.426695
+2021-05-08 03:25:21,419 [INFO]  Epoch[42] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:21,419 [INFO]  Epoch[42] Time cost=0.510
+2021-05-08 03:25:21,437 [INFO]  Saved checkpoint to "0/model-0042.params"
+2021-05-08 03:25:21,565 [INFO]  Epoch[42] Validation-cross-entropy=7.854952
+2021-05-08 03:25:21,565 [INFO]  Epoch[42] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:21,952 [INFO]  Epoch[43] Batch [0-4]	Speed: 208.23 samples/sec	cross-entropy=9.802141	petal length-accuracy=0.000000
+2021-05-08 03:25:22,099 [INFO]  Epoch[43] Train-cross-entropy=9.288471
+2021-05-08 03:25:22,099 [INFO]  Epoch[43] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:22,099 [INFO]  Epoch[43] Time cost=0.534
+2021-05-08 03:25:22,118 [INFO]  Saved checkpoint to "0/model-0043.params"
+2021-05-08 03:25:22,252 [INFO]  Epoch[43] Validation-cross-entropy=7.737090
+2021-05-08 03:25:22,253 [INFO]  Epoch[43] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:22,613 [INFO]  Epoch[44] Batch [0-4]	Speed: 227.36 samples/sec	cross-entropy=9.661401	petal length-accuracy=0.000000
+2021-05-08 03:25:22,787 [INFO]  Epoch[44] Train-cross-entropy=9.151271
+2021-05-08 03:25:22,787 [INFO]  Epoch[44] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:22,787 [INFO]  Epoch[44] Time cost=0.534
+2021-05-08 03:25:22,813 [INFO]  Saved checkpoint to "0/model-0044.params"
+2021-05-08 03:25:22,945 [INFO]  Epoch[44] Validation-cross-entropy=7.620030
+2021-05-08 03:25:22,945 [INFO]  Epoch[44] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:23,316 [INFO]  Epoch[45] Batch [0-4]	Speed: 215.19 samples/sec	cross-entropy=9.521669	petal length-accuracy=0.000000
+2021-05-08 03:25:23,459 [INFO]  Epoch[45] Train-cross-entropy=9.015107
+2021-05-08 03:25:23,459 [INFO]  Epoch[45] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:23,459 [INFO]  Epoch[45] Time cost=0.514
+2021-05-08 03:25:23,479 [INFO]  Saved checkpoint to "0/model-0045.params"
+2021-05-08 03:25:23,613 [INFO]  Epoch[45] Validation-cross-entropy=7.503785
+2021-05-08 03:25:23,613 [INFO]  Epoch[45] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:23,970 [INFO]  Epoch[46] Batch [0-4]	Speed: 226.00 samples/sec	cross-entropy=9.382955	petal length-accuracy=0.000000
+2021-05-08 03:25:24,142 [INFO]  Epoch[46] Train-cross-entropy=8.879988
+2021-05-08 03:25:24,143 [INFO]  Epoch[46] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:24,143 [INFO]  Epoch[46] Time cost=0.530
+2021-05-08 03:25:24,166 [INFO]  Saved checkpoint to "0/model-0046.params"
+2021-05-08 03:25:24,361 [INFO]  Epoch[46] Validation-cross-entropy=7.388365
+2021-05-08 03:25:24,361 [INFO]  Epoch[46] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:24,745 [INFO]  Epoch[47] Batch [0-4]	Speed: 208.81 samples/sec	cross-entropy=9.245270	petal length-accuracy=0.000000
+2021-05-08 03:25:24,901 [INFO]  Epoch[47] Train-cross-entropy=8.745925
+2021-05-08 03:25:24,901 [INFO]  Epoch[47] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:24,902 [INFO]  Epoch[47] Time cost=0.540
+2021-05-08 03:25:24,923 [INFO]  Saved checkpoint to "0/model-0047.params"
+2021-05-08 03:25:25,064 [INFO]  Epoch[47] Validation-cross-entropy=7.273781
+2021-05-08 03:25:25,065 [INFO]  Epoch[47] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:25,425 [INFO]  Epoch[48] Batch [0-4]	Speed: 221.23 samples/sec	cross-entropy=9.108627	petal length-accuracy=0.000000
+2021-05-08 03:25:25,583 [INFO]  Epoch[48] Train-cross-entropy=8.612928
+2021-05-08 03:25:25,584 [INFO]  Epoch[48] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:25,584 [INFO]  Epoch[48] Time cost=0.519
+2021-05-08 03:25:25,605 [INFO]  Saved checkpoint to "0/model-0048.params"
+2021-05-08 03:25:25,754 [INFO]  Epoch[48] Validation-cross-entropy=7.160046
+2021-05-08 03:25:25,755 [INFO]  Epoch[48] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:26,153 [INFO]  Epoch[49] Batch [0-4]	Speed: 201.96 samples/sec	cross-entropy=8.973037	petal length-accuracy=0.000000
+2021-05-08 03:25:26,304 [INFO]  Epoch[49] Train-cross-entropy=8.481008
+2021-05-08 03:25:26,304 [INFO]  Epoch[49] Train-petal length-accuracy=0.000000
+2021-05-08 03:25:26,304 [INFO]  Epoch[49] Time cost=0.549
+2021-05-08 03:25:26,327 [INFO]  Saved checkpoint to "0/model-0049.params"
+2021-05-08 03:25:26,471 [INFO]  Epoch[49] Validation-cross-entropy=7.047169
+2021-05-08 03:25:26,471 [INFO]  Epoch[49] Validation-petal length-accuracy=0.000000
+2021-05-08 03:25:26,471 [INFO]  
+========== done (37.27012586593628 s) fit model
+2021-05-08 03:27:36,490 [INFO]  
+========== start: fit model
+2021-05-08 03:27:36,491 [WARNING]  Already bound, ignoring bind()
+2021-05-08 03:27:36,863 [INFO]  Epoch[0] Batch [0-4]	Speed: 239.17 samples/sec	cross-entropy=16.624695	petal length-accuracy=0.000000
+2021-05-08 03:27:37,000 [INFO]  Epoch[0] Train-cross-entropy=16.001578
+2021-05-08 03:27:37,000 [INFO]  Epoch[0] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:37,000 [INFO]  Epoch[0] Time cost=0.506
+2021-05-08 03:27:37,027 [INFO]  Saved checkpoint to "0/model-0000.params"
+2021-05-08 03:27:37,149 [INFO]  Epoch[0] Validation-cross-entropy=13.361921
+2021-05-08 03:27:37,150 [INFO]  Epoch[0] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:37,487 [INFO]  Epoch[1] Batch [0-4]	Speed: 238.70 samples/sec	cross-entropy=16.444665	petal length-accuracy=0.000000
+2021-05-08 03:27:37,624 [INFO]  Epoch[1] Train-cross-entropy=15.824350
+2021-05-08 03:27:37,624 [INFO]  Epoch[1] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:37,624 [INFO]  Epoch[1] Time cost=0.474
+2021-05-08 03:27:37,650 [INFO]  Saved checkpoint to "0/model-0001.params"
+2021-05-08 03:27:37,779 [INFO]  Epoch[1] Validation-cross-entropy=13.219309
+2021-05-08 03:27:37,779 [INFO]  Epoch[1] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:38,120 [INFO]  Epoch[2] Batch [0-4]	Speed: 235.96 samples/sec	cross-entropy=16.271228	petal length-accuracy=0.000000
+2021-05-08 03:27:38,256 [INFO]  Epoch[2] Train-cross-entropy=15.652344
+2021-05-08 03:27:38,257 [INFO]  Epoch[2] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:38,257 [INFO]  Epoch[2] Time cost=0.477
+2021-05-08 03:27:38,284 [INFO]  Saved checkpoint to "0/model-0002.params"
+2021-05-08 03:27:38,413 [INFO]  Epoch[2] Validation-cross-entropy=13.078560
+2021-05-08 03:27:38,413 [INFO]  Epoch[2] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:38,752 [INFO]  Epoch[3] Batch [0-4]	Speed: 238.22 samples/sec	cross-entropy=16.099545	petal length-accuracy=0.000000
+2021-05-08 03:27:38,888 [INFO]  Epoch[3] Train-cross-entropy=15.482011
+2021-05-08 03:27:38,888 [INFO]  Epoch[3] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:38,888 [INFO]  Epoch[3] Time cost=0.475
+2021-05-08 03:27:38,915 [INFO]  Saved checkpoint to "0/model-0003.params"
+2021-05-08 03:27:39,039 [INFO]  Epoch[3] Validation-cross-entropy=12.938834
+2021-05-08 03:27:39,039 [INFO]  Epoch[3] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:39,380 [INFO]  Epoch[4] Batch [0-4]	Speed: 235.72 samples/sec	cross-entropy=15.929066	petal length-accuracy=0.000000
+2021-05-08 03:27:39,517 [INFO]  Epoch[4] Train-cross-entropy=15.312915
+2021-05-08 03:27:39,517 [INFO]  Epoch[4] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:39,517 [INFO]  Epoch[4] Time cost=0.478
+2021-05-08 03:27:39,544 [INFO]  Saved checkpoint to "0/model-0004.params"
+2021-05-08 03:27:39,669 [INFO]  Epoch[4] Validation-cross-entropy=12.799793
+2021-05-08 03:27:39,669 [INFO]  Epoch[4] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:40,009 [INFO]  Epoch[5] Batch [0-4]	Speed: 237.28 samples/sec	cross-entropy=15.759538	petal length-accuracy=0.000000
+2021-05-08 03:27:40,145 [INFO]  Epoch[5] Train-cross-entropy=15.144831
+2021-05-08 03:27:40,145 [INFO]  Epoch[5] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:40,145 [INFO]  Epoch[5] Time cost=0.475
+2021-05-08 03:27:40,173 [INFO]  Saved checkpoint to "0/model-0005.params"
+2021-05-08 03:27:40,301 [INFO]  Epoch[5] Validation-cross-entropy=12.661267
+2021-05-08 03:27:40,301 [INFO]  Epoch[5] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:40,669 [INFO]  Epoch[6] Batch [0-4]	Speed: 220.39 samples/sec	cross-entropy=15.590789	petal length-accuracy=0.000000
+2021-05-08 03:27:40,840 [INFO]  Epoch[6] Train-cross-entropy=14.977598
+2021-05-08 03:27:40,840 [INFO]  Epoch[6] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:40,840 [INFO]  Epoch[6] Time cost=0.539
+2021-05-08 03:27:40,868 [INFO]  Saved checkpoint to "0/model-0006.params"
+2021-05-08 03:27:40,996 [INFO]  Epoch[6] Validation-cross-entropy=12.523150
+2021-05-08 03:27:40,996 [INFO]  Epoch[6] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:41,395 [INFO]  Epoch[7] Batch [0-4]	Speed: 199.19 samples/sec	cross-entropy=15.422697	petal length-accuracy=0.000000
+2021-05-08 03:27:41,561 [INFO]  Epoch[7] Train-cross-entropy=14.811097
+2021-05-08 03:27:41,561 [INFO]  Epoch[7] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:41,561 [INFO]  Epoch[7] Time cost=0.565
+2021-05-08 03:27:41,590 [INFO]  Saved checkpoint to "0/model-0007.params"
+2021-05-08 03:27:41,716 [INFO]  Epoch[7] Validation-cross-entropy=12.385380
+2021-05-08 03:27:41,717 [INFO]  Epoch[7] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:42,098 [INFO]  Epoch[8] Batch [0-4]	Speed: 211.30 samples/sec	cross-entropy=15.255181	petal length-accuracy=0.000000
+2021-05-08 03:27:42,246 [INFO]  Epoch[8] Train-cross-entropy=14.645248
+2021-05-08 03:27:42,246 [INFO]  Epoch[8] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:42,246 [INFO]  Epoch[8] Time cost=0.529
+2021-05-08 03:27:42,272 [INFO]  Saved checkpoint to "0/model-0008.params"
+2021-05-08 03:27:42,439 [INFO]  Epoch[8] Validation-cross-entropy=12.247929
+2021-05-08 03:27:42,440 [INFO]  Epoch[8] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:43,347 [INFO]  Epoch[9] Batch [0-4]	Speed: 92.65 samples/sec	cross-entropy=15.088192	petal length-accuracy=0.000000
+2021-05-08 03:27:43,580 [INFO]  Epoch[9] Train-cross-entropy=14.480003
+2021-05-08 03:27:43,580 [INFO]  Epoch[9] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:43,581 [INFO]  Epoch[9] Time cost=1.140
+2021-05-08 03:27:43,603 [INFO]  Saved checkpoint to "0/model-0009.params"
+2021-05-08 03:27:43,736 [INFO]  Epoch[9] Validation-cross-entropy=12.110785
+2021-05-08 03:27:43,737 [INFO]  Epoch[9] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:44,112 [INFO]  Epoch[10] Batch [0-4]	Speed: 229.63 samples/sec	cross-entropy=14.921712	petal length-accuracy=0.000000
+2021-05-08 03:27:44,258 [INFO]  Epoch[10] Train-cross-entropy=14.315343
+2021-05-08 03:27:44,258 [INFO]  Epoch[10] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:44,258 [INFO]  Epoch[10] Time cost=0.521
+2021-05-08 03:27:44,274 [INFO]  Saved checkpoint to "0/model-0010.params"
+2021-05-08 03:27:44,403 [INFO]  Epoch[10] Validation-cross-entropy=11.973957
+2021-05-08 03:27:44,404 [INFO]  Epoch[10] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:44,763 [INFO]  Epoch[11] Batch [0-4]	Speed: 226.46 samples/sec	cross-entropy=14.755739	petal length-accuracy=0.000000
+2021-05-08 03:27:44,933 [INFO]  Epoch[11] Train-cross-entropy=14.151264
+2021-05-08 03:27:44,933 [INFO]  Epoch[11] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:44,933 [INFO]  Epoch[11] Time cost=0.529
+2021-05-08 03:27:44,952 [INFO]  Saved checkpoint to "0/model-0011.params"
+2021-05-08 03:27:45,121 [INFO]  Epoch[11] Validation-cross-entropy=11.837456
+2021-05-08 03:27:45,121 [INFO]  Epoch[11] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:45,607 [INFO]  Epoch[12] Batch [0-4]	Speed: 196.66 samples/sec	cross-entropy=14.590278	petal length-accuracy=0.000000
+2021-05-08 03:27:45,793 [INFO]  
+========== done (9.30285096168518 s) fit model
+2021-05-08 03:27:49,514 [INFO]  
+========== start: fit model
+2021-05-08 03:27:49,514 [WARNING]  Already bound, ignoring bind()
+2021-05-08 03:27:49,886 [INFO]  Epoch[0] Batch [0-4]	Speed: 238.90 samples/sec	cross-entropy=16.624695	petal length-accuracy=0.000000
+2021-05-08 03:27:50,022 [INFO]  Epoch[0] Train-cross-entropy=16.001578
+2021-05-08 03:27:50,022 [INFO]  Epoch[0] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:50,022 [INFO]  Epoch[0] Time cost=0.505
+2021-05-08 03:27:50,049 [INFO]  Saved checkpoint to "0/model-0000.params"
+2021-05-08 03:27:50,172 [INFO]  Epoch[0] Validation-cross-entropy=13.361921
+2021-05-08 03:27:50,172 [INFO]  Epoch[0] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:50,512 [INFO]  Epoch[1] Batch [0-4]	Speed: 237.07 samples/sec	cross-entropy=16.444665	petal length-accuracy=0.000000
+2021-05-08 03:27:50,650 [INFO]  Epoch[1] Train-cross-entropy=15.824350
+2021-05-08 03:27:50,650 [INFO]  Epoch[1] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:50,650 [INFO]  Epoch[1] Time cost=0.478
+2021-05-08 03:27:50,674 [INFO]  Saved checkpoint to "0/model-0001.params"
+2021-05-08 03:27:50,800 [INFO]  Epoch[1] Validation-cross-entropy=13.219309
+2021-05-08 03:27:50,800 [INFO]  Epoch[1] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:51,142 [INFO]  Epoch[2] Batch [0-4]	Speed: 234.91 samples/sec	cross-entropy=16.271228	petal length-accuracy=0.000000
+2021-05-08 03:27:51,280 [INFO]  Epoch[2] Train-cross-entropy=15.652344
+2021-05-08 03:27:51,281 [INFO]  Epoch[2] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:51,281 [INFO]  Epoch[2] Time cost=0.481
+2021-05-08 03:27:51,315 [INFO]  Saved checkpoint to "0/model-0002.params"
+2021-05-08 03:27:51,439 [INFO]  Epoch[2] Validation-cross-entropy=13.078560
+2021-05-08 03:27:51,439 [INFO]  Epoch[2] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:51,781 [INFO]  Epoch[3] Batch [0-4]	Speed: 236.98 samples/sec	cross-entropy=16.099545	petal length-accuracy=0.000000
+2021-05-08 03:27:51,918 [INFO]  Epoch[3] Train-cross-entropy=15.482011
+2021-05-08 03:27:51,918 [INFO]  Epoch[3] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:51,918 [INFO]  Epoch[3] Time cost=0.479
+2021-05-08 03:27:51,943 [INFO]  Saved checkpoint to "0/model-0003.params"
+2021-05-08 03:27:52,068 [INFO]  Epoch[3] Validation-cross-entropy=12.938834
+2021-05-08 03:27:52,068 [INFO]  Epoch[3] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:52,409 [INFO]  Epoch[4] Batch [0-4]	Speed: 237.30 samples/sec	cross-entropy=15.929066	petal length-accuracy=0.000000
+2021-05-08 03:27:52,547 [INFO]  Epoch[4] Train-cross-entropy=15.312915
+2021-05-08 03:27:52,547 [INFO]  Epoch[4] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:52,547 [INFO]  Epoch[4] Time cost=0.479
+2021-05-08 03:27:52,579 [INFO]  Saved checkpoint to "0/model-0004.params"
+2021-05-08 03:27:52,704 [INFO]  Epoch[4] Validation-cross-entropy=12.799793
+2021-05-08 03:27:52,704 [INFO]  Epoch[4] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:53,044 [INFO]  Epoch[5] Batch [0-4]	Speed: 237.86 samples/sec	cross-entropy=15.759538	petal length-accuracy=0.000000
+2021-05-08 03:27:53,181 [INFO]  Epoch[5] Train-cross-entropy=15.144831
+2021-05-08 03:27:53,182 [INFO]  Epoch[5] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:53,182 [INFO]  Epoch[5] Time cost=0.478
+2021-05-08 03:27:53,202 [INFO]  Saved checkpoint to "0/model-0005.params"
+2021-05-08 03:27:53,335 [INFO]  Epoch[5] Validation-cross-entropy=12.661267
+2021-05-08 03:27:53,335 [INFO]  Epoch[5] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:53,673 [INFO]  Epoch[6] Batch [0-4]	Speed: 238.04 samples/sec	cross-entropy=15.590789	petal length-accuracy=0.000000
+2021-05-08 03:27:53,809 [INFO]  Epoch[6] Train-cross-entropy=14.977598
+2021-05-08 03:27:53,809 [INFO]  Epoch[6] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:53,809 [INFO]  Epoch[6] Time cost=0.474
+2021-05-08 03:27:53,833 [INFO]  Saved checkpoint to "0/model-0006.params"
+2021-05-08 03:27:53,959 [INFO]  Epoch[6] Validation-cross-entropy=12.523150
+2021-05-08 03:27:53,959 [INFO]  Epoch[6] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:54,297 [INFO]  Epoch[7] Batch [0-4]	Speed: 238.55 samples/sec	cross-entropy=15.422697	petal length-accuracy=0.000000
+2021-05-08 03:27:54,433 [INFO]  Epoch[7] Train-cross-entropy=14.811097
+2021-05-08 03:27:54,434 [INFO]  Epoch[7] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:54,434 [INFO]  Epoch[7] Time cost=0.474
+2021-05-08 03:27:54,462 [INFO]  Saved checkpoint to "0/model-0007.params"
+2021-05-08 03:27:54,584 [INFO]  Epoch[7] Validation-cross-entropy=12.385380
+2021-05-08 03:27:54,584 [INFO]  Epoch[7] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:54,922 [INFO]  Epoch[8] Batch [0-4]	Speed: 238.00 samples/sec	cross-entropy=15.255181	petal length-accuracy=0.000000
+2021-05-08 03:27:55,058 [INFO]  Epoch[8] Train-cross-entropy=14.645248
+2021-05-08 03:27:55,058 [INFO]  Epoch[8] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:55,058 [INFO]  Epoch[8] Time cost=0.474
+2021-05-08 03:27:55,083 [INFO]  Saved checkpoint to "0/model-0008.params"
+2021-05-08 03:27:55,207 [INFO]  Epoch[8] Validation-cross-entropy=12.247929
+2021-05-08 03:27:55,208 [INFO]  Epoch[8] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:55,549 [INFO]  Epoch[9] Batch [0-4]	Speed: 237.64 samples/sec	cross-entropy=15.088192	petal length-accuracy=0.000000
+2021-05-08 03:27:55,685 [INFO]  Epoch[9] Train-cross-entropy=14.480003
+2021-05-08 03:27:55,685 [INFO]  Epoch[9] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:55,685 [INFO]  Epoch[9] Time cost=0.477
+2021-05-08 03:27:55,712 [INFO]  Saved checkpoint to "0/model-0009.params"
+2021-05-08 03:27:55,835 [INFO]  Epoch[9] Validation-cross-entropy=12.110785
+2021-05-08 03:27:55,835 [INFO]  Epoch[9] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:56,172 [INFO]  Epoch[10] Batch [0-4]	Speed: 238.61 samples/sec	cross-entropy=14.921712	petal length-accuracy=0.000000
+2021-05-08 03:27:56,309 [INFO]  Epoch[10] Train-cross-entropy=14.315343
+2021-05-08 03:27:56,309 [INFO]  Epoch[10] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:56,309 [INFO]  Epoch[10] Time cost=0.474
+2021-05-08 03:27:56,334 [INFO]  Saved checkpoint to "0/model-0010.params"
+2021-05-08 03:27:56,458 [INFO]  Epoch[10] Validation-cross-entropy=11.973957
+2021-05-08 03:27:56,458 [INFO]  Epoch[10] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:56,798 [INFO]  Epoch[11] Batch [0-4]	Speed: 236.95 samples/sec	cross-entropy=14.755739	petal length-accuracy=0.000000
+2021-05-08 03:27:56,935 [INFO]  Epoch[11] Train-cross-entropy=14.151264
+2021-05-08 03:27:56,935 [INFO]  Epoch[11] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:56,935 [INFO]  Epoch[11] Time cost=0.477
+2021-05-08 03:27:56,968 [INFO]  Saved checkpoint to "0/model-0011.params"
+2021-05-08 03:27:57,091 [INFO]  Epoch[11] Validation-cross-entropy=11.837456
+2021-05-08 03:27:57,091 [INFO]  Epoch[11] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:57,429 [INFO]  Epoch[12] Batch [0-4]	Speed: 238.42 samples/sec	cross-entropy=14.590278	petal length-accuracy=0.000000
+2021-05-08 03:27:57,565 [INFO]  Epoch[12] Train-cross-entropy=13.987771
+2021-05-08 03:27:57,565 [INFO]  Epoch[12] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:57,565 [INFO]  Epoch[12] Time cost=0.474
+2021-05-08 03:27:57,599 [INFO]  Saved checkpoint to "0/model-0012.params"
+2021-05-08 03:27:57,722 [INFO]  Epoch[12] Validation-cross-entropy=11.701293
+2021-05-08 03:27:57,722 [INFO]  Epoch[12] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:58,062 [INFO]  Epoch[13] Batch [0-4]	Speed: 236.93 samples/sec	cross-entropy=14.425341	petal length-accuracy=0.000000
+2021-05-08 03:27:58,200 [INFO]  Epoch[13] Train-cross-entropy=13.824871
+2021-05-08 03:27:58,201 [INFO]  Epoch[13] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:58,201 [INFO]  Epoch[13] Time cost=0.478
+2021-05-08 03:27:58,231 [INFO]  Saved checkpoint to "0/model-0013.params"
+2021-05-08 03:27:58,354 [INFO]  Epoch[13] Validation-cross-entropy=11.565489
+2021-05-08 03:27:58,354 [INFO]  Epoch[13] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:58,694 [INFO]  Epoch[14] Batch [0-4]	Speed: 237.64 samples/sec	cross-entropy=14.260944	petal length-accuracy=0.000000
+2021-05-08 03:27:58,832 [INFO]  Epoch[14] Train-cross-entropy=13.662581
+2021-05-08 03:27:58,832 [INFO]  Epoch[14] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:58,832 [INFO]  Epoch[14] Time cost=0.478
+2021-05-08 03:27:58,862 [INFO]  Saved checkpoint to "0/model-0014.params"
+2021-05-08 03:27:58,985 [INFO]  Epoch[14] Validation-cross-entropy=11.430061
+2021-05-08 03:27:58,986 [INFO]  Epoch[14] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:59,324 [INFO]  Epoch[15] Batch [0-4]	Speed: 237.84 samples/sec	cross-entropy=14.097106	petal length-accuracy=0.000000
+2021-05-08 03:27:59,460 [INFO]  Epoch[15] Train-cross-entropy=13.500916
+2021-05-08 03:27:59,460 [INFO]  Epoch[15] Train-petal length-accuracy=0.000000
+2021-05-08 03:27:59,460 [INFO]  Epoch[15] Time cost=0.475
+2021-05-08 03:27:59,484 [INFO]  Saved checkpoint to "0/model-0015.params"
+2021-05-08 03:27:59,610 [INFO]  Epoch[15] Validation-cross-entropy=11.295026
+2021-05-08 03:27:59,610 [INFO]  Epoch[15] Validation-petal length-accuracy=0.000000
+2021-05-08 03:27:59,949 [INFO]  Epoch[16] Batch [0-4]	Speed: 237.94 samples/sec	cross-entropy=13.933841	petal length-accuracy=0.000000
+2021-05-08 03:28:00,086 [INFO]  Epoch[16] Train-cross-entropy=13.339893
+2021-05-08 03:28:00,087 [INFO]  Epoch[16] Train-petal length-accuracy=0.000000
+2021-05-08 03:28:00,087 [INFO]  Epoch[16] Time cost=0.476
+2021-05-08 03:28:00,104 [INFO]  Saved checkpoint to "0/model-0016.params"
+2021-05-08 03:28:00,235 [INFO]  Epoch[16] Validation-cross-entropy=11.160403
+2021-05-08 03:28:00,235 [INFO]  Epoch[16] Validation-petal length-accuracy=0.000000
+2021-05-08 03:28:00,580 [INFO]  Epoch[17] Batch [0-4]	Speed: 232.09 samples/sec	cross-entropy=13.771171	petal length-accuracy=0.000000
+2021-05-08 03:28:00,718 [INFO]  Epoch[17] Train-cross-entropy=13.179527
+2021-05-08 03:28:00,718 [INFO]  Epoch[17] Train-petal length-accuracy=0.000000
+2021-05-08 03:28:00,718 [INFO]  Epoch[17] Time cost=0.483
+2021-05-08 03:28:00,748 [INFO]  Saved checkpoint to "0/model-0017.params"
+2021-05-08 03:28:00,879 [INFO]  Epoch[17] Validation-cross-entropy=11.026207
+2021-05-08 03:28:00,880 [INFO]  Epoch[17] Validation-petal length-accuracy=0.000000
+2021-05-08 03:28:01,219 [INFO]  Epoch[18] Batch [0-4]	Speed: 238.11 samples/sec	cross-entropy=13.609107	petal length-accuracy=0.000000
+2021-05-08 03:28:01,366 [INFO]  Epoch[18] Train-cross-entropy=13.019829
+2021-05-08 03:28:01,367 [INFO]  Epoch[18] Train-petal length-accuracy=0.000000
+2021-05-08 03:28:01,367 [INFO]  Epoch[18] Time cost=0.487
+2021-05-08 03:28:01,401 [INFO]  Saved checkpoint to "0/model-0018.params"
+2021-05-08 03:28:01,525 [INFO]  Epoch[18] Validation-cross-entropy=10.892452
+2021-05-08 03:28:01,525 [INFO]  Epoch[18] Validation-petal length-accuracy=0.000000
+2021-05-08 03:28:01,866 [INFO]  Epoch[19] Batch [0-4]	Speed: 237.63 samples/sec	cross-entropy=13.447665	petal length-accuracy=0.000000
+2021-05-08 03:28:02,004 [INFO]  Epoch[19] Train-cross-entropy=12.860814
+2021-05-08 03:28:02,004 [INFO]  Epoch[19] Train-petal length-accuracy=0.000000
+2021-05-08 03:28:02,004 [INFO]  Epoch[19] Time cost=0.479
+2021-05-08 03:28:02,035 [INFO]  Saved checkpoint to "0/model-0019.params"
+2021-05-08 03:28:02,166 [INFO]  Epoch[19] Validation-cross-entropy=10.759153
+2021-05-08 03:28:02,166 [INFO]  Epoch[19] Validation-petal length-accuracy=0.000000
+2021-05-08 03:28:02,166 [INFO]  
+========== done (12.652507066726685 s) fit model
+2021-05-08 03:33:56,035 [INFO]  
+========== start: fit model
+2021-05-08 03:33:56,036 [WARNING]  Already bound, ignoring bind()
+2021-05-08 03:33:56,480 [INFO]  Epoch[0] Batch [0-4]	Speed: 201.53 samples/sec	cross-entropy=16.624695	petal length-accuracy=0.000000
+2021-05-08 03:33:56,642 [INFO]  Epoch[0] Train-cross-entropy=16.001578
+2021-05-08 03:33:56,643 [INFO]  Epoch[0] Train-petal length-accuracy=0.000000
+2021-05-08 03:33:56,643 [INFO]  Epoch[0] Time cost=0.603
+2021-05-08 03:33:56,664 [INFO]  Saved checkpoint to "0/model-0000.params"
+2021-05-08 03:33:56,810 [INFO]  Epoch[0] Validation-cross-entropy=13.361921
+2021-05-08 03:33:56,811 [INFO]  Epoch[0] Validation-petal length-accuracy=0.000000
+2021-05-08 03:33:57,166 [INFO]  Epoch[1] Batch [0-4]	Speed: 227.23 samples/sec	cross-entropy=16.444665	petal length-accuracy=0.000000
+2021-05-08 03:33:57,306 [INFO]  Epoch[1] Train-cross-entropy=15.824350
+2021-05-08 03:33:57,307 [INFO]  Epoch[1] Train-petal length-accuracy=0.000000
+2021-05-08 03:33:57,307 [INFO]  Epoch[1] Time cost=0.496
+2021-05-08 03:33:57,330 [INFO]  Saved checkpoint to "0/model-0001.params"
+2021-05-08 03:33:57,457 [INFO]  Epoch[1] Validation-cross-entropy=13.219309
+2021-05-08 03:33:57,457 [INFO]  Epoch[1] Validation-petal length-accuracy=0.000000
+2021-05-08 03:33:57,809 [INFO]  Epoch[2] Batch [0-4]	Speed: 227.63 samples/sec	cross-entropy=16.271228	petal length-accuracy=0.000000
+2021-05-08 03:33:57,958 [INFO]  Epoch[2] Train-cross-entropy=15.652344
+2021-05-08 03:33:57,959 [INFO]  Epoch[2] Train-petal length-accuracy=0.000000
+2021-05-08 03:33:57,959 [INFO]  Epoch[2] Time cost=0.502
+2021-05-08 03:33:57,980 [INFO]  Saved checkpoint to "0/model-0002.params"
+2021-05-08 03:33:58,109 [INFO]  Epoch[2] Validation-cross-entropy=13.078560
+2021-05-08 03:33:58,110 [INFO]  Epoch[2] Validation-petal length-accuracy=0.000000
+2021-05-08 03:33:58,463 [INFO]  Epoch[3] Batch [0-4]	Speed: 229.33 samples/sec	cross-entropy=16.099545	petal length-accuracy=0.000000
+2021-05-08 03:33:58,610 [INFO]  Epoch[3] Train-cross-entropy=15.482011
+2021-05-08 03:33:58,610 [INFO]  Epoch[3] Train-petal length-accuracy=0.000000
+2021-05-08 03:33:58,610 [INFO]  Epoch[3] Time cost=0.500
+2021-05-08 03:33:58,631 [INFO]  Saved checkpoint to "0/model-0003.params"
+2021-05-08 03:33:58,758 [INFO]  Epoch[3] Validation-cross-entropy=12.938834
+2021-05-08 03:33:58,758 [INFO]  Epoch[3] Validation-petal length-accuracy=0.000000
+2021-05-08 03:33:59,113 [INFO]  Epoch[4] Batch [0-4]	Speed: 227.08 samples/sec	cross-entropy=15.929066	petal length-accuracy=0.000000
+2021-05-08 03:33:59,260 [INFO]  Epoch[4] Train-cross-entropy=15.312915
+2021-05-08 03:33:59,261 [INFO]  Epoch[4] Train-petal length-accuracy=0.000000
+2021-05-08 03:33:59,261 [INFO]  Epoch[4] Time cost=0.503
+2021-05-08 03:33:59,285 [INFO]  Saved checkpoint to "0/model-0004.params"
+2021-05-08 03:33:59,414 [INFO]  Epoch[4] Validation-cross-entropy=12.799793
+2021-05-08 03:33:59,414 [INFO]  Epoch[4] Validation-petal length-accuracy=0.000000
+2021-05-08 03:33:59,766 [INFO]  Epoch[5] Batch [0-4]	Speed: 228.50 samples/sec	cross-entropy=15.759538	petal length-accuracy=0.000000
+2021-05-08 03:33:59,913 [INFO]  Epoch[5] Train-cross-entropy=15.144831
+2021-05-08 03:33:59,913 [INFO]  Epoch[5] Train-petal length-accuracy=0.000000
+2021-05-08 03:33:59,914 [INFO]  Epoch[5] Time cost=0.500
+2021-05-08 03:33:59,931 [INFO]  Saved checkpoint to "0/model-0005.params"
+2021-05-08 03:34:00,059 [INFO]  Epoch[5] Validation-cross-entropy=12.661267
+2021-05-08 03:34:00,059 [INFO]  Epoch[5] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:00,415 [INFO]  Epoch[6] Batch [0-4]	Speed: 226.86 samples/sec	cross-entropy=15.590789	petal length-accuracy=0.000000
+2021-05-08 03:34:00,559 [INFO]  Epoch[6] Train-cross-entropy=14.977598
+2021-05-08 03:34:00,559 [INFO]  Epoch[6] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:00,560 [INFO]  Epoch[6] Time cost=0.500
+2021-05-08 03:34:00,579 [INFO]  Saved checkpoint to "0/model-0006.params"
+2021-05-08 03:34:00,706 [INFO]  Epoch[6] Validation-cross-entropy=12.523150
+2021-05-08 03:34:00,706 [INFO]  Epoch[6] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:01,062 [INFO]  Epoch[7] Batch [0-4]	Speed: 227.70 samples/sec	cross-entropy=15.422697	petal length-accuracy=0.000000
+2021-05-08 03:34:01,213 [INFO]  Epoch[7] Train-cross-entropy=14.811097
+2021-05-08 03:34:01,213 [INFO]  Epoch[7] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:01,213 [INFO]  Epoch[7] Time cost=0.507
+2021-05-08 03:34:01,231 [INFO]  Saved checkpoint to "0/model-0007.params"
+2021-05-08 03:34:01,360 [INFO]  Epoch[7] Validation-cross-entropy=12.385380
+2021-05-08 03:34:01,361 [INFO]  Epoch[7] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:01,752 [INFO]  Epoch[8] Batch [0-4]	Speed: 201.34 samples/sec	cross-entropy=15.255181	petal length-accuracy=0.000000
+2021-05-08 03:34:01,928 [INFO]  Epoch[8] Train-cross-entropy=14.645248
+2021-05-08 03:34:01,928 [INFO]  Epoch[8] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:01,928 [INFO]  Epoch[8] Time cost=0.567
+2021-05-08 03:34:01,948 [INFO]  Saved checkpoint to "0/model-0008.params"
+2021-05-08 03:34:02,077 [INFO]  Epoch[8] Validation-cross-entropy=12.247929
+2021-05-08 03:34:02,077 [INFO]  Epoch[8] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:02,428 [INFO]  Epoch[9] Batch [0-4]	Speed: 229.36 samples/sec	cross-entropy=15.088192	petal length-accuracy=0.000000
+2021-05-08 03:34:02,574 [INFO]  Epoch[9] Train-cross-entropy=14.480003
+2021-05-08 03:34:02,574 [INFO]  Epoch[9] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:02,574 [INFO]  Epoch[9] Time cost=0.497
+2021-05-08 03:34:02,594 [INFO]  Saved checkpoint to "0/model-0009.params"
+2021-05-08 03:34:02,723 [INFO]  Epoch[9] Validation-cross-entropy=12.110785
+2021-05-08 03:34:02,723 [INFO]  Epoch[9] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:03,079 [INFO]  Epoch[10] Batch [0-4]	Speed: 226.41 samples/sec	cross-entropy=14.921712	petal length-accuracy=0.000000
+2021-05-08 03:34:03,227 [INFO]  Epoch[10] Train-cross-entropy=14.315343
+2021-05-08 03:34:03,227 [INFO]  Epoch[10] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:03,227 [INFO]  Epoch[10] Time cost=0.504
+2021-05-08 03:34:03,247 [INFO]  Saved checkpoint to "0/model-0010.params"
+2021-05-08 03:34:03,374 [INFO]  Epoch[10] Validation-cross-entropy=11.973957
+2021-05-08 03:34:03,374 [INFO]  Epoch[10] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:03,728 [INFO]  Epoch[11] Batch [0-4]	Speed: 228.30 samples/sec	cross-entropy=14.755739	petal length-accuracy=0.000000
+2021-05-08 03:34:03,875 [INFO]  Epoch[11] Train-cross-entropy=14.151264
+2021-05-08 03:34:03,875 [INFO]  Epoch[11] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:03,875 [INFO]  Epoch[11] Time cost=0.501
+2021-05-08 03:34:03,894 [INFO]  Saved checkpoint to "0/model-0011.params"
+2021-05-08 03:34:04,020 [INFO]  Epoch[11] Validation-cross-entropy=11.837456
+2021-05-08 03:34:04,020 [INFO]  Epoch[11] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:04,372 [INFO]  Epoch[12] Batch [0-4]	Speed: 229.96 samples/sec	cross-entropy=14.590278	petal length-accuracy=0.000000
+2021-05-08 03:34:04,518 [INFO]  Epoch[12] Train-cross-entropy=13.987771
+2021-05-08 03:34:04,518 [INFO]  Epoch[12] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:04,518 [INFO]  Epoch[12] Time cost=0.497
+2021-05-08 03:34:04,534 [INFO]  Saved checkpoint to "0/model-0012.params"
+2021-05-08 03:34:04,663 [INFO]  Epoch[12] Validation-cross-entropy=11.701293
+2021-05-08 03:34:04,663 [INFO]  Epoch[12] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:05,018 [INFO]  Epoch[13] Batch [0-4]	Speed: 227.72 samples/sec	cross-entropy=14.425341	petal length-accuracy=0.000000
+2021-05-08 03:34:05,164 [INFO]  Epoch[13] Train-cross-entropy=13.824871
+2021-05-08 03:34:05,164 [INFO]  Epoch[13] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:05,165 [INFO]  Epoch[13] Time cost=0.502
+2021-05-08 03:34:05,185 [INFO]  Saved checkpoint to "0/model-0013.params"
+2021-05-08 03:34:05,314 [INFO]  Epoch[13] Validation-cross-entropy=11.565489
+2021-05-08 03:34:05,314 [INFO]  Epoch[13] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:05,665 [INFO]  Epoch[14] Batch [0-4]	Speed: 229.52 samples/sec	cross-entropy=14.260944	petal length-accuracy=0.000000
+2021-05-08 03:34:05,814 [INFO]  Epoch[14] Train-cross-entropy=13.662581
+2021-05-08 03:34:05,814 [INFO]  Epoch[14] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:05,814 [INFO]  Epoch[14] Time cost=0.500
+2021-05-08 03:34:05,832 [INFO]  Saved checkpoint to "0/model-0014.params"
+2021-05-08 03:34:05,966 [INFO]  Epoch[14] Validation-cross-entropy=11.430061
+2021-05-08 03:34:05,967 [INFO]  Epoch[14] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:06,376 [INFO]  Epoch[15] Batch [0-4]	Speed: 191.35 samples/sec	cross-entropy=14.097106	petal length-accuracy=0.000000
+2021-05-08 03:34:06,548 [INFO]  Epoch[15] Train-cross-entropy=13.500916
+2021-05-08 03:34:06,549 [INFO]  Epoch[15] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:06,549 [INFO]  Epoch[15] Time cost=0.582
+2021-05-08 03:34:06,567 [INFO]  Saved checkpoint to "0/model-0015.params"
+2021-05-08 03:34:06,695 [INFO]  Epoch[15] Validation-cross-entropy=11.295026
+2021-05-08 03:34:06,695 [INFO]  Epoch[15] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:07,048 [INFO]  Epoch[16] Batch [0-4]	Speed: 228.18 samples/sec	cross-entropy=13.933841	petal length-accuracy=0.000000
+2021-05-08 03:34:07,195 [INFO]  Epoch[16] Train-cross-entropy=13.339893
+2021-05-08 03:34:07,195 [INFO]  Epoch[16] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:07,196 [INFO]  Epoch[16] Time cost=0.501
+2021-05-08 03:34:07,216 [INFO]  Saved checkpoint to "0/model-0016.params"
+2021-05-08 03:34:07,343 [INFO]  Epoch[16] Validation-cross-entropy=11.160403
+2021-05-08 03:34:07,343 [INFO]  Epoch[16] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:07,697 [INFO]  Epoch[17] Batch [0-4]	Speed: 228.03 samples/sec	cross-entropy=13.771171	petal length-accuracy=0.000000
+2021-05-08 03:34:07,843 [INFO]  Epoch[17] Train-cross-entropy=13.179527
+2021-05-08 03:34:07,844 [INFO]  Epoch[17] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:07,844 [INFO]  Epoch[17] Time cost=0.501
+2021-05-08 03:34:07,861 [INFO]  Saved checkpoint to "0/model-0017.params"
+2021-05-08 03:34:07,990 [INFO]  Epoch[17] Validation-cross-entropy=11.026207
+2021-05-08 03:34:07,990 [INFO]  Epoch[17] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:08,356 [INFO]  Epoch[18] Batch [0-4]	Speed: 220.77 samples/sec	cross-entropy=13.609107	petal length-accuracy=0.000000
+2021-05-08 03:34:08,507 [INFO]  Epoch[18] Train-cross-entropy=13.019829
+2021-05-08 03:34:08,507 [INFO]  Epoch[18] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:08,507 [INFO]  Epoch[18] Time cost=0.517
+2021-05-08 03:34:08,526 [INFO]  Saved checkpoint to "0/model-0018.params"
+2021-05-08 03:34:08,655 [INFO]  Epoch[18] Validation-cross-entropy=10.892452
+2021-05-08 03:34:08,655 [INFO]  Epoch[18] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:09,011 [INFO]  Epoch[19] Batch [0-4]	Speed: 226.78 samples/sec	cross-entropy=13.447665	petal length-accuracy=0.000000
+2021-05-08 03:34:09,161 [INFO]  Epoch[19] Train-cross-entropy=12.860814
+2021-05-08 03:34:09,161 [INFO]  Epoch[19] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:09,162 [INFO]  Epoch[19] Time cost=0.506
+2021-05-08 03:34:09,182 [INFO]  Saved checkpoint to "0/model-0019.params"
+2021-05-08 03:34:09,311 [INFO]  Epoch[19] Validation-cross-entropy=10.759153
+2021-05-08 03:34:09,311 [INFO]  Epoch[19] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:09,665 [INFO]  Epoch[20] Batch [0-4]	Speed: 228.62 samples/sec	cross-entropy=13.286862	petal length-accuracy=0.000000
+2021-05-08 03:34:09,811 [INFO]  Epoch[20] Train-cross-entropy=12.702498
+2021-05-08 03:34:09,812 [INFO]  Epoch[20] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:09,813 [INFO]  Epoch[20] Time cost=0.500
+2021-05-08 03:34:09,833 [INFO]  Saved checkpoint to "0/model-0020.params"
+2021-05-08 03:34:09,958 [INFO]  Epoch[20] Validation-cross-entropy=10.626331
+2021-05-08 03:34:09,958 [INFO]  Epoch[20] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:10,310 [INFO]  Epoch[21] Batch [0-4]	Speed: 228.76 samples/sec	cross-entropy=13.126712	petal length-accuracy=0.000000
+2021-05-08 03:34:10,456 [INFO]  Epoch[21] Train-cross-entropy=12.544894
+2021-05-08 03:34:10,460 [INFO]  Epoch[21] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:10,461 [INFO]  Epoch[21] Time cost=0.503
+2021-05-08 03:34:10,479 [INFO]  Saved checkpoint to "0/model-0021.params"
+2021-05-08 03:34:10,613 [INFO]  Epoch[21] Validation-cross-entropy=10.494006
+2021-05-08 03:34:10,613 [INFO]  Epoch[21] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:10,971 [INFO]  Epoch[22] Batch [0-4]	Speed: 226.53 samples/sec	cross-entropy=12.967227	petal length-accuracy=0.000000
+2021-05-08 03:34:11,124 [INFO]  Epoch[22] Train-cross-entropy=12.388013
+2021-05-08 03:34:11,124 [INFO]  Epoch[22] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:11,124 [INFO]  Epoch[22] Time cost=0.510
+2021-05-08 03:34:11,145 [INFO]  Saved checkpoint to "0/model-0022.params"
+2021-05-08 03:34:11,288 [INFO]  Epoch[22] Validation-cross-entropy=10.362185
+2021-05-08 03:34:11,288 [INFO]  Epoch[22] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:11,702 [INFO]  Epoch[23] Batch [0-4]	Speed: 199.07 samples/sec	cross-entropy=12.808428	petal length-accuracy=0.000000
+2021-05-08 03:34:11,886 [INFO]  Epoch[23] Train-cross-entropy=12.231872
+2021-05-08 03:34:11,886 [INFO]  Epoch[23] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:11,886 [INFO]  Epoch[23] Time cost=0.598
+2021-05-08 03:34:11,903 [INFO]  Saved checkpoint to "0/model-0023.params"
+2021-05-08 03:34:12,027 [INFO]  Epoch[23] Validation-cross-entropy=10.230887
+2021-05-08 03:34:12,027 [INFO]  Epoch[23] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:12,429 [INFO]  Epoch[24] Batch [0-4]	Speed: 192.39 samples/sec	cross-entropy=12.650341	petal length-accuracy=0.000000
+2021-05-08 03:34:12,614 [INFO]  Epoch[24] Train-cross-entropy=12.076498
+2021-05-08 03:34:12,615 [INFO]  Epoch[24] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:12,615 [INFO]  Epoch[24] Time cost=0.588
+2021-05-08 03:34:12,634 [INFO]  Saved checkpoint to "0/model-0024.params"
+2021-05-08 03:34:12,757 [INFO]  Epoch[24] Validation-cross-entropy=10.100133
+2021-05-08 03:34:12,757 [INFO]  Epoch[24] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:13,206 [INFO]  Epoch[25] Batch [0-4]	Speed: 174.42 samples/sec	cross-entropy=12.492979	petal length-accuracy=0.000000
+2021-05-08 03:34:13,389 [INFO]  Epoch[25] Train-cross-entropy=11.921901
+2021-05-08 03:34:13,389 [INFO]  Epoch[25] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:13,390 [INFO]  Epoch[25] Time cost=0.633
+2021-05-08 03:34:13,407 [INFO]  Saved checkpoint to "0/model-0025.params"
+2021-05-08 03:34:13,532 [INFO]  Epoch[25] Validation-cross-entropy=9.969932
+2021-05-08 03:34:13,532 [INFO]  Epoch[25] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:13,898 [INFO]  Epoch[26] Batch [0-4]	Speed: 219.71 samples/sec	cross-entropy=12.336361	petal length-accuracy=0.000000
+2021-05-08 03:34:14,061 [INFO]  Epoch[26] Train-cross-entropy=11.768100
+2021-05-08 03:34:14,061 [INFO]  Epoch[26] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:14,061 [INFO]  Epoch[26] Time cost=0.529
+2021-05-08 03:34:14,077 [INFO]  Saved checkpoint to "0/model-0026.params"
+2021-05-08 03:34:14,203 [INFO]  Epoch[26] Validation-cross-entropy=9.840298
+2021-05-08 03:34:14,204 [INFO]  Epoch[26] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:14,591 [INFO]  Epoch[27] Batch [0-4]	Speed: 205.25 samples/sec	cross-entropy=12.180498	petal length-accuracy=0.000000
+2021-05-08 03:34:14,731 [INFO]  Epoch[27] Train-cross-entropy=11.615103
+2021-05-08 03:34:14,732 [INFO]  Epoch[27] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:14,732 [INFO]  Epoch[27] Time cost=0.528
+2021-05-08 03:34:14,746 [INFO]  Saved checkpoint to "0/model-0027.params"
+2021-05-08 03:34:14,872 [INFO]  Epoch[27] Validation-cross-entropy=9.711245
+2021-05-08 03:34:14,872 [INFO]  Epoch[27] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:15,229 [INFO]  Epoch[28] Batch [0-4]	Speed: 224.77 samples/sec	cross-entropy=12.025409	petal length-accuracy=0.000000
+2021-05-08 03:34:15,374 [INFO]  Epoch[28] Train-cross-entropy=11.462928
+2021-05-08 03:34:15,374 [INFO]  Epoch[28] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:15,374 [INFO]  Epoch[28] Time cost=0.502
+2021-05-08 03:34:15,403 [INFO]  Saved checkpoint to "0/model-0028.params"
+2021-05-08 03:34:15,537 [INFO]  Epoch[28] Validation-cross-entropy=9.582788
+2021-05-08 03:34:15,538 [INFO]  Epoch[28] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:15,904 [INFO]  Epoch[29] Batch [0-4]	Speed: 220.18 samples/sec	cross-entropy=11.871108	petal length-accuracy=0.000000
+2021-05-08 03:34:16,058 [INFO]  Epoch[29] Train-cross-entropy=11.311588
+2021-05-08 03:34:16,058 [INFO]  Epoch[29] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:16,058 [INFO]  Epoch[29] Time cost=0.520
+2021-05-08 03:34:16,085 [INFO]  Saved checkpoint to "0/model-0029.params"
+2021-05-08 03:34:16,220 [INFO]  Epoch[29] Validation-cross-entropy=9.454941
+2021-05-08 03:34:16,220 [INFO]  Epoch[29] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:16,577 [INFO]  Epoch[30] Batch [0-4]	Speed: 226.26 samples/sec	cross-entropy=11.717607	petal length-accuracy=0.000000
+2021-05-08 03:34:16,723 [INFO]  Epoch[30] Train-cross-entropy=11.161100
+2021-05-08 03:34:16,724 [INFO]  Epoch[30] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:16,724 [INFO]  Epoch[30] Time cost=0.503
+2021-05-08 03:34:16,755 [INFO]  Saved checkpoint to "0/model-0030.params"
+2021-05-08 03:34:16,892 [INFO]  Epoch[30] Validation-cross-entropy=9.327719
+2021-05-08 03:34:16,892 [INFO]  Epoch[30] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:17,258 [INFO]  Epoch[31] Batch [0-4]	Speed: 219.45 samples/sec	cross-entropy=11.564933	petal length-accuracy=0.000000
+2021-05-08 03:34:17,403 [INFO]  Epoch[31] Train-cross-entropy=11.011485
+2021-05-08 03:34:17,404 [INFO]  Epoch[31] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:17,404 [INFO]  Epoch[31] Time cost=0.511
+2021-05-08 03:34:17,419 [INFO]  Saved checkpoint to "0/model-0031.params"
+2021-05-08 03:34:17,548 [INFO]  Epoch[31] Validation-cross-entropy=9.201144
+2021-05-08 03:34:17,548 [INFO]  Epoch[31] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:17,939 [INFO]  Epoch[32] Batch [0-4]	Speed: 199.47 samples/sec	cross-entropy=11.413106	petal length-accuracy=0.000000
+2021-05-08 03:34:18,110 [INFO]  Epoch[32] Train-cross-entropy=10.862758
+2021-05-08 03:34:18,110 [INFO]  Epoch[32] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:18,110 [INFO]  Epoch[32] Time cost=0.562
+2021-05-08 03:34:18,144 [INFO]  Saved checkpoint to "0/model-0032.params"
+2021-05-08 03:34:18,269 [INFO]  Epoch[32] Validation-cross-entropy=9.075228
+2021-05-08 03:34:18,270 [INFO]  Epoch[32] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:18,614 [INFO]  Epoch[33] Batch [0-4]	Speed: 233.03 samples/sec	cross-entropy=11.262131	petal length-accuracy=0.000000
+2021-05-08 03:34:18,749 [INFO]  Epoch[33] Train-cross-entropy=10.714925
+2021-05-08 03:34:18,750 [INFO]  Epoch[33] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:18,750 [INFO]  Epoch[33] Time cost=0.480
+2021-05-08 03:34:18,777 [INFO]  Saved checkpoint to "0/model-0033.params"
+2021-05-08 03:34:18,903 [INFO]  Epoch[33] Validation-cross-entropy=8.949978
+2021-05-08 03:34:18,903 [INFO]  Epoch[33] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:19,241 [INFO]  Epoch[34] Batch [0-4]	Speed: 238.31 samples/sec	cross-entropy=11.112024	petal length-accuracy=0.000000
+2021-05-08 03:34:19,378 [INFO]  Epoch[34] Train-cross-entropy=10.568002
+2021-05-08 03:34:19,378 [INFO]  Epoch[34] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:19,378 [INFO]  Epoch[34] Time cost=0.474
+2021-05-08 03:34:19,408 [INFO]  Saved checkpoint to "0/model-0034.params"
+2021-05-08 03:34:19,532 [INFO]  Epoch[34] Validation-cross-entropy=8.825410
+2021-05-08 03:34:19,532 [INFO]  Epoch[34] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:19,872 [INFO]  Epoch[35] Batch [0-4]	Speed: 237.12 samples/sec	cross-entropy=10.962796	petal length-accuracy=0.000000
+2021-05-08 03:34:20,008 [INFO]  Epoch[35] Train-cross-entropy=10.421998
+2021-05-08 03:34:20,008 [INFO]  Epoch[35] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:20,008 [INFO]  Epoch[35] Time cost=0.476
+2021-05-08 03:34:20,033 [INFO]  Saved checkpoint to "0/model-0035.params"
+2021-05-08 03:34:20,159 [INFO]  Epoch[35] Validation-cross-entropy=8.701535
+2021-05-08 03:34:20,159 [INFO]  Epoch[35] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:20,499 [INFO]  Epoch[36] Batch [0-4]	Speed: 238.06 samples/sec	cross-entropy=10.814460	petal length-accuracy=0.000000
+2021-05-08 03:34:20,635 [INFO]  Epoch[36] Train-cross-entropy=10.276925
+2021-05-08 03:34:20,635 [INFO]  Epoch[36] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:20,635 [INFO]  Epoch[36] Time cost=0.476
+2021-05-08 03:34:20,661 [INFO]  Saved checkpoint to "0/model-0036.params"
+2021-05-08 03:34:20,786 [INFO]  Epoch[36] Validation-cross-entropy=8.578364
+2021-05-08 03:34:20,786 [INFO]  Epoch[36] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:21,127 [INFO]  Epoch[37] Batch [0-4]	Speed: 239.00 samples/sec	cross-entropy=10.667027	petal length-accuracy=0.000000
+2021-05-08 03:34:21,263 [INFO]  Epoch[37] Train-cross-entropy=10.132793
+2021-05-08 03:34:21,263 [INFO]  Epoch[37] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:21,263 [INFO]  Epoch[37] Time cost=0.477
+2021-05-08 03:34:21,289 [INFO]  Saved checkpoint to "0/model-0037.params"
+2021-05-08 03:34:21,414 [INFO]  Epoch[37] Validation-cross-entropy=8.455909
+2021-05-08 03:34:21,415 [INFO]  Epoch[37] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:21,755 [INFO]  Epoch[38] Batch [0-4]	Speed: 236.55 samples/sec	cross-entropy=10.520510	petal length-accuracy=0.000000
+2021-05-08 03:34:21,895 [INFO]  Epoch[38] Train-cross-entropy=9.989615
+2021-05-08 03:34:21,895 [INFO]  Epoch[38] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:21,896 [INFO]  Epoch[38] Time cost=0.481
+2021-05-08 03:34:21,912 [INFO]  Saved checkpoint to "0/model-0038.params"
+2021-05-08 03:34:22,047 [INFO]  Epoch[38] Validation-cross-entropy=8.334202
+2021-05-08 03:34:22,047 [INFO]  Epoch[38] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:22,386 [INFO]  Epoch[39] Batch [0-4]	Speed: 238.39 samples/sec	cross-entropy=10.374917	petal length-accuracy=0.000000
+2021-05-08 03:34:22,527 [INFO]  Epoch[39] Train-cross-entropy=9.847400
+2021-05-08 03:34:22,527 [INFO]  Epoch[39] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:22,527 [INFO]  Epoch[39] Time cost=0.480
+2021-05-08 03:34:22,550 [INFO]  Saved checkpoint to "0/model-0039.params"
+2021-05-08 03:34:22,677 [INFO]  Epoch[39] Validation-cross-entropy=8.213242
+2021-05-08 03:34:22,677 [INFO]  Epoch[39] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:23,020 [INFO]  Epoch[40] Batch [0-4]	Speed: 235.16 samples/sec	cross-entropy=10.230274	petal length-accuracy=0.000000
+2021-05-08 03:34:23,163 [INFO]  Epoch[40] Train-cross-entropy=9.706170
+2021-05-08 03:34:23,164 [INFO]  Epoch[40] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:23,164 [INFO]  Epoch[40] Time cost=0.487
+2021-05-08 03:34:23,176 [INFO]  Saved checkpoint to "0/model-0040.params"
+2021-05-08 03:34:23,302 [INFO]  Epoch[40] Validation-cross-entropy=8.093039
+2021-05-08 03:34:23,302 [INFO]  Epoch[40] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:23,642 [INFO]  Epoch[41] Batch [0-4]	Speed: 237.82 samples/sec	cross-entropy=10.086589	petal length-accuracy=0.000000
+2021-05-08 03:34:23,779 [INFO]  Epoch[41] Train-cross-entropy=9.565931
+2021-05-08 03:34:23,779 [INFO]  Epoch[41] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:23,779 [INFO]  Epoch[41] Time cost=0.477
+2021-05-08 03:34:23,810 [INFO]  Saved checkpoint to "0/model-0041.params"
+2021-05-08 03:34:23,943 [INFO]  Epoch[41] Validation-cross-entropy=7.973606
+2021-05-08 03:34:23,943 [INFO]  Epoch[41] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:24,284 [INFO]  Epoch[42] Batch [0-4]	Speed: 237.00 samples/sec	cross-entropy=9.943874	petal length-accuracy=0.000000
+2021-05-08 03:34:24,421 [INFO]  Epoch[42] Train-cross-entropy=9.426695
+2021-05-08 03:34:24,421 [INFO]  Epoch[42] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:24,421 [INFO]  Epoch[42] Time cost=0.478
+2021-05-08 03:34:24,446 [INFO]  Saved checkpoint to "0/model-0042.params"
+2021-05-08 03:34:24,575 [INFO]  Epoch[42] Validation-cross-entropy=7.854952
+2021-05-08 03:34:24,575 [INFO]  Epoch[42] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:24,914 [INFO]  Epoch[43] Batch [0-4]	Speed: 238.62 samples/sec	cross-entropy=9.802141	petal length-accuracy=0.000000
+2021-05-08 03:34:25,050 [INFO]  Epoch[43] Train-cross-entropy=9.288471
+2021-05-08 03:34:25,051 [INFO]  Epoch[43] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:25,051 [INFO]  Epoch[43] Time cost=0.475
+2021-05-08 03:34:25,078 [INFO]  Saved checkpoint to "0/model-0043.params"
+2021-05-08 03:34:25,202 [INFO]  Epoch[43] Validation-cross-entropy=7.737090
+2021-05-08 03:34:25,202 [INFO]  Epoch[43] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:25,540 [INFO]  Epoch[44] Batch [0-4]	Speed: 238.54 samples/sec	cross-entropy=9.661401	petal length-accuracy=0.000000
+2021-05-08 03:34:25,675 [INFO]  Epoch[44] Train-cross-entropy=9.151271
+2021-05-08 03:34:25,675 [INFO]  Epoch[44] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:25,675 [INFO]  Epoch[44] Time cost=0.473
+2021-05-08 03:34:25,702 [INFO]  Saved checkpoint to "0/model-0044.params"
+2021-05-08 03:34:25,829 [INFO]  Epoch[44] Validation-cross-entropy=7.620030
+2021-05-08 03:34:25,829 [INFO]  Epoch[44] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:26,171 [INFO]  Epoch[45] Batch [0-4]	Speed: 236.53 samples/sec	cross-entropy=9.521669	petal length-accuracy=0.000000
+2021-05-08 03:34:26,307 [INFO]  Epoch[45] Train-cross-entropy=9.015107
+2021-05-08 03:34:26,307 [INFO]  Epoch[45] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:26,307 [INFO]  Epoch[45] Time cost=0.478
+2021-05-08 03:34:26,333 [INFO]  Saved checkpoint to "0/model-0045.params"
+2021-05-08 03:34:26,458 [INFO]  Epoch[45] Validation-cross-entropy=7.503785
+2021-05-08 03:34:26,458 [INFO]  Epoch[45] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:26,796 [INFO]  Epoch[46] Batch [0-4]	Speed: 238.36 samples/sec	cross-entropy=9.382955	petal length-accuracy=0.000000
+2021-05-08 03:34:26,933 [INFO]  Epoch[46] Train-cross-entropy=8.879988
+2021-05-08 03:34:26,933 [INFO]  Epoch[46] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:26,933 [INFO]  Epoch[46] Time cost=0.475
+2021-05-08 03:34:26,962 [INFO]  Saved checkpoint to "0/model-0046.params"
+2021-05-08 03:34:27,092 [INFO]  Epoch[46] Validation-cross-entropy=7.388365
+2021-05-08 03:34:27,092 [INFO]  Epoch[46] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:27,431 [INFO]  Epoch[47] Batch [0-4]	Speed: 238.68 samples/sec	cross-entropy=9.245270	petal length-accuracy=0.000000
+2021-05-08 03:34:27,568 [INFO]  Epoch[47] Train-cross-entropy=8.745925
+2021-05-08 03:34:27,569 [INFO]  Epoch[47] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:27,569 [INFO]  Epoch[47] Time cost=0.476
+2021-05-08 03:34:27,595 [INFO]  Saved checkpoint to "0/model-0047.params"
+2021-05-08 03:34:27,717 [INFO]  Epoch[47] Validation-cross-entropy=7.273781
+2021-05-08 03:34:27,717 [INFO]  Epoch[47] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:28,055 [INFO]  Epoch[48] Batch [0-4]	Speed: 238.41 samples/sec	cross-entropy=9.108627	petal length-accuracy=0.000000
+2021-05-08 03:34:28,216 [INFO]  Epoch[48] Train-cross-entropy=8.612928
+2021-05-08 03:34:28,216 [INFO]  Epoch[48] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:28,216 [INFO]  Epoch[48] Time cost=0.499
+2021-05-08 03:34:28,243 [INFO]  Saved checkpoint to "0/model-0048.params"
+2021-05-08 03:34:28,381 [INFO]  Epoch[48] Validation-cross-entropy=7.160046
+2021-05-08 03:34:28,381 [INFO]  Epoch[48] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:28,718 [INFO]  Epoch[49] Batch [0-4]	Speed: 239.01 samples/sec	cross-entropy=8.973037	petal length-accuracy=0.000000
+2021-05-08 03:34:28,855 [INFO]  Epoch[49] Train-cross-entropy=8.481008
+2021-05-08 03:34:28,855 [INFO]  Epoch[49] Train-petal length-accuracy=0.000000
+2021-05-08 03:34:28,855 [INFO]  Epoch[49] Time cost=0.474
+2021-05-08 03:34:28,880 [INFO]  Saved checkpoint to "0/model-0049.params"
+2021-05-08 03:34:29,004 [INFO]  Epoch[49] Validation-cross-entropy=7.047169
+2021-05-08 03:34:29,004 [INFO]  Epoch[49] Validation-petal length-accuracy=0.000000
+2021-05-08 03:34:29,004 [INFO]  
+========== done (32.969340324401855 s) fit model
+2021-05-08 03:36:54,291 [INFO]  
+========== start: fit model
+2021-05-08 03:36:54,291 [WARNING]  Already bound, ignoring bind()
+2021-05-08 03:36:54,724 [INFO]  Epoch[0] Batch [0-4]	Speed: 212.37 samples/sec	cross-entropy=16.624695	petal length-accuracy=0.000000
+2021-05-08 03:36:54,890 [INFO]  Epoch[0] Train-cross-entropy=16.001578
+2021-05-08 03:36:54,891 [INFO]  Epoch[0] Train-petal length-accuracy=0.000000
+2021-05-08 03:36:54,891 [INFO]  Epoch[0] Time cost=0.596
+2021-05-08 03:36:54,909 [INFO]  Saved checkpoint to "0/model-0000.params"
+2021-05-08 03:36:55,052 [INFO]  Epoch[0] Validation-cross-entropy=13.361921
+2021-05-08 03:36:55,053 [INFO]  Epoch[0] Validation-petal length-accuracy=0.000000
+2021-05-08 03:36:55,511 [INFO]  Epoch[1] Batch [0-4]	Speed: 179.59 samples/sec	cross-entropy=16.444665	petal length-accuracy=0.000000
+2021-05-08 03:36:55,653 [INFO]  Epoch[1] Train-cross-entropy=15.824350
+2021-05-08 03:36:55,653 [INFO]  Epoch[1] Train-petal length-accuracy=0.000000
+2021-05-08 03:36:55,653 [INFO]  Epoch[1] Time cost=0.600
+2021-05-08 03:36:55,671 [INFO]  Saved checkpoint to "0/model-0001.params"
+2021-05-08 03:36:55,801 [INFO]  Epoch[1] Validation-cross-entropy=13.219309
+2021-05-08 03:36:55,801 [INFO]  Epoch[1] Validation-petal length-accuracy=0.000000
+2021-05-08 03:36:56,148 [INFO]  Epoch[2] Batch [0-4]	Speed: 232.66 samples/sec	cross-entropy=16.271228	petal length-accuracy=0.000000
+2021-05-08 03:36:56,289 [INFO]  Epoch[2] Train-cross-entropy=15.652344
+2021-05-08 03:36:56,289 [INFO]  Epoch[2] Train-petal length-accuracy=0.000000
+2021-05-08 03:36:56,290 [INFO]  Epoch[2] Time cost=0.488
+2021-05-08 03:36:56,310 [INFO]  Saved checkpoint to "0/model-0002.params"
+2021-05-08 03:36:56,442 [INFO]  Epoch[2] Validation-cross-entropy=13.078560
+2021-05-08 03:36:56,442 [INFO]  Epoch[2] Validation-petal length-accuracy=0.000000
+2021-05-08 03:36:56,789 [INFO]  Epoch[3] Batch [0-4]	Speed: 233.39 samples/sec	cross-entropy=16.099545	petal length-accuracy=0.000000
+2021-05-08 03:36:56,932 [INFO]  Epoch[3] Train-cross-entropy=15.482011
+2021-05-08 03:36:56,932 [INFO]  Epoch[3] Train-petal length-accuracy=0.000000
+2021-05-08 03:36:56,932 [INFO]  Epoch[3] Time cost=0.490
+2021-05-08 03:36:56,949 [INFO]  Saved checkpoint to "0/model-0003.params"
+2021-05-08 03:36:57,078 [INFO]  Epoch[3] Validation-cross-entropy=12.938834
+2021-05-08 03:36:57,078 [INFO]  Epoch[3] Validation-petal length-accuracy=0.000000
+2021-05-08 03:36:57,423 [INFO]  Epoch[4] Batch [0-4]	Speed: 233.89 samples/sec	cross-entropy=15.929066	petal length-accuracy=0.000000
+2021-05-08 03:36:57,561 [INFO]  Epoch[4] Train-cross-entropy=15.312915
+2021-05-08 03:36:57,562 [INFO]  Epoch[4] Train-petal length-accuracy=0.000000
+2021-05-08 03:36:57,562 [INFO]  Epoch[4] Time cost=0.484
+2021-05-08 03:36:57,579 [INFO]  Saved checkpoint to "0/model-0004.params"
+2021-05-08 03:36:57,705 [INFO]  Epoch[4] Validation-cross-entropy=12.799793
+2021-05-08 03:36:57,705 [INFO]  Epoch[4] Validation-petal length-accuracy=0.000000
+2021-05-08 03:36:58,054 [INFO]  Epoch[5] Batch [0-4]	Speed: 231.85 samples/sec	cross-entropy=15.759538	petal length-accuracy=0.000000
+2021-05-08 03:36:58,194 [INFO]  Epoch[5] Train-cross-entropy=15.144831
+2021-05-08 03:36:58,195 [INFO]  Epoch[5] Train-petal length-accuracy=0.000000
+2021-05-08 03:36:58,195 [INFO]  Epoch[5] Time cost=0.490
+2021-05-08 03:36:58,212 [INFO]  Saved checkpoint to "0/model-0005.params"
+2021-05-08 03:36:58,340 [INFO]  Epoch[5] Validation-cross-entropy=12.661267
+2021-05-08 03:36:58,340 [INFO]  Epoch[5] Validation-petal length-accuracy=0.000000
+2021-05-08 03:36:58,686 [INFO]  Epoch[6] Batch [0-4]	Speed: 233.71 samples/sec	cross-entropy=15.590789	petal length-accuracy=0.000000
+2021-05-08 03:36:58,834 [INFO]  Epoch[6] Train-cross-entropy=14.977598
+2021-05-08 03:36:58,834 [INFO]  Epoch[6] Train-petal length-accuracy=0.000000
+2021-05-08 03:36:58,834 [INFO]  Epoch[6] Time cost=0.494
+2021-05-08 03:36:58,857 [INFO]  Saved checkpoint to "0/model-0006.params"
+2021-05-08 03:36:58,985 [INFO]  Epoch[6] Validation-cross-entropy=12.523150
+2021-05-08 03:36:58,985 [INFO]  Epoch[6] Validation-petal length-accuracy=0.000000
+2021-05-08 03:36:59,329 [INFO]  Epoch[7] Batch [0-4]	Speed: 233.75 samples/sec	cross-entropy=15.422697	petal length-accuracy=0.000000
+2021-05-08 03:36:59,476 [INFO]  Epoch[7] Train-cross-entropy=14.811097
+2021-05-08 03:36:59,476 [INFO]  Epoch[7] Train-petal length-accuracy=0.000000
+2021-05-08 03:36:59,476 [INFO]  Epoch[7] Time cost=0.491
+2021-05-08 03:36:59,494 [INFO]  Saved checkpoint to "0/model-0007.params"
+2021-05-08 03:36:59,619 [INFO]  Epoch[7] Validation-cross-entropy=12.385380
+2021-05-08 03:36:59,619 [INFO]  Epoch[7] Validation-petal length-accuracy=0.000000
+2021-05-08 03:36:59,958 [INFO]  Epoch[8] Batch [0-4]	Speed: 237.90 samples/sec	cross-entropy=15.255181	petal length-accuracy=0.000000
+2021-05-08 03:37:00,097 [INFO]  Epoch[8] Train-cross-entropy=14.645248
+2021-05-08 03:37:00,097 [INFO]  Epoch[8] Train-petal length-accuracy=0.000000
+2021-05-08 03:37:00,097 [INFO]  Epoch[8] Time cost=0.478
+2021-05-08 03:37:00,124 [INFO]  Saved checkpoint to "0/model-0008.params"
+2021-05-08 03:37:00,247 [INFO]  Epoch[8] Validation-cross-entropy=12.247929
+2021-05-08 03:37:00,248 [INFO]  Epoch[8] Validation-petal length-accuracy=0.000000
+2021-05-08 03:37:00,587 [INFO]  Epoch[9] Batch [0-4]	Speed: 237.95 samples/sec	cross-entropy=15.088192	petal length-accuracy=0.000000
+2021-05-08 03:37:00,723 [INFO]  Epoch[9] Train-cross-entropy=14.480003
+2021-05-08 03:37:00,723 [INFO]  Epoch[9] Train-petal length-accuracy=0.000000
+2021-05-08 03:37:00,723 [INFO]  Epoch[9] Time cost=0.475
+2021-05-08 03:37:00,749 [INFO]  Saved checkpoint to "0/model-0009.params"
+2021-05-08 03:37:00,875 [INFO]  Epoch[9] Validation-cross-entropy=12.110785
+2021-05-08 03:37:00,875 [INFO]  Epoch[9] Validation-petal length-accuracy=0.000000
+2021-05-08 03:37:00,875 [INFO]  
+========== done (6.584321975708008 s) fit model
+2021-05-08 04:06:49,904 [INFO]  
+========== start: fit model
+2021-05-08 04:06:49,908 [WARNING]  Already bound, ignoring bind()
+2021-05-08 04:06:50,244 [INFO]  Epoch[0] Batch [0-3]	Speed: 236.70 samples/sec	cross-entropy=15.167722	petal length-accuracy=0.000000
+2021-05-08 04:06:50,384 [INFO]  Epoch[0] Train-cross-entropy=16.937036
+2021-05-08 04:06:50,385 [INFO]  Epoch[0] Train-petal length-accuracy=0.000000
+2021-05-08 04:06:50,385 [INFO]  Epoch[0] Time cost=0.471
+2021-05-08 04:06:50,416 [INFO]  Saved checkpoint to "0/model-0000.params"
+2021-05-08 04:06:50,548 [INFO]  Epoch[0] Validation-cross-entropy=15.816572
+2021-05-08 04:06:50,548 [INFO]  Epoch[0] Validation-petal length-accuracy=0.000000
+2021-05-08 04:06:50,822 [INFO]  Epoch[1] Batch [0-3]	Speed: 237.95 samples/sec	cross-entropy=15.018562	petal length-accuracy=0.000000
+2021-05-08 04:06:50,965 [INFO]  Epoch[1] Train-cross-entropy=16.761124
+2021-05-08 04:06:50,966 [INFO]  Epoch[1] Train-petal length-accuracy=0.000000
+2021-05-08 04:06:50,966 [INFO]  Epoch[1] Time cost=0.417
+2021-05-08 04:06:50,997 [INFO]  Saved checkpoint to "0/model-0001.params"
+2021-05-08 04:06:51,143 [INFO]  Epoch[1] Validation-cross-entropy=15.658600
+2021-05-08 04:06:51,143 [INFO]  Epoch[1] Validation-petal length-accuracy=0.000000
+2021-05-08 04:06:51,418 [INFO]  Epoch[2] Batch [0-3]	Speed: 238.61 samples/sec	cross-entropy=14.879007	petal length-accuracy=0.000000
+2021-05-08 04:06:51,562 [INFO]  Epoch[2] Train-cross-entropy=16.592385
+2021-05-08 04:06:51,563 [INFO]  Epoch[2] Train-petal length-accuracy=0.000000
+2021-05-08 04:06:51,563 [INFO]  Epoch[2] Time cost=0.419
+2021-05-08 04:06:51,606 [INFO]  Saved checkpoint to "0/model-0002.params"
+2021-05-08 04:06:51,735 [INFO]  Epoch[2] Validation-cross-entropy=15.501831
+2021-05-08 04:06:51,735 [INFO]  Epoch[2] Validation-petal length-accuracy=0.000000
+2021-05-08 04:06:52,014 [INFO]  Epoch[3] Batch [0-3]	Speed: 236.64 samples/sec	cross-entropy=14.740541	petal length-accuracy=0.000000
+2021-05-08 04:06:52,154 [INFO]  Epoch[3] Train-cross-entropy=16.425013
+2021-05-08 04:06:52,154 [INFO]  Epoch[3] Train-petal length-accuracy=0.000000
+2021-05-08 04:06:52,154 [INFO]  Epoch[3] Time cost=0.419
+2021-05-08 04:06:52,195 [INFO]  Saved checkpoint to "0/model-0003.params"
+2021-05-08 04:06:52,323 [INFO]  Epoch[3] Validation-cross-entropy=15.346076
+2021-05-08 04:06:52,323 [INFO]  Epoch[3] Validation-petal length-accuracy=0.000000
+2021-05-08 04:06:52,599 [INFO]  Epoch[4] Batch [0-3]	Speed: 237.69 samples/sec	cross-entropy=14.602962	petal length-accuracy=0.000000
+2021-05-08 04:06:52,737 [INFO]  Epoch[4] Train-cross-entropy=16.258845
+2021-05-08 04:06:52,737 [INFO]  Epoch[4] Train-petal length-accuracy=0.000000
+2021-05-08 04:06:52,738 [INFO]  Epoch[4] Time cost=0.414
+2021-05-08 04:06:52,774 [INFO]  Saved checkpoint to "0/model-0004.params"
+2021-05-08 04:06:52,917 [INFO]  Epoch[4] Validation-cross-entropy=15.191229
+2021-05-08 04:06:52,917 [INFO]  Epoch[4] Validation-petal length-accuracy=0.000000
+2021-05-08 04:06:53,196 [INFO]  Epoch[5] Batch [0-3]	Speed: 237.52 samples/sec	cross-entropy=14.466165	petal length-accuracy=0.000000
+2021-05-08 04:06:53,336 [INFO]  Epoch[5] Train-cross-entropy=16.093768
+2021-05-08 04:06:53,337 [INFO]  Epoch[5] Train-petal length-accuracy=0.000000
+2021-05-08 04:06:53,337 [INFO]  Epoch[5] Time cost=0.420
+2021-05-08 04:06:53,373 [INFO]  Saved checkpoint to "0/model-0005.params"
+2021-05-08 04:06:53,504 [INFO]  Epoch[5] Validation-cross-entropy=15.037194
+2021-05-08 04:06:53,505 [INFO]  Epoch[5] Validation-petal length-accuracy=0.000000
+2021-05-08 04:06:53,780 [INFO]  Epoch[6] Batch [0-3]	Speed: 238.11 samples/sec	cross-entropy=14.330053	petal length-accuracy=0.000000
+2021-05-08 04:06:53,925 [INFO]  Epoch[6] Train-cross-entropy=15.929675
+2021-05-08 04:06:53,925 [INFO]  Epoch[6] Train-petal length-accuracy=0.000000
+2021-05-08 04:06:53,925 [INFO]  Epoch[6] Time cost=0.420
+2021-05-08 04:06:53,946 [INFO]  Saved checkpoint to "0/model-0006.params"
+2021-05-08 04:06:54,090 [INFO]  Epoch[6] Validation-cross-entropy=14.883880
+2021-05-08 04:06:54,090 [INFO]  Epoch[6] Validation-petal length-accuracy=0.000000
+2021-05-08 04:06:54,365 [INFO]  Epoch[7] Batch [0-3]	Speed: 237.56 samples/sec	cross-entropy=14.194540	petal length-accuracy=0.000000
+2021-05-08 04:06:54,506 [INFO]  Epoch[7] Train-cross-entropy=15.766472
+2021-05-08 04:06:54,507 [INFO]  Epoch[7] Train-petal length-accuracy=0.000000
+2021-05-08 04:06:54,507 [INFO]  Epoch[7] Time cost=0.417
+2021-05-08 04:06:54,538 [INFO]  Saved checkpoint to "0/model-0007.params"
+2021-05-08 04:06:54,680 [INFO]  Epoch[7] Validation-cross-entropy=14.731211
+2021-05-08 04:06:54,680 [INFO]  Epoch[7] Validation-petal length-accuracy=0.000000
+2021-05-08 04:06:54,955 [INFO]  Epoch[8] Batch [0-3]	Speed: 237.37 samples/sec	cross-entropy=14.059557	petal length-accuracy=0.000000
+2021-05-08 04:06:55,097 [INFO]  Epoch[8] Train-cross-entropy=15.604078
+2021-05-08 04:06:55,097 [INFO]  Epoch[8] Train-petal length-accuracy=0.000000
+2021-05-08 04:06:55,098 [INFO]  Epoch[8] Time cost=0.418
+2021-05-08 04:06:55,128 [INFO]  Saved checkpoint to "0/model-0008.params"
+2021-05-08 04:06:55,257 [INFO]  Epoch[8] Validation-cross-entropy=14.579130
+2021-05-08 04:06:55,257 [INFO]  Epoch[8] Validation-petal length-accuracy=0.000000
+2021-05-08 04:06:55,534 [INFO]  Epoch[9] Batch [0-3]	Speed: 237.42 samples/sec	cross-entropy=13.925050	petal length-accuracy=0.000000
+2021-05-08 04:06:55,675 [INFO]  Epoch[9] Train-cross-entropy=15.442433
+2021-05-08 04:06:55,675 [INFO]  Epoch[9] Train-petal length-accuracy=0.000000
+2021-05-08 04:06:55,675 [INFO]  Epoch[9] Time cost=0.418
+2021-05-08 04:06:55,706 [INFO]  Saved checkpoint to "0/model-0009.params"
+2021-05-08 04:06:55,837 [INFO]  Epoch[9] Validation-cross-entropy=14.427596
+2021-05-08 04:06:55,837 [INFO]  Epoch[9] Validation-petal length-accuracy=0.000000
+2021-05-08 04:06:55,837 [INFO]  
+========== done (5.93370795249939 s) fit model
+2021-05-08 04:10:06,921 [INFO]  
+========== start: fit model
+2021-05-08 04:10:06,921 [WARNING]  Already bound, ignoring bind()
+2021-05-08 04:10:07,260 [INFO]  Epoch[0] Batch [0-3]	Speed: 231.76 samples/sec	cross-entropy=15.167722	petal length-accuracy=0.000000
+2021-05-08 04:10:07,410 [INFO]  Epoch[0] Train-cross-entropy=16.937036
+2021-05-08 04:10:07,410 [INFO]  Epoch[0] Train-petal length-accuracy=0.000000
+2021-05-08 04:10:07,410 [INFO]  Epoch[0] Time cost=0.486
+2021-05-08 04:10:07,444 [INFO]  Saved checkpoint to "0/model-0000.params"
+2021-05-08 04:10:07,580 [INFO]  Epoch[0] Validation-cross-entropy=15.816572
+2021-05-08 04:10:07,581 [INFO]  Epoch[0] Validation-petal length-accuracy=0.000000
+2021-05-08 04:10:07,867 [INFO]  Epoch[1] Batch [0-3]	Speed: 230.12 samples/sec	cross-entropy=15.018562	petal length-accuracy=0.000000
+2021-05-08 04:10:08,024 [INFO]  Epoch[1] Train-cross-entropy=16.761124
+2021-05-08 04:10:08,024 [INFO]  Epoch[1] Train-petal length-accuracy=0.000000
+2021-05-08 04:10:08,024 [INFO]  Epoch[1] Time cost=0.443
+2021-05-08 04:10:08,072 [INFO]  Saved checkpoint to "0/model-0001.params"
+2021-05-08 04:10:08,202 [INFO]  Epoch[1] Validation-cross-entropy=15.658600
+2021-05-08 04:10:08,202 [INFO]  Epoch[1] Validation-petal length-accuracy=0.000000
+2021-05-08 04:10:08,488 [INFO]  Epoch[2] Batch [0-3]	Speed: 229.51 samples/sec	cross-entropy=14.879007	petal length-accuracy=0.000000
+2021-05-08 04:10:08,642 [INFO]  Epoch[2] Train-cross-entropy=16.592385
+2021-05-08 04:10:08,643 [INFO]  Epoch[2] Train-petal length-accuracy=0.000000
+2021-05-08 04:10:08,643 [INFO]  Epoch[2] Time cost=0.440
+2021-05-08 04:10:08,678 [INFO]  Saved checkpoint to "0/model-0002.params"
+2021-05-08 04:10:08,816 [INFO]  Epoch[2] Validation-cross-entropy=15.501831
+2021-05-08 04:10:08,816 [INFO]  Epoch[2] Validation-petal length-accuracy=0.000000
+2021-05-08 04:10:09,099 [INFO]  Epoch[3] Batch [0-3]	Speed: 233.15 samples/sec	cross-entropy=14.740541	petal length-accuracy=0.000000
+2021-05-08 04:10:09,245 [INFO]  Epoch[3] Train-cross-entropy=16.425013
+2021-05-08 04:10:09,245 [INFO]  Epoch[3] Train-petal length-accuracy=0.000000
+2021-05-08 04:10:09,246 [INFO]  Epoch[3] Time cost=0.430
+2021-05-08 04:10:09,275 [INFO]  Saved checkpoint to "0/model-0003.params"
+2021-05-08 04:10:09,410 [INFO]  Epoch[3] Validation-cross-entropy=15.346076
+2021-05-08 04:10:09,410 [INFO]  Epoch[3] Validation-petal length-accuracy=0.000000
+2021-05-08 04:10:09,700 [INFO]  Epoch[4] Batch [0-3]	Speed: 228.30 samples/sec	cross-entropy=14.602962	petal length-accuracy=0.000000
+2021-05-08 04:10:09,847 [INFO]  Epoch[4] Train-cross-entropy=16.258845
+2021-05-08 04:10:09,847 [INFO]  Epoch[4] Train-petal length-accuracy=0.000000
+2021-05-08 04:10:09,848 [INFO]  Epoch[4] Time cost=0.437
+2021-05-08 04:10:09,873 [INFO]  Saved checkpoint to "0/model-0004.params"
+2021-05-08 04:10:10,017 [INFO]  Epoch[4] Validation-cross-entropy=15.191229
+2021-05-08 04:10:10,017 [INFO]  Epoch[4] Validation-petal length-accuracy=0.000000
+2021-05-08 04:10:10,306 [INFO]  Epoch[5] Batch [0-3]	Speed: 229.58 samples/sec	cross-entropy=14.466165	petal length-accuracy=0.000000
+2021-05-08 04:10:10,454 [INFO]  Epoch[5] Train-cross-entropy=16.093768
+2021-05-08 04:10:10,454 [INFO]  Epoch[5] Train-petal length-accuracy=0.000000
+2021-05-08 04:10:10,455 [INFO]  Epoch[5] Time cost=0.437
+2021-05-08 04:10:10,480 [INFO]  Saved checkpoint to "0/model-0005.params"
+2021-05-08 04:10:10,623 [INFO]  Epoch[5] Validation-cross-entropy=15.037194
+2021-05-08 04:10:10,623 [INFO]  Epoch[5] Validation-petal length-accuracy=0.000000
+2021-05-08 04:10:10,912 [INFO]  Epoch[6] Batch [0-3]	Speed: 229.84 samples/sec	cross-entropy=14.330053	petal length-accuracy=0.000000
+2021-05-08 04:10:11,070 [INFO]  Epoch[6] Train-cross-entropy=15.929675
+2021-05-08 04:10:11,071 [INFO]  Epoch[6] Train-petal length-accuracy=0.000000
+2021-05-08 04:10:11,071 [INFO]  Epoch[6] Time cost=0.447
+2021-05-08 04:10:11,094 [INFO]  Saved checkpoint to "0/model-0006.params"
+2021-05-08 04:10:11,253 [INFO]  Epoch[6] Validation-cross-entropy=14.883880
+2021-05-08 04:10:11,253 [INFO]  Epoch[6] Validation-petal length-accuracy=0.000000
+2021-05-08 04:10:11,542 [INFO]  Epoch[7] Batch [0-3]	Speed: 227.88 samples/sec	cross-entropy=14.194540	petal length-accuracy=0.000000
+2021-05-08 04:10:11,689 [INFO]  Epoch[7] Train-cross-entropy=15.766472
+2021-05-08 04:10:11,689 [INFO]  Epoch[7] Train-petal length-accuracy=0.000000
+2021-05-08 04:10:11,689 [INFO]  Epoch[7] Time cost=0.436
+2021-05-08 04:10:11,713 [INFO]  Saved checkpoint to "0/model-0007.params"
+2021-05-08 04:10:11,854 [INFO]  Epoch[7] Validation-cross-entropy=14.731211
+2021-05-08 04:10:11,854 [INFO]  Epoch[7] Validation-petal length-accuracy=0.000000
+2021-05-08 04:10:12,145 [INFO]  Epoch[8] Batch [0-3]	Speed: 232.95 samples/sec	cross-entropy=14.059557	petal length-accuracy=0.000000
+2021-05-08 04:10:12,298 [INFO]  Epoch[8] Train-cross-entropy=15.604078
+2021-05-08 04:10:12,298 [INFO]  Epoch[8] Train-petal length-accuracy=0.000000
+2021-05-08 04:10:12,299 [INFO]  Epoch[8] Time cost=0.445
+2021-05-08 04:10:12,322 [INFO]  Saved checkpoint to "0/model-0008.params"
+2021-05-08 04:10:12,469 [INFO]  Epoch[8] Validation-cross-entropy=14.579130
+2021-05-08 04:10:12,470 [INFO]  Epoch[8] Validation-petal length-accuracy=0.000000
+2021-05-08 04:10:12,752 [INFO]  Epoch[9] Batch [0-3]	Speed: 234.56 samples/sec	cross-entropy=13.925050	petal length-accuracy=0.000000
+2021-05-08 04:10:12,895 [INFO]  Epoch[9] Train-cross-entropy=15.442433
+2021-05-08 04:10:12,895 [INFO]  Epoch[9] Train-petal length-accuracy=0.000000
+2021-05-08 04:10:12,896 [INFO]  Epoch[9] Time cost=0.426
+2021-05-08 04:10:12,923 [INFO]  Saved checkpoint to "0/model-0009.params"
+2021-05-08 04:10:13,072 [INFO]  Epoch[9] Validation-cross-entropy=14.427596
+2021-05-08 04:10:13,072 [INFO]  Epoch[9] Validation-petal length-accuracy=0.000000
+2021-05-08 04:10:13,072 [INFO]  
+========== done (6.151811838150024 s) fit model
+2021-05-08 04:10:48,192 [INFO]  
+========== start: fit model
+2021-05-08 04:10:48,193 [WARNING]  Already bound, ignoring bind()
+2021-05-08 04:10:48,526 [INFO]  Epoch[0] Batch [0-3]	Speed: 234.47 samples/sec	cross-entropy=15.167722	petal length-accuracy=0.000000
+2021-05-08 04:10:48,671 [INFO]  Epoch[0] Train-cross-entropy=16.937036
+2021-05-08 04:10:48,671 [INFO]  Epoch[0] Train-petal length-accuracy=0.000000
+2021-05-08 04:10:48,671 [INFO]  Epoch[0] Time cost=0.476
+2021-05-08 04:10:48,712 [INFO]  Saved checkpoint to "0/model-0000.params"
+2021-05-08 04:10:48,855 [INFO]  Epoch[0] Validation-cross-entropy=15.816572
+2021-05-08 04:10:48,855 [INFO]  Epoch[0] Validation-petal length-accuracy=0.000000
+2021-05-08 04:10:49,143 [INFO]  Epoch[1] Batch [0-3]	Speed: 232.94 samples/sec	cross-entropy=15.018562	petal length-accuracy=0.000000
+2021-05-08 04:10:49,284 [INFO]  Epoch[1] Train-cross-entropy=16.761124
+2021-05-08 04:10:49,284 [INFO]  Epoch[1] Train-petal length-accuracy=0.000000
+2021-05-08 04:10:49,284 [INFO]  Epoch[1] Time cost=0.428
+2021-05-08 04:10:49,313 [INFO]  Saved checkpoint to "0/model-0001.params"
+2021-05-08 04:10:49,452 [INFO]  Epoch[1] Validation-cross-entropy=15.658600
+2021-05-08 04:10:49,452 [INFO]  Epoch[1] Validation-petal length-accuracy=0.000000
+2021-05-08 04:10:49,731 [INFO]  Epoch[2] Batch [0-3]	Speed: 236.25 samples/sec	cross-entropy=14.879007	petal length-accuracy=0.000000
+2021-05-08 04:10:49,874 [INFO]  Epoch[2] Train-cross-entropy=16.592385
+2021-05-08 04:10:49,874 [INFO]  Epoch[2] Train-petal length-accuracy=0.000000
+2021-05-08 04:10:49,874 [INFO]  Epoch[2] Time cost=0.422
+2021-05-08 04:10:49,901 [INFO]  Saved checkpoint to "0/model-0002.params"
+2021-05-08 04:10:50,035 [INFO]  Epoch[2] Validation-cross-entropy=15.501831
+2021-05-08 04:10:50,035 [INFO]  Epoch[2] Validation-petal length-accuracy=0.000000
+2021-05-08 04:10:50,311 [INFO]  Epoch[3] Batch [0-3]	Speed: 236.41 samples/sec	cross-entropy=14.740541	petal length-accuracy=0.000000
+2021-05-08 04:10:50,451 [INFO]  Epoch[3] Train-cross-entropy=16.425013
+2021-05-08 04:10:50,451 [INFO]  Epoch[3] Train-petal length-accuracy=0.000000
+2021-05-08 04:10:50,451 [INFO]  Epoch[3] Time cost=0.416
+2021-05-08 04:10:50,481 [INFO]  Saved checkpoint to "0/model-0003.params"
+2021-05-08 04:10:50,619 [INFO]  Epoch[3] Validation-cross-entropy=15.346076
+2021-05-08 04:10:50,619 [INFO]  Epoch[3] Validation-petal length-accuracy=0.000000
+2021-05-08 04:10:50,902 [INFO]  Epoch[4] Batch [0-3]	Speed: 234.83 samples/sec	cross-entropy=14.602962	petal length-accuracy=0.000000
+2021-05-08 04:10:51,044 [INFO]  Epoch[4] Train-cross-entropy=16.258845
+2021-05-08 04:10:51,044 [INFO]  Epoch[4] Train-petal length-accuracy=0.000000
+2021-05-08 04:10:51,044 [INFO]  Epoch[4] Time cost=0.425
+2021-05-08 04:10:51,076 [INFO]  Saved checkpoint to "0/model-0004.params"
+2021-05-08 04:10:51,210 [INFO]  Epoch[4] Validation-cross-entropy=15.191229
+2021-05-08 04:10:51,210 [INFO]  Epoch[4] Validation-petal length-accuracy=0.000000
+2021-05-08 04:10:51,489 [INFO]  Epoch[5] Batch [0-3]	Speed: 236.59 samples/sec	cross-entropy=14.466165	petal length-accuracy=0.000000
+2021-05-08 04:10:51,631 [INFO]  Epoch[5] Train-cross-entropy=16.093768
+2021-05-08 04:10:51,631 [INFO]  Epoch[5] Train-petal length-accuracy=0.000000
+2021-05-08 04:10:51,631 [INFO]  Epoch[5] Time cost=0.421
+2021-05-08 04:10:51,659 [INFO]  Saved checkpoint to "0/model-0005.params"
+2021-05-08 04:10:51,795 [INFO]  Epoch[5] Validation-cross-entropy=15.037194
+2021-05-08 04:10:51,795 [INFO]  Epoch[5] Validation-petal length-accuracy=0.000000
+2021-05-08 04:10:52,073 [INFO]  Epoch[6] Batch [0-3]	Speed: 236.06 samples/sec	cross-entropy=14.330053	petal length-accuracy=0.000000
+2021-05-08 04:10:52,222 [INFO]  Epoch[6] Train-cross-entropy=15.929675
+2021-05-08 04:10:52,223 [INFO]  Epoch[6] Train-petal length-accuracy=0.000000
+2021-05-08 04:10:52,223 [INFO]  Epoch[6] Time cost=0.427
+2021-05-08 04:10:52,249 [INFO]  Saved checkpoint to "0/model-0006.params"
+2021-05-08 04:10:52,396 [INFO]  Epoch[6] Validation-cross-entropy=14.883880
+2021-05-08 04:10:52,397 [INFO]  Epoch[6] Validation-petal length-accuracy=0.000000
+2021-05-08 04:10:52,673 [INFO]  Epoch[7] Batch [0-3]	Speed: 236.26 samples/sec	cross-entropy=14.194540	petal length-accuracy=0.000000
+2021-05-08 04:10:52,814 [INFO]  Epoch[7] Train-cross-entropy=15.766472
+2021-05-08 04:10:52,815 [INFO]  Epoch[7] Train-petal length-accuracy=0.000000
+2021-05-08 04:10:52,815 [INFO]  Epoch[7] Time cost=0.418
+2021-05-08 04:10:52,844 [INFO]  Saved checkpoint to "0/model-0007.params"
+2021-05-08 04:10:52,984 [INFO]  Epoch[7] Validation-cross-entropy=14.731211
+2021-05-08 04:10:52,985 [INFO]  Epoch[7] Validation-petal length-accuracy=0.000000
+2021-05-08 04:10:53,266 [INFO]  Epoch[8] Batch [0-3]	Speed: 236.95 samples/sec	cross-entropy=14.059557	petal length-accuracy=0.000000
+2021-05-08 04:10:53,409 [INFO]  Epoch[8] Train-cross-entropy=15.604078
+2021-05-08 04:10:53,409 [INFO]  Epoch[8] Train-petal length-accuracy=0.000000
+2021-05-08 04:10:53,410 [INFO]  Epoch[8] Time cost=0.425
+2021-05-08 04:10:53,437 [INFO]  Saved checkpoint to "0/model-0008.params"
+2021-05-08 04:10:53,570 [INFO]  Epoch[8] Validation-cross-entropy=14.579130
+2021-05-08 04:10:53,570 [INFO]  Epoch[8] Validation-petal length-accuracy=0.000000
+2021-05-08 04:10:53,847 [INFO]  Epoch[9] Batch [0-3]	Speed: 235.60 samples/sec	cross-entropy=13.925050	petal length-accuracy=0.000000
+2021-05-08 04:10:53,989 [INFO]  Epoch[9] Train-cross-entropy=15.442433
+2021-05-08 04:10:53,989 [INFO]  Epoch[9] Train-petal length-accuracy=0.000000
+2021-05-08 04:10:53,989 [INFO]  Epoch[9] Time cost=0.419
+2021-05-08 04:10:54,013 [INFO]  Saved checkpoint to "0/model-0009.params"
+2021-05-08 04:10:54,155 [INFO]  Epoch[9] Validation-cross-entropy=14.427596
+2021-05-08 04:10:54,155 [INFO]  Epoch[9] Validation-petal length-accuracy=0.000000
+2021-05-08 04:10:54,155 [INFO]  
+========== done (5.963393211364746 s) fit model
+2021-05-08 04:11:11,522 [INFO]  
+========== start: fit model
+2021-05-08 04:11:11,523 [WARNING]  Already bound, ignoring bind()
+2021-05-08 04:11:11,849 [INFO]  Epoch[0] Batch [0-3]	Speed: 238.12 samples/sec	cross-entropy=15.167722	petal length-accuracy=0.000000
+2021-05-08 04:11:11,993 [INFO]  Epoch[0] Train-cross-entropy=16.937036
+2021-05-08 04:11:11,993 [INFO]  Epoch[0] Train-petal length-accuracy=0.000000
+2021-05-08 04:11:11,994 [INFO]  Epoch[0] Time cost=0.467
+2021-05-08 04:11:12,021 [INFO]  Saved checkpoint to "0/model-0000.params"
+2021-05-08 04:11:12,162 [INFO]  Epoch[0] Validation-cross-entropy=15.816572
+2021-05-08 04:11:12,163 [INFO]  Epoch[0] Validation-petal length-accuracy=0.000000
+2021-05-08 04:11:12,439 [INFO]  Epoch[1] Batch [0-3]	Speed: 238.84 samples/sec	cross-entropy=15.018562	petal length-accuracy=0.000000
+2021-05-08 04:11:12,585 [INFO]  Epoch[1] Train-cross-entropy=16.761124
+2021-05-08 04:11:12,585 [INFO]  Epoch[1] Train-petal length-accuracy=0.000000
+2021-05-08 04:11:12,585 [INFO]  Epoch[1] Time cost=0.423
+2021-05-08 04:11:12,613 [INFO]  Saved checkpoint to "0/model-0001.params"
+2021-05-08 04:11:12,752 [INFO]  Epoch[1] Validation-cross-entropy=15.658600
+2021-05-08 04:11:12,752 [INFO]  Epoch[1] Validation-petal length-accuracy=0.000000
+2021-05-08 04:11:13,030 [INFO]  Epoch[2] Batch [0-3]	Speed: 235.94 samples/sec	cross-entropy=14.879007	petal length-accuracy=0.000000
+2021-05-08 04:11:13,171 [INFO]  Epoch[2] Train-cross-entropy=16.592385
+2021-05-08 04:11:13,171 [INFO]  Epoch[2] Train-petal length-accuracy=0.000000
+2021-05-08 04:11:13,171 [INFO]  Epoch[2] Time cost=0.418
+2021-05-08 04:11:13,198 [INFO]  Saved checkpoint to "0/model-0002.params"
+2021-05-08 04:11:13,341 [INFO]  Epoch[2] Validation-cross-entropy=15.501831
+2021-05-08 04:11:13,342 [INFO]  Epoch[2] Validation-petal length-accuracy=0.000000
+2021-05-08 04:11:13,618 [INFO]  Epoch[3] Batch [0-3]	Speed: 238.07 samples/sec	cross-entropy=14.740541	petal length-accuracy=0.000000
+2021-05-08 04:11:13,760 [INFO]  Epoch[3] Train-cross-entropy=16.425013
+2021-05-08 04:11:13,761 [INFO]  Epoch[3] Train-petal length-accuracy=0.000000
+2021-05-08 04:11:13,761 [INFO]  Epoch[3] Time cost=0.419
+2021-05-08 04:11:13,787 [INFO]  Saved checkpoint to "0/model-0003.params"
+2021-05-08 04:11:13,935 [INFO]  Epoch[3] Validation-cross-entropy=15.346076
+2021-05-08 04:11:13,935 [INFO]  Epoch[3] Validation-petal length-accuracy=0.000000
+2021-05-08 04:11:14,213 [INFO]  Epoch[4] Batch [0-3]	Speed: 236.89 samples/sec	cross-entropy=14.602962	petal length-accuracy=0.000000
+2021-05-08 04:11:14,355 [INFO]  Epoch[4] Train-cross-entropy=16.258845
+2021-05-08 04:11:14,355 [INFO]  Epoch[4] Train-petal length-accuracy=0.000000
+2021-05-08 04:11:14,355 [INFO]  Epoch[4] Time cost=0.420
+2021-05-08 04:11:14,386 [INFO]  Saved checkpoint to "0/model-0004.params"
+2021-05-08 04:11:14,520 [INFO]  Epoch[4] Validation-cross-entropy=15.191229
+2021-05-08 04:11:14,520 [INFO]  Epoch[4] Validation-petal length-accuracy=0.000000
+2021-05-08 04:11:14,797 [INFO]  Epoch[5] Batch [0-3]	Speed: 238.31 samples/sec	cross-entropy=14.466165	petal length-accuracy=0.000000
+2021-05-08 04:11:14,941 [INFO]  Epoch[5] Train-cross-entropy=16.093768
+2021-05-08 04:11:14,941 [INFO]  Epoch[5] Train-petal length-accuracy=0.000000
+2021-05-08 04:11:14,942 [INFO]  Epoch[5] Time cost=0.421
+2021-05-08 04:11:14,963 [INFO]  Saved checkpoint to "0/model-0005.params"
+2021-05-08 04:11:15,113 [INFO]  Epoch[5] Validation-cross-entropy=15.037194
+2021-05-08 04:11:15,113 [INFO]  Epoch[5] Validation-petal length-accuracy=0.000000
+2021-05-08 04:11:15,396 [INFO]  Epoch[6] Batch [0-3]	Speed: 236.04 samples/sec	cross-entropy=14.330053	petal length-accuracy=0.000000
+2021-05-08 04:11:15,540 [INFO]  Epoch[6] Train-cross-entropy=15.929675
+2021-05-08 04:11:15,540 [INFO]  Epoch[6] Train-petal length-accuracy=0.000000
+2021-05-08 04:11:15,540 [INFO]  Epoch[6] Time cost=0.426
+2021-05-08 04:11:15,562 [INFO]  Saved checkpoint to "0/model-0006.params"
+2021-05-08 04:11:15,708 [INFO]  Epoch[6] Validation-cross-entropy=14.883880
+2021-05-08 04:11:15,708 [INFO]  Epoch[6] Validation-petal length-accuracy=0.000000
+2021-05-08 04:11:15,986 [INFO]  Epoch[7] Batch [0-3]	Speed: 236.54 samples/sec	cross-entropy=14.194540	petal length-accuracy=0.000000
+2021-05-08 04:11:16,127 [INFO]  Epoch[7] Train-cross-entropy=15.766472
+2021-05-08 04:11:16,128 [INFO]  Epoch[7] Train-petal length-accuracy=0.000000
+2021-05-08 04:11:16,128 [INFO]  Epoch[7] Time cost=0.419
+2021-05-08 04:11:16,154 [INFO]  Saved checkpoint to "0/model-0007.params"
+2021-05-08 04:11:16,293 [INFO]  Epoch[7] Validation-cross-entropy=14.731211
+2021-05-08 04:11:16,293 [INFO]  Epoch[7] Validation-petal length-accuracy=0.000000
+2021-05-08 04:11:16,572 [INFO]  Epoch[8] Batch [0-3]	Speed: 235.28 samples/sec	cross-entropy=14.059557	petal length-accuracy=0.000000
+2021-05-08 04:11:16,718 [INFO]  Epoch[8] Train-cross-entropy=15.604078
+2021-05-08 04:11:16,718 [INFO]  Epoch[8] Train-petal length-accuracy=0.000000
+2021-05-08 04:11:16,719 [INFO]  Epoch[8] Time cost=0.425
+2021-05-08 04:11:16,740 [INFO]  Saved checkpoint to "0/model-0008.params"
+2021-05-08 04:11:16,876 [INFO]  Epoch[8] Validation-cross-entropy=14.579130
+2021-05-08 04:11:16,876 [INFO]  Epoch[8] Validation-petal length-accuracy=0.000000
+2021-05-08 04:11:17,162 [INFO]  Epoch[9] Batch [0-3]	Speed: 229.56 samples/sec	cross-entropy=13.925050	petal length-accuracy=0.000000
+2021-05-08 04:11:17,308 [INFO]  Epoch[9] Train-cross-entropy=15.442433
+2021-05-08 04:11:17,308 [INFO]  Epoch[9] Train-petal length-accuracy=0.000000
+2021-05-08 04:11:17,308 [INFO]  Epoch[9] Time cost=0.432
+2021-05-08 04:11:17,332 [INFO]  Saved checkpoint to "0/model-0009.params"
+2021-05-08 04:11:17,472 [INFO]  Epoch[9] Validation-cross-entropy=14.427596
+2021-05-08 04:11:17,472 [INFO]  Epoch[9] Validation-petal length-accuracy=0.000000
+2021-05-08 04:11:17,472 [INFO]  
+========== done (5.949788808822632 s) fit model
+2021-05-08 04:12:36,439 [INFO]  
+========== start: fit model
+2021-05-08 04:12:36,440 [WARNING]  Already bound, ignoring bind()
+2021-05-08 04:12:36,770 [INFO]  Epoch[0] Batch [0-3]	Speed: 227.28 samples/sec	cross-entropy=15.167722	petal length-accuracy=0.000000
+2021-05-08 04:12:36,912 [INFO]  Epoch[0] Train-cross-entropy=16.937036
+2021-05-08 04:12:36,912 [INFO]  Epoch[0] Train-petal length-accuracy=0.000000
+2021-05-08 04:12:36,912 [INFO]  Epoch[0] Time cost=0.470
+2021-05-08 04:12:36,937 [INFO]  Saved checkpoint to "0/model-0000.params"
+2021-05-08 04:12:37,084 [INFO]  Epoch[0] Validation-cross-entropy=15.816572
+2021-05-08 04:12:37,084 [INFO]  Epoch[0] Validation-petal length-accuracy=0.000000
+2021-05-08 04:12:37,366 [INFO]  Epoch[1] Batch [0-3]	Speed: 236.96 samples/sec	cross-entropy=15.018562	petal length-accuracy=0.000000
+2021-05-08 04:12:37,528 [INFO]  Epoch[1] Train-cross-entropy=16.761124
+2021-05-08 04:12:37,528 [INFO]  Epoch[1] Train-petal length-accuracy=0.000000
+2021-05-08 04:12:37,528 [INFO]  Epoch[1] Time cost=0.444
+2021-05-08 04:12:37,558 [INFO]  Saved checkpoint to "0/model-0001.params"
+2021-05-08 04:12:37,704 [INFO]  Epoch[1] Validation-cross-entropy=15.658600
+2021-05-08 04:12:37,704 [INFO]  Epoch[1] Validation-petal length-accuracy=0.000000
+2021-05-08 04:12:37,989 [INFO]  Epoch[2] Batch [0-3]	Speed: 235.72 samples/sec	cross-entropy=14.879007	petal length-accuracy=0.000000
+2021-05-08 04:12:38,150 [INFO]  Epoch[2] Train-cross-entropy=16.592385
+2021-05-08 04:12:38,150 [INFO]  Epoch[2] Train-petal length-accuracy=0.000000
+2021-05-08 04:12:38,150 [INFO]  Epoch[2] Time cost=0.446
+2021-05-08 04:12:38,179 [INFO]  Saved checkpoint to "0/model-0002.params"
+2021-05-08 04:12:38,327 [INFO]  Epoch[2] Validation-cross-entropy=15.501831
+2021-05-08 04:12:38,328 [INFO]  Epoch[2] Validation-petal length-accuracy=0.000000
+2021-05-08 04:12:38,612 [INFO]  Epoch[3] Batch [0-3]	Speed: 232.43 samples/sec	cross-entropy=14.740541	petal length-accuracy=0.000000
+2021-05-08 04:12:38,777 [INFO]  Epoch[3] Train-cross-entropy=16.425013
+2021-05-08 04:12:38,777 [INFO]  Epoch[3] Train-petal length-accuracy=0.000000
+2021-05-08 04:12:38,777 [INFO]  Epoch[3] Time cost=0.449
+2021-05-08 04:12:38,809 [INFO]  Saved checkpoint to "0/model-0003.params"
+2021-05-08 04:12:38,948 [INFO]  Epoch[3] Validation-cross-entropy=15.346076
+2021-05-08 04:12:38,948 [INFO]  Epoch[3] Validation-petal length-accuracy=0.000000
+2021-05-08 04:12:39,228 [INFO]  Epoch[4] Batch [0-3]	Speed: 235.42 samples/sec	cross-entropy=14.602962	petal length-accuracy=0.000000
+2021-05-08 04:12:39,374 [INFO]  Epoch[4] Train-cross-entropy=16.258845
+2021-05-08 04:12:39,374 [INFO]  Epoch[4] Train-petal length-accuracy=0.000000
+2021-05-08 04:12:39,374 [INFO]  Epoch[4] Time cost=0.426
+2021-05-08 04:12:39,408 [INFO]  Saved checkpoint to "0/model-0004.params"
+2021-05-08 04:12:39,563 [INFO]  Epoch[4] Validation-cross-entropy=15.191229
+2021-05-08 04:12:39,563 [INFO]  Epoch[4] Validation-petal length-accuracy=0.000000
+2021-05-08 04:12:39,852 [INFO]  Epoch[5] Batch [0-3]	Speed: 232.45 samples/sec	cross-entropy=14.466165	petal length-accuracy=0.000000
+2021-05-08 04:12:40,000 [INFO]  Epoch[5] Train-cross-entropy=16.093768
+2021-05-08 04:12:40,001 [INFO]  Epoch[5] Train-petal length-accuracy=0.000000
+2021-05-08 04:12:40,001 [INFO]  Epoch[5] Time cost=0.438
+2021-05-08 04:12:40,026 [INFO]  Saved checkpoint to "0/model-0005.params"
+2021-05-08 04:12:40,168 [INFO]  Epoch[5] Validation-cross-entropy=15.037194
+2021-05-08 04:12:40,169 [INFO]  Epoch[5] Validation-petal length-accuracy=0.000000
+2021-05-08 04:12:40,465 [INFO]  Epoch[6] Batch [0-3]	Speed: 229.88 samples/sec	cross-entropy=14.330053	petal length-accuracy=0.000000
+2021-05-08 04:12:40,616 [INFO]  Epoch[6] Train-cross-entropy=15.929675
+2021-05-08 04:12:40,617 [INFO]  Epoch[6] Train-petal length-accuracy=0.000000
+2021-05-08 04:12:40,617 [INFO]  Epoch[6] Time cost=0.448
+2021-05-08 04:12:40,653 [INFO]  Saved checkpoint to "0/model-0006.params"
+2021-05-08 04:12:40,787 [INFO]  Epoch[6] Validation-cross-entropy=14.883880
+2021-05-08 04:12:40,787 [INFO]  Epoch[6] Validation-petal length-accuracy=0.000000
+2021-05-08 04:12:41,073 [INFO]  Epoch[7] Batch [0-3]	Speed: 230.40 samples/sec	cross-entropy=14.194540	petal length-accuracy=0.000000
+2021-05-08 04:12:41,220 [INFO]  Epoch[7] Train-cross-entropy=15.766472
+2021-05-08 04:12:41,220 [INFO]  Epoch[7] Train-petal length-accuracy=0.000000
+2021-05-08 04:12:41,221 [INFO]  Epoch[7] Time cost=0.433
+2021-05-08 04:12:41,245 [INFO]  Saved checkpoint to "0/model-0007.params"
+2021-05-08 04:12:41,390 [INFO]  Epoch[7] Validation-cross-entropy=14.731211
+2021-05-08 04:12:41,391 [INFO]  Epoch[7] Validation-petal length-accuracy=0.000000
+2021-05-08 04:12:41,671 [INFO]  Epoch[8] Batch [0-3]	Speed: 233.76 samples/sec	cross-entropy=14.059557	petal length-accuracy=0.000000
+2021-05-08 04:12:41,829 [INFO]  Epoch[8] Train-cross-entropy=15.604078
+2021-05-08 04:12:41,829 [INFO]  Epoch[8] Train-petal length-accuracy=0.000000
+2021-05-08 04:12:41,829 [INFO]  Epoch[8] Time cost=0.438
+2021-05-08 04:12:41,858 [INFO]  Saved checkpoint to "0/model-0008.params"
+2021-05-08 04:12:42,006 [INFO]  Epoch[8] Validation-cross-entropy=14.579130
+2021-05-08 04:12:42,006 [INFO]  Epoch[8] Validation-petal length-accuracy=0.000000
+2021-05-08 04:12:42,287 [INFO]  Epoch[9] Batch [0-3]	Speed: 236.04 samples/sec	cross-entropy=13.925050	petal length-accuracy=0.000000
+2021-05-08 04:12:42,435 [INFO]  Epoch[9] Train-cross-entropy=15.442433
+2021-05-08 04:12:42,435 [INFO]  Epoch[9] Train-petal length-accuracy=0.000000
+2021-05-08 04:12:42,435 [INFO]  Epoch[9] Time cost=0.429
+2021-05-08 04:12:42,456 [INFO]  Saved checkpoint to "0/model-0009.params"
+2021-05-08 04:12:42,613 [INFO]  Epoch[9] Validation-cross-entropy=14.427596
+2021-05-08 04:12:42,613 [INFO]  Epoch[9] Validation-petal length-accuracy=0.000000
+2021-05-08 04:12:42,613 [INFO]  
+========== done (6.173869848251343 s) fit model
+2021-05-08 04:14:05,028 [INFO]  
+========== start: fit model
+2021-05-08 04:14:05,028 [WARNING]  Already bound, ignoring bind()
+2021-05-08 04:14:05,354 [INFO]  Epoch[0] Batch [0-3]	Speed: 234.04 samples/sec	cross-entropy=15.167722	petal length-accuracy=0.000000
+2021-05-08 04:14:05,500 [INFO]  Epoch[0] Train-cross-entropy=16.937036
+2021-05-08 04:14:05,500 [INFO]  Epoch[0] Train-petal length-accuracy=0.000000
+2021-05-08 04:14:05,501 [INFO]  Epoch[0] Time cost=0.471
+2021-05-08 04:14:05,530 [INFO]  Saved checkpoint to "0/model-0000.params"
+2021-05-08 04:14:05,671 [INFO]  Epoch[0] Validation-cross-entropy=15.816572
+2021-05-08 04:14:05,671 [INFO]  Epoch[0] Validation-petal length-accuracy=0.000000
+2021-05-08 04:14:05,962 [INFO]  Epoch[1] Batch [0-3]	Speed: 230.84 samples/sec	cross-entropy=15.018562	petal length-accuracy=0.000000
+2021-05-08 04:14:06,107 [INFO]  Epoch[1] Train-cross-entropy=16.761124
+2021-05-08 04:14:06,107 [INFO]  Epoch[1] Train-petal length-accuracy=0.000000
+2021-05-08 04:14:06,108 [INFO]  Epoch[1] Time cost=0.436
+2021-05-08 04:14:06,136 [INFO]  Saved checkpoint to "0/model-0001.params"
+2021-05-08 04:14:06,280 [INFO]  Epoch[1] Validation-cross-entropy=15.658600
+2021-05-08 04:14:06,281 [INFO]  Epoch[1] Validation-petal length-accuracy=0.000000
+2021-05-08 04:14:06,563 [INFO]  Epoch[2] Batch [0-3]	Speed: 231.74 samples/sec	cross-entropy=14.879007	petal length-accuracy=0.000000
+2021-05-08 04:14:06,708 [INFO]  Epoch[2] Train-cross-entropy=16.592385
+2021-05-08 04:14:06,708 [INFO]  Epoch[2] Train-petal length-accuracy=0.000000
+2021-05-08 04:14:06,708 [INFO]  Epoch[2] Time cost=0.427
+2021-05-08 04:14:06,738 [INFO]  Saved checkpoint to "0/model-0002.params"
+2021-05-08 04:14:06,892 [INFO]  Epoch[2] Validation-cross-entropy=15.501831
+2021-05-08 04:14:06,892 [INFO]  Epoch[2] Validation-petal length-accuracy=0.000000
+2021-05-08 04:14:07,191 [INFO]  Epoch[3] Batch [0-3]	Speed: 215.68 samples/sec	cross-entropy=14.740541	petal length-accuracy=0.000000
+2021-05-08 04:14:07,340 [INFO]  Epoch[3] Train-cross-entropy=16.425013
+2021-05-08 04:14:07,340 [INFO]  Epoch[3] Train-petal length-accuracy=0.000000
+2021-05-08 04:14:07,340 [INFO]  Epoch[3] Time cost=0.448
+2021-05-08 04:14:07,370 [INFO]  Saved checkpoint to "0/model-0003.params"
+2021-05-08 04:14:07,522 [INFO]  Epoch[3] Validation-cross-entropy=15.346076
+2021-05-08 04:14:07,522 [INFO]  Epoch[3] Validation-petal length-accuracy=0.000000
+2021-05-08 04:14:07,827 [INFO]  Epoch[4] Batch [0-3]	Speed: 223.07 samples/sec	cross-entropy=14.602962	petal length-accuracy=0.000000
+2021-05-08 04:14:07,973 [INFO]  Epoch[4] Train-cross-entropy=16.258845
+2021-05-08 04:14:07,973 [INFO]  Epoch[4] Train-petal length-accuracy=0.000000
+2021-05-08 04:14:07,974 [INFO]  Epoch[4] Time cost=0.452
+2021-05-08 04:14:08,003 [INFO]  Saved checkpoint to "0/model-0004.params"
+2021-05-08 04:14:08,154 [INFO]  Epoch[4] Validation-cross-entropy=15.191229
+2021-05-08 04:14:08,154 [INFO]  Epoch[4] Validation-petal length-accuracy=0.000000
+2021-05-08 04:14:08,452 [INFO]  Epoch[5] Batch [0-3]	Speed: 221.05 samples/sec	cross-entropy=14.466165	petal length-accuracy=0.000000
+2021-05-08 04:14:08,606 [INFO]  Epoch[5] Train-cross-entropy=16.093768
+2021-05-08 04:14:08,606 [INFO]  Epoch[5] Train-petal length-accuracy=0.000000
+2021-05-08 04:14:08,606 [INFO]  Epoch[5] Time cost=0.452
+2021-05-08 04:14:08,635 [INFO]  Saved checkpoint to "0/model-0005.params"
+2021-05-08 04:14:08,771 [INFO]  Epoch[5] Validation-cross-entropy=15.037194
+2021-05-08 04:14:08,771 [INFO]  Epoch[5] Validation-petal length-accuracy=0.000000
+2021-05-08 04:14:09,071 [INFO]  Epoch[6] Batch [0-3]	Speed: 219.78 samples/sec	cross-entropy=14.330053	petal length-accuracy=0.000000
+2021-05-08 04:14:09,220 [INFO]  Epoch[6] Train-cross-entropy=15.929675
+2021-05-08 04:14:09,220 [INFO]  Epoch[6] Train-petal length-accuracy=0.000000
+2021-05-08 04:14:09,220 [INFO]  Epoch[6] Time cost=0.449
+2021-05-08 04:14:09,249 [INFO]  Saved checkpoint to "0/model-0006.params"
+2021-05-08 04:14:09,394 [INFO]  Epoch[6] Validation-cross-entropy=14.883880
+2021-05-08 04:14:09,395 [INFO]  Epoch[6] Validation-petal length-accuracy=0.000000
+2021-05-08 04:14:09,689 [INFO]  Epoch[7] Batch [0-3]	Speed: 230.91 samples/sec	cross-entropy=14.194540	petal length-accuracy=0.000000
+2021-05-08 04:14:09,834 [INFO]  Epoch[7] Train-cross-entropy=15.766472
+2021-05-08 04:14:09,834 [INFO]  Epoch[7] Train-petal length-accuracy=0.000000
+2021-05-08 04:14:09,834 [INFO]  Epoch[7] Time cost=0.440
+2021-05-08 04:14:09,867 [INFO]  Saved checkpoint to "0/model-0007.params"
+2021-05-08 04:14:10,010 [INFO]  Epoch[7] Validation-cross-entropy=14.731211
+2021-05-08 04:14:10,011 [INFO]  Epoch[7] Validation-petal length-accuracy=0.000000
+2021-05-08 04:14:10,312 [INFO]  Epoch[8] Batch [0-3]	Speed: 219.85 samples/sec	cross-entropy=14.059557	petal length-accuracy=0.000000
+2021-05-08 04:14:10,459 [INFO]  Epoch[8] Train-cross-entropy=15.604078
+2021-05-08 04:14:10,460 [INFO]  Epoch[8] Train-petal length-accuracy=0.000000
+2021-05-08 04:14:10,460 [INFO]  Epoch[8] Time cost=0.449
+2021-05-08 04:14:10,486 [INFO]  Saved checkpoint to "0/model-0008.params"
+2021-05-08 04:14:10,629 [INFO]  Epoch[8] Validation-cross-entropy=14.579130
+2021-05-08 04:14:10,629 [INFO]  Epoch[8] Validation-petal length-accuracy=0.000000
+2021-05-08 04:14:10,928 [INFO]  Epoch[9] Batch [0-3]	Speed: 225.99 samples/sec	cross-entropy=13.925050	petal length-accuracy=0.000000
+2021-05-08 04:14:11,073 [INFO]  Epoch[9] Train-cross-entropy=15.442433
+2021-05-08 04:14:11,073 [INFO]  Epoch[9] Train-petal length-accuracy=0.000000
+2021-05-08 04:14:11,073 [INFO]  Epoch[9] Time cost=0.444
+2021-05-08 04:14:11,090 [INFO]  Saved checkpoint to "0/model-0009.params"
+2021-05-08 04:14:11,238 [INFO]  Epoch[9] Validation-cross-entropy=14.427596
+2021-05-08 04:14:11,238 [INFO]  Epoch[9] Validation-petal length-accuracy=0.000000
+2021-05-08 04:14:11,239 [INFO]  
+========== done (6.210994243621826 s) fit model
+2021-05-08 04:14:23,371 [INFO]  
+========== start: fit model
+2021-05-08 04:14:23,372 [WARNING]  Already bound, ignoring bind()
+2021-05-08 04:14:23,687 [INFO]  Epoch[0] Batch [0-3]	Speed: 236.42 samples/sec	cross-entropy=15.167722	petal length-accuracy=0.000000
+2021-05-08 04:14:23,829 [INFO]  Epoch[0] Train-cross-entropy=16.937036
+2021-05-08 04:14:23,830 [INFO]  Epoch[0] Train-petal length-accuracy=0.000000
+2021-05-08 04:14:23,830 [INFO]  Epoch[0] Time cost=0.455
+2021-05-08 04:14:23,863 [INFO]  Saved checkpoint to "0/model-0000.params"
+2021-05-08 04:14:23,999 [INFO]  Epoch[0] Validation-cross-entropy=15.816572
+2021-05-08 04:14:23,999 [INFO]  Epoch[0] Validation-petal length-accuracy=0.000000
+2021-05-08 04:14:24,287 [INFO]  Epoch[1] Batch [0-3]	Speed: 229.43 samples/sec	cross-entropy=15.018562	petal length-accuracy=0.000000
+2021-05-08 04:14:24,437 [INFO]  Epoch[1] Train-cross-entropy=16.761124
+2021-05-08 04:14:24,437 [INFO]  Epoch[1] Train-petal length-accuracy=0.000000
+2021-05-08 04:14:24,437 [INFO]  Epoch[1] Time cost=0.438
+2021-05-08 04:14:24,470 [INFO]  Saved checkpoint to "0/model-0001.params"
+2021-05-08 04:14:24,605 [INFO]  Epoch[1] Validation-cross-entropy=15.658600
+2021-05-08 04:14:24,605 [INFO]  Epoch[1] Validation-petal length-accuracy=0.000000
+2021-05-08 04:14:24,892 [INFO]  Epoch[2] Batch [0-3]	Speed: 227.40 samples/sec	cross-entropy=14.879007	petal length-accuracy=0.000000
+2021-05-08 04:14:25,035 [INFO]  Epoch[2] Train-cross-entropy=16.592385
+2021-05-08 04:14:25,035 [INFO]  Epoch[2] Train-petal length-accuracy=0.000000
+2021-05-08 04:14:25,035 [INFO]  Epoch[2] Time cost=0.430
+2021-05-08 04:14:25,063 [INFO]  Saved checkpoint to "0/model-0002.params"
+2021-05-08 04:14:25,207 [INFO]  Epoch[2] Validation-cross-entropy=15.501831
+2021-05-08 04:14:25,207 [INFO]  Epoch[2] Validation-petal length-accuracy=0.000000
+2021-05-08 04:14:25,487 [INFO]  Epoch[3] Batch [0-3]	Speed: 236.20 samples/sec	cross-entropy=14.740541	petal length-accuracy=0.000000
+2021-05-08 04:14:25,638 [INFO]  Epoch[3] Train-cross-entropy=16.425013
+2021-05-08 04:14:25,638 [INFO]  Epoch[3] Train-petal length-accuracy=0.000000
+2021-05-08 04:14:25,638 [INFO]  Epoch[3] Time cost=0.431
+2021-05-08 04:14:25,670 [INFO]  Saved checkpoint to "0/model-0003.params"
+2021-05-08 04:14:25,805 [INFO]  Epoch[3] Validation-cross-entropy=15.346076
+2021-05-08 04:14:25,805 [INFO]  Epoch[3] Validation-petal length-accuracy=0.000000
+2021-05-08 04:14:26,082 [INFO]  Epoch[4] Batch [0-3]	Speed: 236.95 samples/sec	cross-entropy=14.602962	petal length-accuracy=0.000000
+2021-05-08 04:14:26,241 [INFO]  Epoch[4] Train-cross-entropy=16.258845
+2021-05-08 04:14:26,241 [INFO]  Epoch[4] Train-petal length-accuracy=0.000000
+2021-05-08 04:14:26,241 [INFO]  Epoch[4] Time cost=0.436
+2021-05-08 04:14:26,269 [INFO]  Saved checkpoint to "0/model-0004.params"
+2021-05-08 04:14:26,403 [INFO]  Epoch[4] Validation-cross-entropy=15.191229
+2021-05-08 04:14:26,403 [INFO]  Epoch[4] Validation-petal length-accuracy=0.000000
+2021-05-08 04:14:26,717 [INFO]  Epoch[5] Batch [0-3]	Speed: 201.63 samples/sec	cross-entropy=14.466165	petal length-accuracy=0.000000
+2021-05-08 04:14:26,929 [INFO]  Epoch[5] Train-cross-entropy=16.093768
+2021-05-08 04:14:26,930 [INFO]  Epoch[5] Train-petal length-accuracy=0.000000
+2021-05-08 04:14:26,930 [INFO]  Epoch[5] Time cost=0.526
+2021-05-08 04:14:26,964 [INFO]  Saved checkpoint to "0/model-0005.params"
+2021-05-08 04:14:27,107 [INFO]  Epoch[5] Validation-cross-entropy=15.037194
+2021-05-08 04:14:27,107 [INFO]  Epoch[5] Validation-petal length-accuracy=0.000000
+2021-05-08 04:14:27,404 [INFO]  Epoch[6] Batch [0-3]	Speed: 222.40 samples/sec	cross-entropy=14.330053	petal length-accuracy=0.000000
+2021-05-08 04:14:27,552 [INFO]  Epoch[6] Train-cross-entropy=15.929675
+2021-05-08 04:14:27,552 [INFO]  Epoch[6] Train-petal length-accuracy=0.000000
+2021-05-08 04:14:27,552 [INFO]  Epoch[6] Time cost=0.445
+2021-05-08 04:14:27,584 [INFO]  Saved checkpoint to "0/model-0006.params"
+2021-05-08 04:14:27,737 [INFO]  Epoch[6] Validation-cross-entropy=14.883880
+2021-05-08 04:14:27,737 [INFO]  Epoch[6] Validation-petal length-accuracy=0.000000
+2021-05-08 04:14:28,035 [INFO]  Epoch[7] Batch [0-3]	Speed: 230.09 samples/sec	cross-entropy=14.194540	petal length-accuracy=0.000000
+2021-05-08 04:14:28,189 [INFO]  Epoch[7] Train-cross-entropy=15.766472
+2021-05-08 04:14:28,189 [INFO]  Epoch[7] Train-petal length-accuracy=0.000000
+2021-05-08 04:14:28,189 [INFO]  Epoch[7] Time cost=0.452
+2021-05-08 04:14:28,220 [INFO]  Saved checkpoint to "0/model-0007.params"
+2021-05-08 04:14:28,360 [INFO]  Epoch[7] Validation-cross-entropy=14.731211
+2021-05-08 04:14:28,360 [INFO]  Epoch[7] Validation-petal length-accuracy=0.000000
+2021-05-08 04:14:28,646 [INFO]  Epoch[8] Batch [0-3]	Speed: 236.14 samples/sec	cross-entropy=14.059557	petal length-accuracy=0.000000
+2021-05-08 04:14:28,798 [INFO]  Epoch[8] Train-cross-entropy=15.604078
+2021-05-08 04:14:28,798 [INFO]  Epoch[8] Train-petal length-accuracy=0.000000
+2021-05-08 04:14:28,799 [INFO]  Epoch[8] Time cost=0.438
+2021-05-08 04:14:28,832 [INFO]  Saved checkpoint to "0/model-0008.params"
+2021-05-08 04:14:28,972 [INFO]  Epoch[8] Validation-cross-entropy=14.579130
+2021-05-08 04:14:28,973 [INFO]  Epoch[8] Validation-petal length-accuracy=0.000000
+2021-05-08 04:14:29,274 [INFO]  Epoch[9] Batch [0-3]	Speed: 213.57 samples/sec	cross-entropy=13.925050	petal length-accuracy=0.000000
+2021-05-08 04:14:29,424 [INFO]  Epoch[9] Train-cross-entropy=15.442433
+2021-05-08 04:14:29,424 [INFO]  Epoch[9] Train-petal length-accuracy=0.000000
+2021-05-08 04:14:29,424 [INFO]  Epoch[9] Time cost=0.451
+2021-05-08 04:14:29,458 [INFO]  Saved checkpoint to "0/model-0009.params"
+2021-05-08 04:14:29,604 [INFO]  Epoch[9] Validation-cross-entropy=14.427596
+2021-05-08 04:14:29,604 [INFO]  Epoch[9] Validation-petal length-accuracy=0.000000
+2021-05-08 04:14:29,604 [INFO]  
+========== done (6.23265814781189 s) fit model
