@@ -1,4 +1,4 @@
-
+from src.model.decisionTree import DecisionTree
 
 all_model_names = ["decisionTree"]
 
@@ -7,9 +7,7 @@ def build_imputation_model(params):
     """
     Build imputation model.
     """
-    if params.imputation_only:
-        from .decisionTree import build_decision_tree
-        return build_decision_tree()
+    pass
 
 
 def get_all_model():
@@ -22,5 +20,5 @@ def get_all_model():
 
 def get_model(name):
     if name == "decisionTree":
-        from.decisionTree import build_decision_tree
-        return build_decision_tree()
+        dt = DecisionTree()
+        return dt
