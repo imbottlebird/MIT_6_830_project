@@ -59,8 +59,11 @@ def main():
 
     if uploaded_file:
         data_load_state = st.text('Loading Data...')
-        df = getDataFromCSV(uploaded_file).copy()
+        df = pd.read_csv(uploaded_file)
+        #df = getDataFromCSV(uploaded_file).copy()
         data_load_state.text("Data loaded successfully!")
+        st.dataframe(df)
+
 
         if not df.empty:
             st.title("Data Preparation")
