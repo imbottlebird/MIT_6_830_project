@@ -56,4 +56,4 @@ import streamlit as st
 
 ### Screenshot of demo
 
-<img width="350" src="demo.png">
+<img width="400" src="demo.png">
