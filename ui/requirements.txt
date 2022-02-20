@@ -1,8 +1,8 @@
 awesome-streamlit==20200728.1
 matplotlib==3.3.1
-#numpy==1.19.0
+numpy
 minepy
-#pandas==1.1.4
+pandas
 plotly==4.12.0
 ppscore==1.1.1
 scikit-learn==0.23.2
